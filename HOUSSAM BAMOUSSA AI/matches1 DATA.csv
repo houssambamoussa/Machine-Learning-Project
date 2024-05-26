@@ -1,0 +1,1057 @@
+date,time,comp,round,day,venue,result,gf,ga,opponent,poss,attendance,captain,formation,referee,match report,notes,sh,sot,dist,pk,pkatt,season,team
+2023-08-14,18:00,Pro League,Matchweek 1,Mon,Away,W,3.0,1.0,Abha,72.0,7079.0,Abdullah Al-Mayouf,4-2-3-1,Radu Petrescu,Match Report,,26,8,,0,0,2024,Al Hilal
+2023-08-19,21:00,Pro League,Matchweek 2,Sat,Home,D,1.0,1.0,Al-Fayha,76.0,59600.0,Abdullah Al-Mayouf,4-2-3-1,Yael Falcón,Match Report,,20,8,,0,0,2024,Al Hilal
+2023-08-24,21:00,Pro League,Matchweek 3,Thu,Away,W,4.0,0.0,Al-Raed,60.0,20630.0,Salem Al-Dawsari,4-2-3-1,César Arturo Ramos,Match Report,,20,10,,1,1,2024,Al Hilal
+2023-08-28,21:00,Pro League,Matchweek 4,Mon,Home,W,2.0,0.0,Al-Ettifaq,64.0,13656.0,Salem Al-Dawsari,4-2-3-1,Ramon Abatti,Match Report,,21,6,,0,0,2024,Al Hilal
+2023-09-01,21:00,Pro League,Matchweek 5,Fri,Away,W,4.0,3.0,Al-Ittihad,56.0,23742.0,Salem Al-Dawsari,4-2-3-1,Mario Escobar,Match Report,,14,7,,1,1,2024,Al Hilal
+2023-09-15,21:00,Pro League,Matchweek 6,Fri,Home,W,6.0,1.0,Al-Riyadh SC,67.0,15373.0,Salem Al-Dawsari,4-2-3-1,Tamás Bognár,Match Report,,31,12,,2,2,2024,Al Hilal
+2023-09-21,18:00,Pro League,Matchweek 7,Thu,Away,D,1.0,1.0,Damac,55.0,11072.0,Salem Al-Dawsari,4-2-3-1,István Kovács,Match Report,,10,2,,0,0,2024,Al Hilal
+2023-09-29,21:00,Pro League,Matchweek 8,Fri,Home,W,2.0,0.0,Al-Shabab,49.0,,Salem Al-Dawsari,4-2-3-1,Iván Barton,Match Report,,23,8,,0,1,2024,Al Hilal
+2023-10-07,18:00,Pro League,Matchweek 9,Sat,Away,W,3.0,0.0,Al Okhdood SC,73.0,,Salem Al-Dawsari,4-2-3-1,Halil Umut Meler,Match Report,,22,10,,0,1,2024,Al Hilal
+2023-10-20,21:00,Pro League,Matchweek 10,Fri,Home,W,1.0,0.0,Al-Khaleej,66.0,,Salem Al-Dawsari,4-2-3-1,Darío Herrera,Match Report,,20,6,,0,0,2024,Al Hilal
+2023-10-27,21:00,Pro League,Matchweek 11,Fri,Home,W,3.0,1.0,Al-Ahli,50.0,50986.0,Salem Al-Dawsari,4-2-3-1,Yael Falcón,Match Report,,12,5,,0,1,2024,Al Hilal
+2023-11-03,18:00,Pro League,Matchweek 12,Fri,Away,W,2.0,0.0,Al-Fateh,48.0,,Salem Al-Dawsari,4-2-3-1,Said Martínez,Match Report,,12,7,,1,1,2024,Al Hilal
+2023-11-10,18:00,Pro League,Matchweek 13,Fri,Home,W,2.0,0.0,Al-Taawoun,64.0,,Salem Al-Dawsari,4-2-3-1,Iván Barton,Match Report,,14,5,,0,0,2024,Al Hilal
+2023-11-25,18:00,Pro League,Matchweek 14,Sat,Away,W,9.0,0.0,Al-Hazem,69.0,,Mohammed Al-Breik,4-2-3-1,Fabio Maresca,Match Report,,23,15,,0,0,2024,Al Hilal
+2023-12-01,21:00,Pro League,Matchweek 15,Fri,Home,W,3.0,0.0,Al-Nassr,36.0,,Salem Al-Dawsari,4-2-3-1,Wilmar Roldán,Match Report,,17,6,,0,0,2024,Al Hilal
+2023-12-08,18:00,Pro League,Matchweek 16,Fri,Away,W,2.0,1.0,Al-Ta'ee,66.0,,Salman Al-Faraj,4-2-3-1,Alexis Herrera,Match Report,,14,5,,1,1,2024,Al Hilal
+2023-12-15,18:00,Pro League,Matchweek 17,Fri,Home,W,2.0,0.0,Al-Wehda,71.0,,Salem Al-Dawsari,4-2-3-1,Ismail Elfath,Match Report,,18,7,,0,0,2024,Al Hilal
+2023-12-21,21:00,Pro League,Matchweek 18,Thu,Home,W,7.0,0.0,Abha,66.0,,Salem Al-Dawsari,4-2-3-1,Bastian Dankert,Match Report,,21,9,,1,1,2024,Al Hilal
+2023-12-29,18:00,Pro League,Matchweek 19,Fri,Away,W,2.0,0.0,Al-Fayha,73.0,,Salem Al-Dawsari,4-2-3-1,Mario Escobar,Match Report,,14,6,,1,1,2024,Al Hilal
+2024-02-18,17:00,Pro League,Matchweek 20,Sun,Home,W,3.0,1.0,Al-Raed,74.0,,Salem Al-Dawsari,4-2-3-1,Andris Treimanis,Match Report,,17,6,,1,1,2024,Al Hilal
+2024-02-26,17:00,Pro League,Matchweek 21,Mon,Away,W,2.0,0.0,Al-Ettifaq,61.0,,Salman Al-Faraj,4-2-3-1,Fabio Maresca,Match Report,,10,5,,0,0,2024,Al Hilal
+2024-03-01,20:00,Pro League,Matchweek 22,Fri,Home,W,3.0,1.0,Al-Ittihad,67.0,,Salem Al-Dawsari,4-2-3-1,Iván Barton,Match Report,,16,9,,0,0,2024,Al Hilal
+2024-03-08,17:00,Pro League,Matchweek 23,Fri,Away,W,3.0,1.0,Al-Riyadh SC,76.0,,Salman Al-Faraj,4-2-3-1,Wilton Pereira Sampaio,Match Report,,23,10,,2,3,2024,Al Hilal
+2024-03-16,22:00,Pro League,Matchweek 24,Sat,Home,W,2.0,1.0,Damac,64.0,,Salem Al-Dawsari,4-2-3-1,Adonai Escobedo,Match Report,,18,7,,0,0,2024,Al Hilal
+2024-03-30,22:00,Pro League,Matchweek 25,Sat,Away,W,4.0,3.0,Al-Shabab,57.0,,Salem Al-Dawsari,4-2-3-1,Mario Escobar,Match Report,,13,7,,1,1,2024,Al Hilal
+2024-04-02,22:00,Pro League,Matchweek 26,Tue,Home,W,3.0,0.0,Al Okhdood SC,73.0,,Salem Al-Dawsari,4-2-3-1,Bastian Dankert,Match Report,,14,9,,0,0,2024,Al Hilal
+2024-04-05,22:00,Pro League,Matchweek 27,Fri,Away,W,4.0,1.0,Al-Khaleej,64.0,,Salem Al-Dawsari,4-2-3-1,Harm Osmers,Match Report,,22,7,,1,1,2024,Al Hilal
+2024-04-26,18:00,Pro League,Matchweek 29,Fri,Home,W,3.0,1.0,Al-Fateh,58.0,,Salman Al-Faraj,4-1-4-1,Tasos Sidiropoulos,Match Report,,19,6,,1,1,2024,Al Hilal
+2024-05-03,18:00,Pro League,Matchweek 30,Fri,Away,W,3.0,0.0,Al-Taawoun,59.0,,Mohammed Al-Breik,4-2-3-1,Sascha Stegemann,Match Report,,11,5,,0,0,2024,Al Hilal
+2024-05-06,21:00,Pro League,Matchweek 28,Mon,Away,W,2.0,1.0,Al-Ahli,53.0,,Ali Al-Bulaihi,3-4-3,Ricardo de Burgos,Match Report,,18,5,,0,0,2024,Al Hilal
+2024-05-11,18:00,Pro League,Matchweek 31,Sat,Home,W,4.0,1.0,Al-Hazem,72.0,,Yasser Al-Shahrani,4-2-3-1,Urs Schnyder,Match Report,,13,6,,1,1,2024,Al Hilal
+2024-05-17,21:00,Pro League,Matchweek 32,Fri,Away,D,1.0,1.0,Al-Nassr,65.0,20368.0,Mohammed Al-Breik,4-2-3-1,José Sánchez,Match Report,,15,3,,1,1,2024,Al Hilal
+2023-08-14,21:00,Pro League,Matchweek 1,Mon,Away,L,1.0,2.0,Al-Ettifaq,59.0,13930.0,Sadio Mané,4-1-4-1,Mohammed Khaled Al Hoish,Match Report,,10,2,,0,0,2024,Al Nassr
+2023-08-18,21:00,Pro League,Matchweek 2,Fri,Home,L,0.0,2.0,Al-Taawoun,61.0,20096.0,Cristiano Ronaldo,4-1-4-1,Khalid Saleh Al Turais,Match Report,,24,5,,0,0,2024,Al Nassr
+2023-08-25,21:00,Pro League,Matchweek 3,Fri,Away,W,5.0,0.0,Al-Fateh,68.0,13544.0,Cristiano Ronaldo,4-2-3-1,Abdullah Saleh Al Harbi,Match Report,,24,7,,0,0,2024,Al Nassr
+2023-08-29,21:00,Pro League,Matchweek 4,Tue,Home,W,4.0,0.0,Al-Shabab,55.0,21383.0,Cristiano Ronaldo,4-2-3-1,Ismail Elfath,Match Report,,16,10,,2,3,2024,Al Nassr
+2023-09-02,21:00,Pro League,Matchweek 5,Sat,Away,W,5.0,1.0,Al-Hazem,69.0,12297.0,Cristiano Ronaldo,4-2-3-1,Darío Herrera,Match Report,,19,10,,0,0,2024,Al Nassr
+2023-09-16,18:00,Pro League,Matchweek 6,Sat,Away,W,3.0,1.0,Al-Raed,63.0,19710.0,Cristiano Ronaldo,4-2-3-1,Wilmar Roldán,Match Report,,16,7,,0,0,2024,Al Nassr
+2023-09-22,21:00,Pro League,Matchweek 7,Fri,Home,W,4.0,3.0,Al-Ahli,60.0,23524.0,Cristiano Ronaldo,4-2-3-1,Anderson Daronco,Match Report,,14,7,,0,0,2024,Al Nassr
+2023-09-29,18:00,Pro League,Matchweek 8,Fri,Away,W,2.0,1.0,Al-Ta'ee,58.0,10898.0,Cristiano Ronaldo,4-2-3-1,Matt Conger,Match Report,,19,6,,1,1,2024,Al Nassr
+2023-10-06,18:00,Pro League,Matchweek 9,Fri,Home,D,2.0,2.0,Abha,60.0,,Cristiano Ronaldo,4-2-3-1,Mario Escobar,Match Report,,25,6,,0,0,2024,Al Nassr
+2023-10-21,18:00,Pro League,Matchweek 10,Sat,Home,W,2.0,1.0,Damac,59.0,,Cristiano Ronaldo,4-2-3-1,Said Martínez,Match Report,,12,2,,0,0,2024,Al Nassr
+2023-10-28,18:00,Pro League,Matchweek 11,Sat,Away,W,3.0,1.0,Al-Fayha,63.0,5400.0,Cristiano Ronaldo,4-2-3-1,Tasos Sidiropoulos,Match Report,,19,7,,0,0,2024,Al Nassr
+2023-11-04,21:00,Pro League,Matchweek 12,Sat,Home,W,2.0,0.0,Al-Khaleej,71.0,,Cristiano Ronaldo,4-2-3-1,Guillermo Guerrero,Match Report,,8,4,,0,0,2024,Al Nassr
+2023-11-11,21:00,Pro League,Matchweek 13,Sat,Away,W,3.0,1.0,Al-Wehda,60.0,,Cristiano Ronaldo,4-2-3-1,Fernando Guerrero,Match Report,,15,9,,0,0,2024,Al Nassr
+2023-11-24,21:00,Pro League,Matchweek 14,Fri,Home,W,3.0,0.0,Al Okhdood SC,70.0,,Cristiano Ronaldo,4-2-3-1,Faisal Suleiman Al Balawi,Match Report,,17,7,,0,0,2024,Al Nassr
+2023-12-01,21:00,Pro League,Matchweek 15,Fri,Away,L,0.0,3.0,Al-Hilal,64.0,,Cristiano Ronaldo,4-2-3-1,Wilmar Roldán,Match Report,,13,3,,0,0,2024,Al Nassr
+2023-12-08,21:00,Pro League,Matchweek 16,Fri,Home,W,4.0,1.0,Al-Riyadh SC,67.0,,Cristiano Ronaldo,4-2-3-1,Majed Mohammed Al Shamrani,Match Report,,22,8,,0,0,2024,Al Nassr
+2023-12-22,18:00,Pro League,Matchweek 18,Fri,Home,W,3.0,1.0,Al-Ettifaq,66.0,,Cristiano Ronaldo,4-2-3-1,Khalid Saleh Al Turais,Match Report,,20,11,,1,1,2024,Al Nassr
+2023-12-26,21:00,Pro League,Matchweek 17,Tue,Away,W,5.0,2.0,Al-Ittihad,60.0,,Cristiano Ronaldo,4-2-3-1,Tasos Sidiropoulos,Match Report,,16,8,,2,2,2024,Al Nassr
+2023-12-30,21:00,Pro League,Matchweek 19,Sat,Away,W,4.0,1.0,Al-Taawoun,55.0,,Cristiano Ronaldo,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,20,6,,0,0,2024,Al Nassr
+2024-02-17,20:00,Pro League,Matchweek 20,Sat,Home,W,2.0,1.0,Al-Fateh,66.0,,Cristiano Ronaldo,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,24,9,,0,0,2024,Al Nassr
+2024-02-25,20:00,Pro League,Matchweek 21,Sun,Away,W,3.0,2.0,Al-Shabab,46.0,,Cristiano Ronaldo,4-2-3-1,Tamás Bognár,Match Report,,12,6,,1,1,2024,Al Nassr
+2024-02-29,20:00,Pro League,Matchweek 22,Thu,Home,D,4.0,4.0,Al-Hazem,69.0,,Waleed Abdullah,4-2-3-1,Shukri Hussein Al Hunfush,Match Report,,26,9,,2,2,2024,Al Nassr
+2024-03-07,20:00,Pro League,Matchweek 23,Thu,Home,L,1.0,3.0,Al-Raed,72.0,,Cristiano Ronaldo,4-2-3-1,Abdullah Khaled Al Kharboush,Match Report,,16,3,,0,0,2024,Al Nassr
+2024-03-15,22:00,Pro League,Matchweek 24,Fri,Away,W,1.0,0.0,Al-Ahli,60.0,,Cristiano Ronaldo,4-2-3-1,Facundo Tello,Match Report,,4,1,,1,1,2024,Al Nassr
+2024-03-30,22:00,Pro League,Matchweek 25,Sat,Home,W,5.0,1.0,Al-Ta'ee,69.0,,Cristiano Ronaldo,4-2-3-1,Abdullah Saleh Al Harbi,Match Report,,21,9,,0,0,2024,Al Nassr
+2024-04-02,22:00,Pro League,Matchweek 26,Tue,Away,W,8.0,0.0,Abha,67.0,,Cristiano Ronaldo,4-2-3-1,Ahmed Mohammed Al Rumaikhani,Match Report,,20,13,,0,0,2024,Al Nassr
+2024-04-05,22:00,Pro League,Matchweek 27,Fri,Away,W,1.0,0.0,Damac,65.0,,Sami Al-Najei,4-2-3-1,Abdulsamad Ali Bakri,Match Report,,12,3,,0,0,2024,Al Nassr
+2024-04-19,18:00,Pro League,Matchweek 28,Fri,Home,W,3.0,1.0,Al-Fayha,64.0,,Sultan Al-Ghanam,3-4-3,Mohammed Saif Al Harbi,Match Report,,28,12,,0,1,2024,Al Nassr
+2024-04-27,21:00,Pro League,Matchweek 29,Sat,Away,W,1.0,0.0,Al-Khaleej,57.0,,Cristiano Ronaldo,3-4-3,Abdullah Khaled Al Kharboush,Match Report,,8,4,,0,0,2024,Al Nassr
+2024-05-04,21:00,Pro League,Matchweek 30,Sat,Home,W,6.0,0.0,Al-Wehda,65.0,,Cristiano Ronaldo,4-2-3-1,Sultan Sanat Al Harbi,Match Report,,14,7,,0,0,2024,Al Nassr
+2024-05-09,21:00,Pro League,Matchweek 31,Thu,Away,W,3.0,2.0,Al Okhdood SC,69.0,,Cristiano Ronaldo,4-1-4-1,Faisal Suleiman Al Balawi,Match Report,,9,4,,0,0,2024,Al Nassr
+2024-05-17,21:00,Pro League,Matchweek 32,Fri,Home,D,1.0,1.0,Al-Hilal,35.0,20368.0,Cristiano Ronaldo,4-1-4-1,José Sánchez,Match Report,,9,3,,0,0,2024,Al Nassr
+2023-08-11,21:00,Pro League,Matchweek 1,Fri,Home,W,3.0,1.0,Al-Hazem,59.0,24006.0,Roberto Firmino,4-2-3-1,Khalid Saleh Al Turais,Match Report,,15,7,,0,0,2024,Al Ahli
+2023-08-17,21:00,Pro League,Matchweek 2,Thu,Away,W,3.0,1.0,Al-Khaleej,52.0,14550.0,Franck Kessié,4-2-3-1,Majed Mohammed Al Shamrani,Match Report,,9,4,,0,0,2024,Al Ahli
+2023-08-24,21:00,Pro League,Matchweek 3,Thu,Home,W,1.0,0.0,Al Okhdood SC,67.0,23100.0,Roberto Firmino,4-1-4-1,Mohammed Khaled Al Hoish,Match Report,,14,1,,0,0,2024,Al Ahli
+2023-08-29,21:00,Pro League,Matchweek 4,Tue,Home,W,2.0,0.0,Al-Ta'ee,60.0,21530.0,Roberto Firmino,4-2-3-1,Fedayi San,Match Report,,23,9,,0,0,2024,Al Ahli
+2023-09-02,21:00,Pro League,Matchweek 5,Sat,Away,L,1.0,5.0,Al-Fateh,62.0,11715.0,Roberto Firmino,4-2-3-1,Fabio Verssimo,Match Report,,15,8,,0,0,2024,Al Ahli
+2023-09-16,21:00,Pro League,Matchweek 6,Sat,Home,W,3.0,2.0,Al-Taawoun,45.0,16175.0,Roberto Firmino,4-2-3-1,Andrés Matonte,Match Report,,10,5,,0,0,2024,Al Ahli
+2023-09-22,21:00,Pro League,Matchweek 7,Fri,Away,L,3.0,4.0,Al-Nassr,40.0,23524.0,Roberto Firmino,4-2-3-1,Anderson Daronco,Match Report,,18,8,,1,1,2024,Al Ahli
+2023-09-30,21:00,Pro League,Matchweek 8,Sat,Home,D,0.0,0.0,Al-Ettifaq,49.0,14045.0,Roberto Firmino,4-2-3-1,Irfan Peljto,Match Report,,15,3,,0,0,2024,Al Ahli
+2023-10-06,21:00,Pro League,Matchweek 9,Fri,Away,W,1.0,0.0,Al-Ittihad,38.0,,Roberto Firmino,4-1-4-1,Danny Makkelie,Match Report,,5,2,,0,0,2024,Al Ahli
+2023-10-21,21:00,Pro League,Matchweek 10,Sat,Home,W,3.0,1.0,Al-Wehda,57.0,,Roberto Firmino,4-2-3-1,Jesús Valenzuela,Match Report,,17,7,,0,0,2024,Al Ahli
+2023-10-27,21:00,Pro League,Matchweek 11,Fri,Away,L,1.0,3.0,Al-Hilal,50.0,50986.0,Roberto Firmino,4-2-3-1,Yael Falcón,Match Report,,12,3,,0,0,2024,Al Ahli
+2023-11-05,21:00,Pro League,Matchweek 12,Sun,Home,W,3.0,0.0,Al-Riyadh SC,60.0,,Franck Kessié,4-2-3-1,Ramon Abatti,Match Report,,11,8,,0,0,2024,Al Ahli
+2023-11-09,21:00,Pro League,Matchweek 13,Thu,Away,D,2.0,2.0,Damac,51.0,,Franck Kessié,4-2-3-1,Leandro Rey Hilfer,Match Report,,9,6,,0,0,2024,Al Ahli
+2023-11-25,21:00,Pro League,Matchweek 14,Sat,Home,D,0.0,0.0,Al-Shabab,52.0,,Franck Kessié,4-2-3-1,Mario Escobar,Match Report,,17,7,,0,0,2024,Al Ahli
+2023-11-30,18:00,Pro League,Matchweek 15,Thu,Away,W,6.0,0.0,Abha,56.0,,Franck Kessié,4-2-3-1,Sergey Karasev,Match Report,,16,10,,0,0,2024,Al Ahli
+2023-12-09,18:00,Pro League,Matchweek 16,Sat,Home,D,0.0,0.0,Al-Raed,71.0,,Franck Kessié,4-2-3-1,Kirill Levnikov,Match Report,,22,4,,0,0,2024,Al Ahli
+2023-12-14,21:00,Pro League,Matchweek 17,Thu,Away,W,4.0,0.0,Al-Fayha,57.0,,Franck Kessié,4-2-3-1,Guillermo Guerrero,Match Report,,16,8,,1,1,2024,Al Ahli
+2023-12-22,18:00,Pro League,Matchweek 18,Fri,Away,W,4.0,0.0,Al-Hazem,60.0,,Franck Kessié,4-2-3-1,Juan Gabriel Benítez,Match Report,,19,12,,0,0,2024,Al Ahli
+2023-12-29,21:00,Pro League,Matchweek 19,Fri,Home,W,1.0,0.0,Al-Khaleej,60.0,,Franck Kessié,4-2-3-1,István Kovács,Match Report,,15,6,,1,1,2024,Al Ahli
+2024-02-16,20:00,Pro League,Matchweek 20,Fri,Away,L,2.0,3.0,Al Okhdood SC,71.0,,Roberto Firmino,4-2-3-1,Kirill Levnikov,Match Report,,14,6,,1,1,2024,Al Ahli
+2024-02-24,17:00,Pro League,Matchweek 21,Sat,Away,W,4.0,1.0,Al-Ta'ee,56.0,,Roberto Firmino,4-2-3-1,Mohammed Al Hakim,Match Report,,20,8,,0,0,2024,Al Ahli
+2024-03-02,20:00,Pro League,Matchweek 22,Sat,Home,D,1.0,1.0,Al-Fateh,49.0,,Roberto Firmino,4-2-3-1,Majed Mohammed Al Shamrani,Match Report,,12,3,,0,0,2024,Al Ahli
+2024-03-09,20:00,Pro League,Matchweek 23,Sat,Away,W,1.0,0.0,Al-Taawoun,51.0,,Roberto Firmino,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,6,1,,0,0,2024,Al Ahli
+2024-03-15,22:00,Pro League,Matchweek 24,Fri,Home,L,0.0,1.0,Al-Nassr,40.0,,Roberto Firmino,4-2-3-1,Facundo Tello,Match Report,,10,3,,0,0,2024,Al Ahli
+2024-03-29,22:00,Pro League,Matchweek 25,Fri,Away,D,2.0,2.0,Al-Ettifaq,55.0,,Roberto Firmino,4-2-3-1,Faisal Suleiman Al Balawi,Match Report,,15,4,,0,0,2024,Al Ahli
+2024-04-01,22:00,Pro League,Matchweek 26,Mon,Home,W,1.0,0.0,Al-Ittihad,54.0,,Roberto Firmino,4-2-3-1,Rade Obrenović,Match Report,,8,2,,0,0,2024,Al Ahli
+2024-04-05,22:00,Pro League,Matchweek 27,Fri,Away,D,1.0,1.0,Al-Wehda,73.0,,Roberto Firmino,4-1-4-1,Mohammed Khaled Al Hoish,Match Report,,22,11,,0,0,2024,Al Ahli
+2024-04-25,21:00,Pro League,Matchweek 29,Thu,Away,L,1.0,2.0,Al-Riyadh SC,67.0,,Roberto Firmino,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,17,6,,0,0,2024,Al Ahli
+2024-05-02,21:00,Pro League,Matchweek 30,Thu,Home,W,4.0,1.0,Damac,54.0,,Roberto Firmino,4-2-3-1,Abdullah Fahad Al Owaidan,Match Report,,10,5,,1,1,2024,Al Ahli
+2024-05-06,21:00,Pro League,Matchweek 28,Mon,Home,L,1.0,2.0,Al-Hilal,47.0,,Roberto Firmino,4-2-3-1,Ricardo de Burgos,Match Report,,13,3,,0,0,2024,Al Ahli
+2024-05-11,21:00,Pro League,Matchweek 31,Sat,Away,W,2.0,1.0,Al-Shabab,55.0,,Roberto Firmino,4-2-3-1,Sergey Karasev,Match Report,,7,3,,0,0,2024,Al Ahli
+2024-05-18,21:00,Pro League,Matchweek 32,Sat,Home,W,5.0,1.0,Abha,76.0,,Roberto Firmino,4-2-3-1,Tamás Bognár,Match Report,,25,12,,0,0,2024,Al Ahli
+2023-08-13,21:00,Pro League,Matchweek 1,Sun,Away,D,1.0,1.0,Al-Fateh,52.0,5242.0,Hassan Kadesh,4-1-4-1,Sami Ahmed Al Jurays,Match Report,,20,7,,0,0,2024,Al Taawoun
+2023-08-18,21:00,Pro League,Matchweek 2,Fri,Away,W,2.0,0.0,Al-Nassr,39.0,20096.0,Hassan Kadesh,3-5-2,Khalid Saleh Al Turais,Match Report,,8,6,,0,0,2024,Al Taawoun
+2023-08-25,21:00,Pro League,Matchweek 3,Fri,Home,W,1.0,0.0,Abha,64.0,4434.0,Hassan Kadesh,4-1-4-1,Abdullah Khaled Al Kharboush,Match Report,,19,6,,0,0,2024,Al Taawoun
+2023-08-29,18:00,Pro League,Matchweek 4,Tue,Away,W,1.0,0.0,Al Okhdood SC,63.0,1520.0,Hassan Kadesh,4-1-4-1,Mamdouh Mufreh Al Shahdan,Match Report,,17,6,,0,1,2024,Al Taawoun
+2023-09-02,21:00,Pro League,Matchweek 5,Sat,Home,W,4.0,1.0,Al-Wehda,62.0,4197.0,Aschraf El Mahdioui,4-1-4-1,Abdullah Dhafer Al Shehri,Match Report,,14,6,,0,0,2024,Al Taawoun
+2023-09-16,21:00,Pro League,Matchweek 6,Sat,Away,L,2.0,3.0,Al-Ahli,55.0,16175.0,Aschraf El Mahdioui,4-1-4-1,Andrés Matonte,Match Report,,12,5,,0,0,2024,Al Taawoun
+2023-09-21,18:00,Pro League,Matchweek 7,Thu,Home,W,2.0,1.0,Al-Raed,41.0,8079.0,Awn Al Saluli,3-4-3,Mohammed Khaled Al Hoish,Match Report,,13,5,,0,0,2024,Al Taawoun
+2023-09-29,18:00,Pro League,Matchweek 8,Fri,Away,W,3.0,1.0,Al-Hazem,63.0,959.0,Aschraf El Mahdioui,4-1-4-1,Faisal Suleiman Al Balawi,Match Report,,18,11,,0,0,2024,Al Taawoun
+2023-10-05,18:00,Pro League,Matchweek 9,Thu,Home,W,3.0,0.0,Al-Ta'ee,49.0,,Aschraf El Mahdioui,4-1-4-1,Sami Ahmed Al Jurays,Match Report,,15,7,,0,0,2024,Al Taawoun
+2023-10-20,18:00,Pro League,Matchweek 10,Fri,Home,D,1.0,1.0,Al-Ittihad,49.0,9487.0,Aschraf El Mahdioui,4-1-4-1,Georgi Kabakov,Match Report,,15,3,,0,0,2024,Al Taawoun
+2023-10-26,18:00,Pro League,Matchweek 11,Thu,Away,D,1.0,1.0,Al-Khaleej,57.0,,Aschraf El Mahdioui,4-1-4-1,Mamdouh Mufreh Al Shahdan,Match Report,,16,4,,0,0,2024,Al Taawoun
+2023-11-05,18:00,Pro League,Matchweek 12,Sun,Home,D,0.0,0.0,Damac,64.0,,Aschraf El Mahdioui,4-1-4-1,Abdulsamad Ali Bakri,Match Report,,17,4,,0,0,2024,Al Taawoun
+2023-11-10,18:00,Pro League,Matchweek 13,Fri,Away,L,0.0,2.0,Al-Hilal,36.0,,Aschraf El Mahdioui,5-3-2,Iván Barton,Match Report,,8,2,,0,0,2024,Al Taawoun
+2023-11-24,18:00,Pro League,Matchweek 14,Fri,Home,L,1.0,2.0,Al-Riyadh SC,53.0,,Aschraf El Mahdioui,4-1-4-1,Shukri Hussein Al Hunfush,Match Report,,22,6,,0,1,2024,Al Taawoun
+2023-12-02,21:00,Pro League,Matchweek 15,Sat,Away,W,2.0,1.0,Al-Shabab,52.0,,Aschraf El Mahdioui,4-1-4-1,Tasos Sidiropoulos,Match Report,,19,4,,0,0,2024,Al Taawoun
+2023-12-08,18:00,Pro League,Matchweek 16,Fri,Home,W,4.0,1.0,Al-Fayha,63.0,,Aschraf El Mahdioui,4-1-4-1,Sami Ahmed Al Jurays,Match Report,,11,9,,1,1,2024,Al Taawoun
+2023-12-16,21:00,Pro League,Matchweek 17,Sat,Away,W,2.0,0.0,Al-Ettifaq,58.0,,Aschraf El Mahdioui,4-1-4-1,Shukri Hussein Al Hunfush,Match Report,,11,5,,1,1,2024,Al Taawoun
+2023-12-23,18:00,Pro League,Matchweek 18,Sat,Home,L,1.0,3.0,Al-Fateh,67.0,,Aschraf El Mahdioui,4-1-4-1,Abdullah Dhafer Al Shehri,Match Report,,21,7,,0,1,2024,Al Taawoun
+2023-12-30,21:00,Pro League,Matchweek 19,Sat,Home,L,1.0,4.0,Al-Nassr,45.0,,Aschraf El Mahdioui,4-1-4-1,Mohammed Khaled Al Hoish,Match Report,,13,8,,0,0,2024,Al Taawoun
+2024-02-15,17:00,Pro League,Matchweek 20,Thu,Away,D,1.0,1.0,Abha,62.0,,Aschraf El Mahdioui,4-2-2-2,Faisal Suleiman Al Balawi,Match Report,,16,5,,0,0,2024,Al Taawoun
+2024-02-23,17:00,Pro League,Matchweek 21,Fri,Home,W,3.0,1.0,Al Okhdood SC,61.0,,Aschraf El Mahdioui,4-1-4-1,Sebastían Zunino,Match Report,,12,7,,0,0,2024,Al Taawoun
+2024-02-29,17:00,Pro League,Matchweek 22,Thu,Away,D,3.0,3.0,Al-Wehda,59.0,,Aschraf El Mahdioui,4-1-4-1,Freeh Khalifa Al Jaloud,Match Report,,17,9,,0,0,2024,Al Taawoun
+2024-03-09,20:00,Pro League,Matchweek 23,Sat,Home,L,0.0,1.0,Al-Ahli,49.0,,Aschraf El Mahdioui,5-4-1,Sami Ahmed Al Jurays,Match Report,,14,2,,0,0,2024,Al Taawoun
+2024-03-16,22:00,Pro League,Matchweek 24,Sat,Away,D,0.0,0.0,Al-Raed,66.0,,Aschraf El Mahdioui,4-1-4-1,Faisal Suleiman Al Balawi,Match Report,,14,2,,0,0,2024,Al Taawoun
+2024-03-29,22:00,Pro League,Matchweek 25,Fri,Home,W,4.0,0.0,Al-Hazem,59.0,,Aschraf El Mahdioui,4-2-3-1,Abdulsamad Ali Bakri,Match Report,,22,8,,0,0,2024,Al Taawoun
+2024-04-02,22:00,Pro League,Matchweek 26,Tue,Away,W,3.0,2.0,Al-Ta'ee,61.0,,Aschraf El Mahdioui,4-2-3-1,Abdullah Khaled Al Kharboush,Match Report,,28,8,,0,0,2024,Al Taawoun
+2024-04-05,22:00,Pro League,Matchweek 27,Fri,Away,D,0.0,0.0,Al-Ittihad,49.0,,Aschraf El Mahdioui,4-2-3-1,César Soto,Match Report,,6,2,,0,0,2024,Al Taawoun
+2024-04-18,18:00,Pro League,Matchweek 28,Thu,Home,D,1.0,1.0,Al-Khaleej,50.0,,Aschraf El Mahdioui,4-2-3-1,Raed Ali Al Zahrani,Match Report,,9,4,,0,0,2024,Al Taawoun
+2024-04-26,18:00,Pro League,Matchweek 29,Fri,Away,W,1.0,0.0,Damac,47.0,,Aschraf El Mahdioui,4-1-4-1,Shukri Hussein Al Hunfush,Match Report,,5,3,,0,0,2024,Al Taawoun
+2024-05-03,18:00,Pro League,Matchweek 30,Fri,Home,L,0.0,3.0,Al-Hilal,41.0,,Aschraf El Mahdioui,5-3-2,Sascha Stegemann,Match Report,,5,1,,0,0,2024,Al Taawoun
+2024-05-09,18:00,Pro League,Matchweek 31,Thu,Away,D,0.0,0.0,Al-Riyadh SC,57.0,,Aschraf El Mahdioui,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,14,4,,0,0,2024,Al Taawoun
+2024-05-18,19:20,Pro League,Matchweek 32,Sat,Home,W,1.0,0.0,Al-Shabab,36.0,,Aschraf El Mahdioui,4-1-4-1,Tamás Bognár,Match Report,,13,4,,1,1,2024,Al Taawoun
+2023-08-14,18:00,Pro League,Matchweek 1,Mon,Away,W,3.0,0.0,Al-Raed,67.0,4149.0,Romarinho,4-2-2-2,Luís Godinho,Match Report,,18,9,,0,0,2024,Al Ittihad
+2023-08-19,21:00,Pro League,Matchweek 2,Sat,Home,W,2.0,0.0,Al-Ta'ee,56.0,21460.0,Romarinho,4-2-2-2,César Arturo Ramos,Match Report,,14,8,,0,0,2024,Al Ittihad
+2023-08-24,21:00,Pro League,Matchweek 3,Thu,Away,W,4.0,0.0,Al-Riyadh SC,58.0,8618.0,Karim Benzema,4-2-2-2,Iván Barton,Match Report,,17,8,,1,1,2024,Al Ittihad
+2023-08-28,21:00,Pro League,Matchweek 4,Mon,Away,W,3.0,0.0,Al-Wehda,54.0,9500.0,Karim Benzema,4-2-2-2,Facundo Tello,Match Report,,10,5,,0,0,2024,Al Ittihad
+2023-09-01,21:00,Pro League,Matchweek 5,Fri,Home,L,3.0,4.0,Al-Hilal,44.0,23742.0,Karim Benzema,4-2-2-2,Mario Escobar,Match Report,,16,9,,0,0,2024,Al Ittihad
+2023-09-14,18:00,Pro League,Matchweek 6,Thu,Away,W,1.0,0.0,Al Okhdood SC,62.0,6971.0,Karim Benzema,3-4-3,Piero Maza,Match Report,,10,5,,0,0,2024,Al Ittihad
+2023-09-21,21:00,Pro League,Matchweek 7,Thu,Home,W,2.0,1.0,Al-Fateh,58.0,15209.0,Ahmed Sharahili,3-4-3,Daniele Orsato,Match Report,,16,4,,0,0,2024,Al Ittihad
+2023-09-29,18:00,Pro League,Matchweek 8,Fri,Away,D,0.0,0.0,Al-Fayha,66.0,10081.0,Fabinho,3-3-2-2,Bastian Dankert,Match Report,,11,5,,0,0,2024,Al Ittihad
+2023-10-06,21:00,Pro League,Matchweek 9,Fri,Home,L,0.0,1.0,Al-Ahli,62.0,,Karim Benzema,4-2-2-2,Danny Makkelie,Match Report,,17,4,,0,0,2024,Al Ittihad
+2023-10-20,18:00,Pro League,Matchweek 10,Fri,Away,D,1.0,1.0,Al-Taawoun,51.0,9487.0,Karim Benzema,4-2-2-2,Georgi Kabakov,Match Report,,12,8,,0,0,2024,Al Ittihad
+2023-10-26,21:00,Pro League,Matchweek 11,Thu,Home,D,2.0,2.0,Al-Hazem,60.0,,Karim Benzema,3-4-1-2,Alexis Herrera,Match Report,,12,5,,0,0,2024,Al Ittihad
+2023-11-03,21:00,Pro League,Matchweek 12,Fri,Away,L,0.0,1.0,Al-Shabab,68.0,,Karim Benzema,3-4-1-2,Nicolás Ramírez,Match Report,,9,4,,0,0,2024,Al Ittihad
+2023-11-10,21:00,Pro League,Matchweek 13,Fri,Home,W,4.0,2.0,Abha,52.0,,Karim Benzema,4-1-4-1,Kevin Ortega,Match Report,,14,6,,1,1,2024,Al Ittihad
+2023-11-24,18:00,Pro League,Matchweek 14,Fri,Away,D,1.0,1.0,Al-Ettifaq,58.0,,Karim Benzema,4-3-1-2,Tamás Bognár,Match Report,,13,3,,0,0,2024,Al Ittihad
+2023-11-30,21:00,Pro League,Matchweek 15,Thu,Home,W,4.0,2.0,Al-Khaleej,53.0,,Karim Benzema,4-2-2-2,Mamdouh Mufreh Al Shahdan,Match Report,,13,4,,2,2,2024,Al Ittihad
+2023-12-07,18:00,Pro League,Matchweek 16,Thu,Away,L,1.0,3.0,Damac,51.0,,Omar Hawsawi,3-4-3,Said Martínez,Match Report,,10,4,,1,1,2024,Al Ittihad
+2023-12-23,21:00,Pro League,Matchweek 18,Sat,Home,L,1.0,3.0,Al-Raed,61.0,,Karim Benzema,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,9,3,,0,0,2024,Al Ittihad
+2023-12-26,21:00,Pro League,Matchweek 17,Tue,Home,L,2.0,5.0,Al-Nassr,40.0,,Karim Benzema,4-2-2-2,Tasos Sidiropoulos,Match Report,,10,5,,0,0,2024,Al Ittihad
+2024-02-07,21:00,Pro League,Matchweek 19,Wed,Away,W,3.0,0.0,Al-Ta'ee,63.0,,Ahmed Hegazi,4-1-4-1,Sergey Karasev,Match Report,,16,5,,0,0,2024,Al Ittihad
+2024-02-18,20:00,Pro League,Matchweek 20,Sun,Home,W,2.0,0.0,Al-Riyadh SC,60.0,,Ahmed Hegazi,4-3-1-2,Nazareno Arasa,Match Report,,12,6,,0,0,2024,Al Ittihad
+2024-02-26,20:00,Pro League,Matchweek 21,Mon,Home,W,2.0,1.0,Al-Wehda,64.0,,Ahmed Hegazi,3-4-3,Kevin Ortega,Match Report,,23,7,,1,2,2024,Al Ittihad
+2024-03-01,20:00,Pro League,Matchweek 22,Fri,Away,L,1.0,3.0,Al-Hilal,34.0,,Ahmed Hegazi,5-3-2,Iván Barton,Match Report,,6,2,,0,0,2024,Al Ittihad
+2024-03-08,20:00,Pro League,Matchweek 23,Fri,Home,W,2.0,1.0,Al Okhdood SC,64.0,,Madallah Al-Olayan,4-3-1-2,Yael Falcón,Match Report,,9,3,,0,0,2024,Al Ittihad
+2024-03-16,22:00,Pro League,Matchweek 24,Sat,Away,W,4.0,2.0,Al-Fateh,54.0,,Ahmed Hegazi,4-1-4-1,Sergey Karasev,Match Report,,17,7,,1,1,2024,Al Ittihad
+2024-03-29,22:00,Pro League,Matchweek 25,Fri,Home,W,3.0,1.0,Al-Fayha,57.0,,Ahmed Hegazi,4-2-2-2,Radu Petrescu,Match Report,,9,6,,0,1,2024,Al Ittihad
+2024-04-01,22:00,Pro League,Matchweek 26,Mon,Away,L,0.0,1.0,Al-Ahli,46.0,,Ahmed Hegazi,4-2-2-2,Rade Obrenović,Match Report,,11,4,,0,0,2024,Al Ittihad
+2024-04-05,22:00,Pro League,Matchweek 27,Fri,Home,D,0.0,0.0,Al-Taawoun,51.0,,Ahmed Hegazi,4-2-2-2,César Soto,Match Report,,19,5,,0,1,2024,Al Ittihad
+2024-04-20,21:00,Pro League,Matchweek 28,Sat,Away,W,3.0,2.0,Al-Hazem,56.0,,Ahmed Hegazi,4-2-2-2,Mohammed Salem Al Dagash,Match Report,,23,5,,0,0,2024,Al Ittihad
+2024-04-26,21:00,Pro League,Matchweek 29,Fri,Home,L,1.0,3.0,Al-Shabab,49.0,,Ahmed Hegazi,3-4-3,César Arturo Ramos,Match Report,,11,3,,0,0,2024,Al Ittihad
+2024-05-03,21:00,Pro League,Matchweek 30,Fri,Away,L,1.0,3.0,Abha,73.0,,N'Golo Kanté,4-1-4-1,Ahmed Mohammed Al Rumaikhani,Match Report,,17,8,,0,1,2024,Al Ittihad
+2024-05-10,21:00,Pro League,Matchweek 31,Fri,Home,L,0.0,5.0,Al-Ettifaq,52.0,,N'Golo Kanté,4-2-3-1,Sultan Sanat Al Harbi,Match Report,,9,4,,0,0,2024,Al Ittihad
+2024-05-16,21:00,Pro League,Matchweek 32,Thu,Away,D,1.0,1.0,Al-Khaleej,51.0,,N'Golo Kanté,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,14,3,,0,0,2024,Al Ittihad
+2023-08-14,21:00,Pro League,Matchweek 1,Mon,Home,W,2.0,1.0,Al-Nassr,41.0,13930.0,Jordan Henderson,4-1-4-1,Mohammed Khaled Al Hoish,Match Report,,5,3,,0,0,2024,Al Ettifaq
+2023-08-18,21:00,Pro League,Matchweek 2,Fri,Away,W,2.0,0.0,Al-Hazem,48.0,1024.0,Ali Hazazi,4-1-4-1,Raed Ali Al Zahrani,Match Report,,5,3,,0,0,2024,Al Ettifaq
+2023-08-24,21:00,Pro League,Matchweek 3,Thu,Home,D,1.0,1.0,Al-Khaleej,59.0,4200.0,Jordan Henderson,4-1-4-1,Ahmed Mohammed Al Rumaikhani,Match Report,,16,7,,0,0,2024,Al Ettifaq
+2023-08-28,21:00,Pro League,Matchweek 4,Mon,Away,L,0.0,2.0,Al-Hilal,36.0,13656.0,Jordan Henderson,4-2-2-2,Ramon Abatti,Match Report,,6,2,,0,0,2024,Al Ettifaq
+2023-09-02,21:00,Pro League,Matchweek 5,Sat,Home,W,3.0,1.0,Damac,61.0,2281.0,Jordan Henderson,4-1-4-1,Majed Mohammed Al Shamrani,Match Report,,11,7,,0,0,2024,Al Ettifaq
+2023-09-16,15:00,Pro League,Matchweek 6,Sat,Away,W,3.0,1.0,Abha,63.0,976.0,Jordan Henderson,4-1-4-1,Sultan Mohammed Al Akairi,Match Report,,9,3,,0,0,2024,Al Ettifaq
+2023-09-21,18:00,Pro League,Matchweek 7,Thu,Home,W,4.0,3.0,Al-Ta'ee,56.0,4865.0,Jordan Henderson,4-1-4-1,Mamdouh Mufreh Al Shahdan,Match Report,,16,6,,0,0,2024,Al Ettifaq
+2023-09-30,21:00,Pro League,Matchweek 8,Sat,Away,D,0.0,0.0,Al-Ahli,51.0,14045.0,Jordan Henderson,4-1-4-1,Irfan Peljto,Match Report,,4,2,,0,0,2024,Al Ettifaq
+2023-10-05,21:00,Pro League,Matchweek 9,Thu,Home,L,1.0,2.0,Al-Fateh,54.0,,Jordan Henderson,4-1-4-1,Abdulsamad Ali Bakri,Match Report,,14,6,,0,0,2024,Al Ettifaq
+2023-10-22,18:00,Pro League,Matchweek 10,Sun,Away,L,0.0,1.0,Al-Riyadh SC,68.0,,Jordan Henderson,4-1-4-1,Ahmed Mohammed Al Rumaikhani,Match Report,,17,4,,0,0,2024,Al Ettifaq
+2023-10-28,21:00,Pro League,Matchweek 11,Sat,Away,W,3.0,2.0,Al-Wehda,46.0,1188.0,Jordan Henderson,4-1-4-1,Khalid Saleh Al Turais,Match Report,,10,8,,0,0,2024,Al Ettifaq
+2023-11-04,21:00,Pro League,Matchweek 12,Sat,Home,D,0.0,0.0,Al-Raed,65.0,,Jordan Henderson,4-1-4-1,Majed Mohammed Al Shamrani,Match Report,,19,5,,0,0,2024,Al Ettifaq
+2023-11-11,18:00,Pro League,Matchweek 13,Sat,Away,D,0.0,0.0,Al-Fayha,48.0,,Georginio Wijnaldum,3-5-2,Shukri Hussein Al Hunfush,Match Report,,15,5,,0,0,2024,Al Ettifaq
+2023-11-24,18:00,Pro League,Matchweek 14,Fri,Home,D,1.0,1.0,Al-Ittihad,42.0,,Jordan Henderson,3-4-3,Tamás Bognár,Match Report,,11,3,,0,0,2024,Al Ettifaq
+2023-12-02,18:00,Pro League,Matchweek 15,Sat,Away,L,0.0,1.0,Al Okhdood SC,56.0,,Jordan Henderson,3-4-3,Andris Treimanis,Match Report,,8,4,,0,0,2024,Al Ettifaq
+2023-12-07,21:00,Pro League,Matchweek 16,Thu,Away,D,0.0,0.0,Al-Shabab,44.0,,Jordan Henderson,3-4-3,Fernando Rapallini,Match Report,,10,2,,0,0,2024,Al Ettifaq
+2023-12-16,21:00,Pro League,Matchweek 17,Sat,Home,L,0.0,2.0,Al-Taawoun,42.0,,Jordan Henderson,3-4-3,Shukri Hussein Al Hunfush,Match Report,,7,1,,0,0,2024,Al Ettifaq
+2023-12-22,18:00,Pro League,Matchweek 18,Fri,Away,L,1.0,3.0,Al-Nassr,34.0,,Jordan Henderson,4-1-4-1,Khalid Saleh Al Turais,Match Report,,5,2,,0,0,2024,Al Ettifaq
+2023-12-28,18:00,Pro League,Matchweek 19,Thu,Home,D,1.0,1.0,Al-Hazem,63.0,,Jordan Henderson,4-1-4-1,Abdullah Saleh Al Harbi,Match Report,,14,4,,0,0,2024,Al Ettifaq
+2024-02-15,20:00,Pro League,Matchweek 20,Thu,Away,W,2.0,0.0,Al-Khaleej,51.0,,Georginio Wijnaldum,4-1-4-1,Abdullah Khaled Al Kharboush,Match Report,,12,5,,0,0,2024,Al Ettifaq
+2024-02-26,17:00,Pro League,Matchweek 21,Mon,Home,L,0.0,2.0,Al-Hilal,39.0,,Georginio Wijnaldum,4-1-4-1,Fabio Maresca,Match Report,,10,3,,0,0,2024,Al Ettifaq
+2024-03-02,17:00,Pro League,Matchweek 22,Sat,Away,W,2.0,0.0,Damac,56.0,,Georginio Wijnaldum,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,10,4,,1,1,2024,Al Ettifaq
+2024-03-09,17:00,Pro League,Matchweek 23,Sat,Home,W,3.0,0.0,Abha,68.0,,Georginio Wijnaldum,4-1-4-1,Mohammed Nasser Abu Shaqara,Match Report,,17,8,,0,0,2024,Al Ettifaq
+2024-03-15,22:00,Pro League,Matchweek 24,Fri,Away,D,1.0,1.0,Al-Ta'ee,62.0,,Georginio Wijnaldum,4-1-4-1,Khalid Saleh Al Turais,Match Report,,14,5,,0,0,2024,Al Ettifaq
+2024-03-29,22:00,Pro League,Matchweek 25,Fri,Home,D,2.0,2.0,Al-Ahli,46.0,,Georginio Wijnaldum,4-1-4-1,Faisal Suleiman Al Balawi,Match Report,,11,2,,0,0,2024,Al Ettifaq
+2024-04-03,22:00,Pro League,Matchweek 26,Wed,Away,L,0.0,1.0,Al-Fateh,45.0,,Georginio Wijnaldum,4-1-4-1,Sultan Sanat Al Harbi,Match Report,,8,0,,0,0,2024,Al Ettifaq
+2024-04-06,22:00,Pro League,Matchweek 27,Sat,Home,W,1.0,0.0,Al-Riyadh SC,51.0,,Georginio Wijnaldum,4-1-4-1,Majed Mohammed Al Shamrani,Match Report,,12,3,,0,0,2024,Al Ettifaq
+2024-04-20,21:00,Pro League,Matchweek 28,Sat,Home,D,0.0,0.0,Al-Wehda,54.0,,Georginio Wijnaldum,4-1-4-1,Abdulsamad Ali Bakri,Match Report,,17,4,,0,0,2024,Al Ettifaq
+2024-04-27,18:00,Pro League,Matchweek 29,Sat,Away,D,2.0,2.0,Al-Raed,65.0,,Georginio Wijnaldum,4-1-4-1,Abdulrahman Mohammed Al Sultan,Match Report,,18,6,,0,0,2024,Al Ettifaq
+2024-05-03,21:00,Pro League,Matchweek 30,Fri,Home,L,1.0,2.0,Al-Fayha,60.0,,Georginio Wijnaldum,4-1-4-1,Freeh Khalifa Al Jaloud,Match Report,,17,8,,0,0,2024,Al Ettifaq
+2024-05-10,21:00,Pro League,Matchweek 31,Fri,Away,W,5.0,0.0,Al-Ittihad,48.0,,Georginio Wijnaldum,4-1-4-1,Sultan Sanat Al Harbi,Match Report,,10,5,,1,1,2024,Al Ettifaq
+2024-05-17,21:00,Pro League,Matchweek 32,Fri,Home,D,1.0,1.0,Al Okhdood SC,51.0,,Georginio Wijnaldum,4-1-4-1,Khalid Saleh Al Turais,Match Report,,15,7,,0,1,2024,Al Ettifaq
+2023-08-12,21:00,Pro League,Matchweek 1,Sat,Home,W,3.0,1.0,Al-Khaleej,34.0,1518.0,Hussein Al Shuwaysh,5-4-1,Faisal Suleiman Al Balawi,Match Report,,7,3,,1,1,2024,Al Fayha
+2023-08-19,21:00,Pro League,Matchweek 2,Sat,Away,D,1.0,1.0,Al-Hilal,24.0,59600.0,Hussein Al Shuwaysh,5-4-1,Yael Falcón,Match Report,,3,2,,0,0,2024,Al Fayha
+2023-08-25,18:00,Pro League,Matchweek 3,Fri,Home,D,0.0,0.0,Al-Hazem,51.0,465.0,Sami Al-Khaibari,3-4-3,Sultan Mohammed Al Akairi,Match Report,,7,1,,0,0,2024,Al Fayha
+2023-08-28,18:00,Pro League,Matchweek 4,Mon,Away,L,1.0,2.0,Abha,62.0,856.0,Sami Al-Khaibari,3-4-3,Abdulsamad Ali Bakri,Match Report,,19,2,,1,1,2024,Al Fayha
+2023-09-01,18:00,Pro League,Matchweek 5,Fri,Home,D,0.0,0.0,Al-Raed,45.0,1134.0,Sami Al-Khaibari,4-1-4-1,Shukri Hussein Al Hunfush,Match Report,,11,3,,0,1,2024,Al Fayha
+2023-09-15,18:00,Pro League,Matchweek 6,Fri,Home,L,0.0,1.0,Al-Shabab,42.0,1104.0,Sami Al-Khaibari,4-2-3-1,Ahmed Mohammed Al Rumaikhani,Match Report,,13,2,,0,0,2024,Al Fayha
+2023-09-22,18:00,Pro League,Matchweek 7,Fri,Away,W,3.0,1.0,Al-Riyadh SC,48.0,281.0,Sami Al-Khaibari,4-2-3-1,Abdulrahman Mohammed Al Sultan,Match Report,,15,8,,0,0,2024,Al Fayha
+2023-09-29,18:00,Pro League,Matchweek 8,Fri,Home,D,0.0,0.0,Al-Ittihad,34.0,10081.0,Sami Al-Khaibari,4-1-4-1,Bastian Dankert,Match Report,,9,4,,0,0,2024,Al Fayha
+2023-10-07,21:00,Pro League,Matchweek 9,Sat,Away,D,1.0,1.0,Al-Wehda,42.0,,Sami Al-Khaibari,4-2-3-1,Khalid Saleh Al Turais,Match Report,,8,4,,0,0,2024,Al Fayha
+2023-10-20,18:00,Pro League,Matchweek 10,Fri,Away,W,2.0,1.0,Al Okhdood SC,44.0,,Sami Al-Khaibari,4-2-3-1,Sultan Mohammed Al Akairi,Match Report,,13,3,,0,0,2024,Al Fayha
+2023-10-28,18:00,Pro League,Matchweek 11,Sat,Home,L,1.0,3.0,Al-Nassr,37.0,5400.0,Hussein Al Shuwaysh,4-2-3-1,Tasos Sidiropoulos,Match Report,,16,6,,0,0,2024,Al Fayha
+2023-11-03,18:00,Pro League,Matchweek 12,Fri,Away,D,3.0,3.0,Al-Ta'ee,49.0,4331.0,Hussein Al Shuwaysh,4-1-4-1,Faisal Suleiman Al Balawi,Match Report,,17,7,,0,0,2024,Al Fayha
+2023-11-11,18:00,Pro League,Matchweek 13,Sat,Home,D,0.0,0.0,Al-Ettifaq,52.0,,Mohammed Al Baqawi,3-4-3,Shukri Hussein Al Hunfush,Match Report,,15,5,,0,0,2024,Al Fayha
+2023-11-25,21:00,Pro League,Matchweek 14,Sat,Away,W,1.0,0.0,Al-Fateh,37.0,,Hussein Al Shuwaysh,3-4-3,Freeh Khalifa Al Jaloud,Match Report,,10,6,,0,0,2024,Al Fayha
+2023-12-01,18:00,Pro League,Matchweek 15,Fri,Home,L,2.0,4.0,Damac,57.0,,Hussein Al Shuwaysh,3-4-3,Mohammed Khaled Al Hoish,Match Report,,11,2,,0,0,2024,Al Fayha
+2023-12-08,18:00,Pro League,Matchweek 16,Fri,Away,L,1.0,4.0,Al-Taawoun,37.0,,Sami Al-Khaibari,3-4-3,Sami Ahmed Al Jurays,Match Report,,7,3,,0,0,2024,Al Fayha
+2023-12-14,21:00,Pro League,Matchweek 17,Thu,Home,L,0.0,4.0,Al-Ahli,43.0,,Hussein Al Shuwaysh,4-1-4-1,Guillermo Guerrero,Match Report,,6,2,,0,0,2024,Al Fayha
+2023-12-21,18:00,Pro League,Matchweek 18,Thu,Away,L,0.0,3.0,Al-Khaleej,38.0,,Sami Al-Khaibari,3-4-3,Faisal Suleiman Al Balawi,Match Report,,5,2,,0,0,2024,Al Fayha
+2023-12-29,18:00,Pro League,Matchweek 19,Fri,Home,L,0.0,2.0,Al-Hilal,27.0,,Sami Al-Khaibari,3-4-3,Mario Escobar,Match Report,,2,0,,0,0,2024,Al Fayha
+2024-02-17,17:00,Pro League,Matchweek 20,Sat,Away,W,3.0,1.0,Al-Hazem,48.0,,Sami Al-Khaibari,4-2-3-1,Majed Mohammed Al Shamrani,Match Report,,12,7,,0,0,2024,Al Fayha
+2024-02-25,17:00,Pro League,Matchweek 21,Sun,Home,W,3.0,2.0,Abha,34.0,,Hussein Al Shuwaysh,4-2-3-1,Abdullah Saleh Al Harbi,Match Report,,13,6,,0,0,2024,Al Fayha
+2024-02-29,17:00,Pro League,Matchweek 22,Thu,Away,W,2.0,1.0,Al-Raed,54.0,,Mohammed Al Baqawi,4-1-4-1,Raed Ali Al Zahrani,Match Report,,13,7,,0,0,2024,Al Fayha
+2024-03-07,17:00,Pro League,Matchweek 23,Thu,Away,W,3.0,2.0,Al-Shabab,28.0,,Mohammed Al Baqawi,4-3-1-2,Gustavo Correia,Match Report,,4,3,,1,1,2024,Al Fayha
+2024-03-15,22:00,Pro League,Matchweek 24,Fri,Home,D,1.0,1.0,Al-Riyadh SC,53.0,,Sami Al-Khaibari,4-1-4-1,Ahmed Alromkhani,Match Report,,6,3,,0,0,2024,Al Fayha
+2024-03-29,22:00,Pro League,Matchweek 25,Fri,Away,L,1.0,3.0,Al-Ittihad,43.0,,Sami Al-Khaibari,4-1-4-1,Radu Petrescu,Match Report,,6,2,,1,1,2024,Al Fayha
+2024-04-02,22:00,Pro League,Matchweek 26,Tue,Home,L,1.0,2.0,Al-Wehda,50.0,,Sami Al-Khaibari,4-2-3-1,Mohammed Abdulrahman Al Baridi,Match Report,,13,7,,0,0,2024,Al Fayha
+2024-04-07,22:00,Pro League,Matchweek 27,Sun,Home,W,3.0,0.0,Al Okhdood SC,50.0,,Sami Al-Khaibari,4-2-3-1,Abdullah Saleh Al Harbi,Match Report,,9,6,,0,0,2024,Al Fayha
+2024-04-19,18:00,Pro League,Matchweek 28,Fri,Away,L,1.0,3.0,Al-Nassr,36.0,,Sami Al-Khaibari,4-2-3-1,Mohammed Saif Al Harbi,Match Report,,5,2,,0,0,2024,Al Fayha
+2024-04-25,18:00,Pro League,Matchweek 29,Thu,Home,W,1.0,0.0,Al-Ta'ee,36.0,,Sami Al-Khaibari,4-1-4-1,Abdulsamad Ali Bakri,Match Report,,16,7,,0,0,2024,Al Fayha
+2024-05-03,21:00,Pro League,Matchweek 30,Fri,Away,W,2.0,1.0,Al-Ettifaq,40.0,,Hussein Al Shuwaysh,3-4-3,Freeh Khalifa Al Jaloud,Match Report,,16,7,,0,0,2024,Al Fayha
+2024-05-09,18:00,Pro League,Matchweek 31,Thu,Home,D,2.0,2.0,Al-Fateh,47.0,,Sami Al-Khaibari,3-4-3,Mohammed Nasser Abu Shaqara,Match Report,,11,4,,0,0,2024,Al Fayha
+2024-05-17,19:15,Pro League,Matchweek 32,Fri,Away,D,1.0,1.0,Damac,31.0,,Sami Al-Khaibari,5-4-1,Abdullah Saleh Al Harbi,Match Report,,8,4,,1,1,2024,Al Fayha
+2023-08-13,21:00,Pro League,Matchweek 1,Sun,Home,D,1.0,1.0,Al-Taawoun,48.0,5242.0,Mourad Batna,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,10,4,,0,0,2024,Al Fateh
+2023-08-18,18:00,Pro League,Matchweek 2,Fri,Away,W,3.0,1.0,Al Okhdood SC,56.0,1255.0,Mourad Batna,4-2-3-1,Abdullah Dhafer Al Shehri,Match Report,,11,7,,1,1,2024,Al Fateh
+2023-08-25,21:00,Pro League,Matchweek 3,Fri,Home,L,0.0,5.0,Al-Nassr,32.0,13544.0,Mourad Batna,4-2-3-1,Abdullah Saleh Al Harbi,Match Report,,9,1,,0,0,2024,Al Fateh
+2023-08-29,18:00,Pro League,Matchweek 4,Tue,Away,D,2.0,2.0,Damac,70.0,1118.0,Mourad Batna,4-2-3-1,Khalid Saleh Al Turais,Match Report,,19,9,,0,0,2024,Al Fateh
+2023-09-02,21:00,Pro League,Matchweek 5,Sat,Home,W,5.0,1.0,Al-Ahli,38.0,11715.0,Marwane Saâdane,3-4-3,Fabio Verssimo,Match Report,,10,6,,3,3,2024,Al Fateh
+2023-09-15,21:00,Pro League,Matchweek 6,Fri,Away,W,3.0,1.0,Al-Khaleej,52.0,2276.0,Marwane Saâdane,4-1-4-1,Mohammed Abdulrahman Al Baridi,Match Report,,8,7,,0,0,2024,Al Fateh
+2023-09-21,21:00,Pro League,Matchweek 7,Thu,Away,L,1.0,2.0,Al-Ittihad,42.0,15209.0,Marwane Saâdane,3-4-3,Daniele Orsato,Match Report,,7,3,,0,0,2024,Al Fateh
+2023-09-30,18:00,Pro League,Matchweek 8,Sat,Home,W,5.0,1.0,Al-Wehda,53.0,2885.0,Marwane Saâdane,4-1-4-1,Mamdouh Mufreh Al Shahdan,Match Report,,15,7,,0,0,2024,Al Fateh
+2023-10-05,21:00,Pro League,Matchweek 9,Thu,Away,W,2.0,1.0,Al-Ettifaq,46.0,,Marwane Saâdane,4-1-4-1,Abdulsamad Ali Bakri,Match Report,,8,2,,0,0,2024,Al Fateh
+2023-10-20,21:00,Pro League,Matchweek 10,Fri,Home,W,4.0,1.0,Abha,58.0,9852.0,Marwane Saâdane,4-2-2-2,Mohammed Saif Al Harbi,Match Report,,20,8,,0,0,2024,Al Fateh
+2023-10-27,18:00,Pro League,Matchweek 11,Fri,Away,W,2.0,1.0,Al-Raed,48.0,,Marwane Saâdane,4-2-3-1,Raed Ali Al Zahrani,Match Report,,9,2,,0,0,2024,Al Fateh
+2023-11-03,18:00,Pro League,Matchweek 12,Fri,Home,L,0.0,2.0,Al-Hilal,52.0,,Mohammed Al-Fuhaid,4-2-2-2,Said Martínez,Match Report,,17,4,,0,0,2024,Al Fateh
+2023-11-09,21:00,Pro League,Matchweek 13,Thu,Away,D,1.0,1.0,Al-Riyadh SC,47.0,,Mohammed Al-Fuhaid,4-2-3-1,Abdullah Dhafer Al Shehri,Match Report,,16,3,,0,0,2024,Al Fateh
+2023-11-25,21:00,Pro League,Matchweek 14,Sat,Home,L,0.0,1.0,Al-Fayha,63.0,,Mourad Batna,4-1-4-1,Freeh Khalifa Al Jaloud,Match Report,,17,4,,0,0,2024,Al Fateh
+2023-12-02,18:00,Pro League,Matchweek 15,Sat,Home,L,0.0,1.0,Al-Ta'ee,56.0,,Mourad Batna,4-1-4-1,Faisal Suleiman Al Balawi,Match Report,,16,6,,0,0,2024,Al Fateh
+2023-12-07,18:00,Pro League,Matchweek 16,Thu,Away,L,0.0,2.0,Al-Hazem,55.0,,Mohammed Al-Fuhaid,4-1-4-1,Ahmed Alromkhani,Match Report,,11,4,,0,0,2024,Al Fateh
+2023-12-15,18:00,Pro League,Matchweek 17,Fri,Home,D,1.0,1.0,Al-Shabab,41.0,,Mohammed Al-Fuhaid,4-1-4-1,Mamdouh Mufreh Al Shahdan,Match Report,,11,6,,0,0,2024,Al Fateh
+2023-12-23,18:00,Pro League,Matchweek 18,Sat,Away,W,3.0,1.0,Al-Taawoun,33.0,,Mohammed Al-Fuhaid,4-1-4-1,Abdullah Dhafer Al Shehri,Match Report,,10,3,,0,0,2024,Al Fateh
+2023-12-30,18:00,Pro League,Matchweek 19,Sat,Home,D,0.0,0.0,Al Okhdood SC,64.0,,Mohammed Al-Fuhaid,4-1-4-1,Majed Mohammed Al Shamrani,Match Report,,16,6,,0,0,2024,Al Fateh
+2024-02-17,20:00,Pro League,Matchweek 20,Sat,Away,L,1.0,2.0,Al-Nassr,34.0,,Marwane Saâdane,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,12,6,,0,0,2024,Al Fateh
+2024-02-23,20:00,Pro League,Matchweek 21,Fri,Home,D,1.0,1.0,Damac,45.0,,Marwane Saâdane,4-2-3-1,Faisal Suleiman Al Balawi,Match Report,,12,4,,0,0,2024,Al Fateh
+2024-03-02,20:00,Pro League,Matchweek 22,Sat,Away,D,1.0,1.0,Al-Ahli,51.0,,Mohammed Al-Fuhaid,4-1-4-1,Majed Mohammed Al Shamrani,Match Report,,11,2,,0,0,2024,Al Fateh
+2024-03-09,17:00,Pro League,Matchweek 23,Sat,Home,L,1.0,2.0,Al-Khaleej,61.0,,Marwane Saâdane,4-1-4-1,Mohammed Saif Al Harbi,Match Report,,8,3,,0,0,2024,Al Fateh
+2024-03-16,22:00,Pro League,Matchweek 24,Sat,Home,L,2.0,4.0,Al-Ittihad,46.0,,Marwane Saâdane,3-4-3,Sergey Karasev,Match Report,,12,4,,0,0,2024,Al Fateh
+2024-03-30,22:00,Pro League,Matchweek 25,Sat,Away,W,3.0,2.0,Al-Wehda,62.0,,Marwane Saâdane,4-2-3-1,Abdullah Dhafer Al Shehri,Match Report,,15,8,,0,0,2024,Al Fateh
+2024-04-03,22:00,Pro League,Matchweek 26,Wed,Home,W,1.0,0.0,Al-Ettifaq,55.0,,Marwane Saâdane,4-2-3-1,Sultan Sanat Al Harbi,Match Report,,13,7,,0,0,2024,Al Fateh
+2024-04-07,22:00,Pro League,Matchweek 27,Sun,Away,L,1.0,2.0,Abha,76.0,,Marwane Saâdane,4-2-3-1,Mohammed Saif Al Harbi,Match Report,,10,3,,0,0,2024,Al Fateh
+2024-04-18,21:00,Pro League,Matchweek 28,Thu,Home,W,3.0,1.0,Al-Raed,63.0,,Marwane Saâdane,4-2-3-1,Mamdouh Mufreh Al Shahdan,Match Report,,15,7,,0,1,2024,Al Fateh
+2024-04-26,18:00,Pro League,Matchweek 29,Fri,Away,L,1.0,3.0,Al-Hilal,42.0,,Mohammed Al-Fuhaid,4-2-3-1,Tasos Sidiropoulos,Match Report,,8,3,,0,0,2024,Al Fateh
+2024-05-02,21:00,Pro League,Matchweek 30,Thu,Home,D,2.0,2.0,Al-Riyadh SC,68.0,,Marwane Saâdane,4-2-3-1,Abdullah Khaled Al Kharboush,Match Report,,14,5,,0,0,2024,Al Fateh
+2024-05-09,18:00,Pro League,Matchweek 31,Thu,Away,D,2.0,2.0,Al-Fayha,54.0,,Mohammed Al-Fuhaid,4-1-4-1,Mohammed Nasser Abu Shaqara,Match Report,,15,7,,0,0,2024,Al Fateh
+2024-05-16,18:00,Pro League,Matchweek 32,Thu,Away,L,1.0,3.0,Al-Ta'ee,50.0,,Mohammed Al-Fuhaid,4-3-1-2,Sultan Sanat Al Harbi,Match Report,,12,3,,0,0,2024,Al Fateh
+2023-08-14,21:00,Pro League,Matchweek 1,Mon,Home,D,1.0,1.0,Al Okhdood SC,67.0,1974.0,Éver Banega,4-1-4-1,Majed Mohammed Al Shamrani,Match Report,,12,4,,0,0,2024,Al Shabab
+2023-08-18,21:00,Pro League,Matchweek 2,Fri,Away,L,1.0,3.0,Al-Wehda,65.0,3000.0,Éver Banega,4-1-4-1,Shukri Hussein Al Hunfush,Match Report,,8,4,,0,2,2024,Al Shabab
+2023-08-25,21:00,Pro League,Matchweek 3,Fri,Home,D,1.0,1.0,Damac,67.0,1588.0,Éver Banega,4-1-4-1,Mohammed Saif Al Harbi,Match Report,,20,5,,0,0,2024,Al Shabab
+2023-08-29,21:00,Pro League,Matchweek 4,Tue,Away,L,0.0,4.0,Al-Nassr,45.0,21383.0,Éver Banega,4-1-4-1,Ismail Elfath,Match Report,,3,1,,0,0,2024,Al Shabab
+2023-09-02,21:00,Pro League,Matchweek 5,Sat,Home,L,1.0,3.0,Al-Khaleej,66.0,987.0,Hattan Bahebri,4-1-4-1,Mohammed Khaled Al Hoish,Match Report,,18,3,,0,0,2024,Al Shabab
+2023-09-15,18:00,Pro League,Matchweek 6,Fri,Away,W,1.0,0.0,Al-Fayha,58.0,1104.0,Éver Banega,4-1-4-1,Ahmed Mohammed Al Rumaikhani,Match Report,,6,2,,0,0,2024,Al Shabab
+2023-09-21,21:00,Pro League,Matchweek 7,Thu,Home,W,4.0,1.0,Al-Hazem,56.0,2450.0,Éver Banega,4-1-4-1,Majed Mohammed Al Shamrani,Match Report,,11,7,,1,1,2024,Al Shabab
+2023-09-29,21:00,Pro League,Matchweek 8,Fri,Away,L,0.0,2.0,Al-Hilal,51.0,,Éver Banega,4-1-4-1,Iván Barton,Match Report,,9,1,,0,0,2024,Al Shabab
+2023-10-05,18:00,Pro League,Matchweek 9,Thu,Away,D,2.0,2.0,Al-Riyadh SC,71.0,,Éver Banega,4-1-4-1,Raed Ali Al Zahrani,Match Report,,18,5,,0,0,2024,Al Shabab
+2023-10-21,21:00,Pro League,Matchweek 10,Sat,Home,W,2.0,0.0,Al-Ta'ee,46.0,11974.0,Éver Banega,4-1-4-1,Shukri Hussein Al Hunfush,Match Report,,21,7,,0,0,2024,Al Shabab
+2023-10-28,18:00,Pro League,Matchweek 11,Sat,Away,L,1.0,2.0,Abha,57.0,,Éver Banega,4-1-4-1,Mohammed Khaled Al Hoish,Match Report,,15,7,,0,0,2024,Al Shabab
+2023-11-03,21:00,Pro League,Matchweek 12,Fri,Home,W,1.0,0.0,Al-Ittihad,32.0,,Éver Banega,4-2-2-2,Nicolás Ramírez,Match Report,,9,1,,0,0,2024,Al Shabab
+2023-11-09,18:00,Pro League,Matchweek 13,Thu,Away,L,1.0,2.0,Al-Raed,68.0,,Éver Banega,4-1-4-1,Mamdouh Mufreh Al Shahdan,Match Report,,19,6,,0,0,2024,Al Shabab
+2023-11-25,21:00,Pro League,Matchweek 14,Sat,Away,D,0.0,0.0,Al-Ahli,48.0,,Éver Banega,4-1-4-1,Mario Escobar,Match Report,,6,2,,0,0,2024,Al Shabab
+2023-12-02,21:00,Pro League,Matchweek 15,Sat,Home,L,1.0,2.0,Al-Taawoun,48.0,,Éver Banega,4-1-4-1,Tasos Sidiropoulos,Match Report,,11,2,,1,1,2024,Al Shabab
+2023-12-07,21:00,Pro League,Matchweek 16,Thu,Home,D,0.0,0.0,Al-Ettifaq,56.0,,Éver Banega,4-1-4-1,Fernando Rapallini,Match Report,,16,5,,0,0,2024,Al Shabab
+2023-12-15,18:00,Pro League,Matchweek 17,Fri,Away,D,1.0,1.0,Al-Fateh,59.0,,Romain Saïss,4-2-3-1,Mamdouh Mufreh Al Shahdan,Match Report,,16,7,,0,0,2024,Al Shabab
+2023-12-22,18:00,Pro League,Matchweek 18,Fri,Away,L,0.0,1.0,Al Okhdood SC,74.0,,Yannick Carrasco,4-2-3-1,Andrei Chivulete,Match Report,,9,0,,0,0,2024,Al Shabab
+2023-12-30,21:00,Pro League,Matchweek 19,Sat,Home,W,1.0,0.0,Al-Wehda,57.0,,Éver Banega,4-1-4-1,Danny Makkelie,Match Report,,12,3,,0,0,2024,Al Shabab
+2024-02-16,17:00,Pro League,Matchweek 20,Fri,Away,W,1.0,0.0,Damac,59.0,,Romain Saïss,3-4-3,Jesús Valenzuela,Match Report,,9,6,,0,0,2024,Al Shabab
+2024-02-25,20:00,Pro League,Matchweek 21,Sun,Home,L,2.0,3.0,Al-Nassr,54.0,,Romain Saïss,3-4-3,Tamás Bognár,Match Report,,15,7,,1,1,2024,Al Shabab
+2024-03-02,17:00,Pro League,Matchweek 22,Sat,Away,D,0.0,0.0,Al-Khaleej,66.0,,Romain Saïss,3-4-3,Ahmed Mohammed Al Rumaikhani,Match Report,,10,6,,0,0,2024,Al Shabab
+2024-03-07,17:00,Pro League,Matchweek 23,Thu,Home,L,2.0,3.0,Al-Fayha,72.0,,Romain Saïss,3-4-3,Gustavo Correia,Match Report,,20,7,,0,0,2024,Al Shabab
+2024-03-14,22:00,Pro League,Matchweek 24,Thu,Away,W,3.0,0.0,Al-Hazem,49.0,,Romain Saïss,3-4-3,Georgi Kabakov,Match Report,,11,6,,0,0,2024,Al Shabab
+2024-03-30,22:00,Pro League,Matchweek 25,Sat,Home,L,3.0,4.0,Al-Hilal,43.0,,Romain Saïss,3-4-3,Mario Escobar,Match Report,,17,6,,0,0,2024,Al Shabab
+2024-04-03,22:00,Pro League,Matchweek 26,Wed,Home,W,1.0,0.0,Al-Riyadh SC,59.0,,Romain Saïss,3-4-3,Khalid Saleh Al Turais,Match Report,,13,5,,0,0,2024,Al Shabab
+2024-04-06,22:00,Pro League,Matchweek 27,Sat,Away,D,0.0,0.0,Al-Ta'ee,53.0,,Romain Saïss,3-4-3,Sultan Sanat Al Harbi,Match Report,,12,5,,0,0,2024,Al Shabab
+2024-04-18,21:00,Pro League,Matchweek 28,Thu,Home,W,5.0,0.0,Abha,68.0,,Romain Saïss,3-4-3,Shukri Hussein Al Hunfush,Match Report,,20,8,,0,0,2024,Al Shabab
+2024-04-26,21:00,Pro League,Matchweek 29,Fri,Away,W,3.0,1.0,Al-Ittihad,51.0,,Romain Saïss,3-4-3,César Arturo Ramos,Match Report,,14,7,,0,0,2024,Al Shabab
+2024-05-04,18:00,Pro League,Matchweek 30,Sat,Home,W,2.0,0.0,Al-Raed,59.0,,Romain Saïss,3-4-3,Raed Ali Al Zahrani,Match Report,,13,4,,0,0,2024,Al Shabab
+2024-05-11,21:00,Pro League,Matchweek 31,Sat,Home,L,1.0,2.0,Al-Ahli,45.0,,Romain Saïss,3-5-2,Sergey Karasev,Match Report,,12,4,,0,0,2024,Al Shabab
+2024-05-18,19:20,Pro League,Matchweek 32,Sat,Away,L,0.0,1.0,Al-Taawoun,64.0,,Yannick Carrasco,3-4-3,Tamás Bognár,Match Report,,12,4,,0,0,2024,Al Shabab
+2023-08-12,18:00,Pro League,Matchweek 1,Sat,Away,L,0.0,1.0,Al-Ta'ee,49.0,1750.0,Farouk Chafaï,4-2-3-1,Abdullah Saleh Al Harbi,Match Report,,8,3,,0,0,2024,Damac
+2023-08-17,18:00,Pro League,Matchweek 2,Thu,Home,D,2.0,2.0,Al-Riyadh SC,57.0,1109.0,Farouk Chafaï,4-2-3-1,Abdullah Khaled Al Kharboush,Match Report,,22,5,,0,0,2024,Damac
+2023-08-25,21:00,Pro League,Matchweek 3,Fri,Away,D,1.0,1.0,Al-Shabab,33.0,1588.0,Farouk Chafaï,4-2-3-1,Mohammed Saif Al Harbi,Match Report,,7,2,,0,0,2024,Damac
+2023-08-29,18:00,Pro League,Matchweek 4,Tue,Home,D,2.0,2.0,Al-Fateh,30.0,1118.0,Farouk Chafaï,3-4-3,Khalid Saleh Al Turais,Match Report,,11,4,,1,1,2024,Damac
+2023-09-02,21:00,Pro League,Matchweek 5,Sat,Away,L,1.0,3.0,Al-Ettifaq,39.0,2281.0,Farouk Chafaï,3-4-3,Majed Mohammed Al Shamrani,Match Report,,7,2,,1,1,2024,Damac
+2023-09-14,21:00,Pro League,Matchweek 6,Thu,Away,L,2.0,4.0,Al-Wehda,49.0,820.0,Farouk Chafaï,4-2-3-1,Abdullah Saleh Al Harbi,Match Report,,12,6,,0,0,2024,Damac
+2023-09-21,18:00,Pro League,Matchweek 7,Thu,Home,D,1.0,1.0,Al-Hilal,45.0,11072.0,Farouk Chafaï,4-2-3-1,István Kovács,Match Report,,14,4,,0,0,2024,Damac
+2023-09-30,21:00,Pro League,Matchweek 8,Sat,Away,W,2.0,0.0,Al-Khaleej,47.0,,Farouk Chafaï,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,8,4,,0,0,2024,Damac
+2023-10-05,15:00,Pro League,Matchweek 9,Thu,Home,W,4.0,1.0,Al-Hazem,51.0,,Farouk Chafaï,4-2-3-1,Abdulrahman Mohammed Al Sultan,Match Report,,8,6,,0,0,2024,Damac
+2023-10-21,18:00,Pro League,Matchweek 10,Sat,Away,L,1.0,2.0,Al-Nassr,41.0,,Farouk Chafaï,4-2-3-1,Said Martínez,Match Report,,16,6,,0,0,2024,Damac
+2023-10-26,18:00,Pro League,Matchweek 11,Thu,Home,W,2.0,0.0,Al Okhdood SC,50.0,1614.0,Farouk Chafaï,4-2-3-1,Faisal Suleiman Al Balawi,Match Report,,13,4,,0,0,2024,Damac
+2023-11-05,18:00,Pro League,Matchweek 12,Sun,Away,D,0.0,0.0,Al-Taawoun,36.0,,Farouk Chafaï,4-1-4-1,Abdulsamad Ali Bakri,Match Report,,12,2,,0,0,2024,Damac
+2023-11-09,21:00,Pro League,Matchweek 13,Thu,Home,D,2.0,2.0,Al-Ahli,49.0,,Farouk Chafaï,4-2-3-1,Leandro Rey Hilfer,Match Report,,11,4,,0,0,2024,Damac
+2023-11-25,21:00,Pro League,Matchweek 14,Sat,Home,W,4.0,2.0,Abha,59.0,,Farouk Chafaï,4-2-3-1,Ahmed Mohammed Al Rumaikhani,Match Report,,22,9,,2,2,2024,Damac
+2023-12-01,18:00,Pro League,Matchweek 15,Fri,Away,W,4.0,2.0,Al-Fayha,43.0,,Domagoj Antolić,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,8,6,,1,1,2024,Damac
+2023-12-07,18:00,Pro League,Matchweek 16,Thu,Home,W,3.0,1.0,Al-Ittihad,49.0,,Farouk Chafaï,4-1-4-1,Said Martínez,Match Report,,15,4,,0,0,2024,Damac
+2023-12-15,18:00,Pro League,Matchweek 17,Fri,Away,W,1.0,0.0,Al-Raed,53.0,,Farouk Chafaï,4-1-4-1,Mohammed Nasser Abu Shaqara,Match Report,,8,2,,0,0,2024,Damac
+2023-12-21,18:00,Pro League,Matchweek 18,Thu,Home,W,3.0,0.0,Al-Ta'ee,46.0,,Farouk Chafaï,4-1-4-1,Sultan Mohammed Al Akairi,Match Report,,25,9,,0,0,2024,Damac
+2023-12-28,18:00,Pro League,Matchweek 19,Thu,Away,L,0.0,1.0,Al-Riyadh SC,65.0,,Farouk Chafaï,4-1-4-1,Ahmed Mohammed Al Rumaikhani,Match Report,,12,1,,0,0,2024,Damac
+2024-02-16,17:00,Pro League,Matchweek 20,Fri,Home,L,0.0,1.0,Al-Shabab,41.0,,Domagoj Antolić,4-1-4-1,Jesús Valenzuela,Match Report,,7,2,,0,0,2024,Damac
+2024-02-23,20:00,Pro League,Matchweek 21,Fri,Away,D,1.0,1.0,Al-Fateh,55.0,,Domagoj Antolić,4-1-4-1,Faisal Suleiman Al Balawi,Match Report,,14,2,,0,0,2024,Damac
+2024-03-02,17:00,Pro League,Matchweek 22,Sat,Home,L,0.0,2.0,Al-Ettifaq,44.0,,Domagoj Antolić,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,4,1,,0,0,2024,Damac
+2024-03-07,17:00,Pro League,Matchweek 23,Thu,Home,W,1.0,0.0,Al-Wehda,56.0,2783.0,Domagoj Antolić,4-2-3-1,Mohammed Abdulrahman Al Baridi,Match Report,,6,1,,0,0,2024,Damac
+2024-03-16,22:00,Pro League,Matchweek 24,Sat,Away,L,1.0,2.0,Al-Hilal,36.0,,Domagoj Antolić,4-2-3-1,Adonai Escobedo,Match Report,,9,2,,0,0,2024,Damac
+2024-03-29,22:00,Pro League,Matchweek 25,Fri,Home,L,0.0,1.0,Al-Khaleej,66.0,,Farouk Chafaï,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,10,2,,0,0,2024,Damac
+2024-04-01,22:00,Pro League,Matchweek 26,Mon,Away,D,0.0,0.0,Al-Hazem,56.0,,Farouk Chafaï,4-1-4-1,Sultan Mohammed Al Akairi,Match Report,,13,3,,0,0,2024,Damac
+2024-04-05,22:00,Pro League,Matchweek 27,Fri,Home,L,0.0,1.0,Al-Nassr,35.0,,Farouk Chafaï,4-2-3-1,Abdulsamad Ali Bakri,Match Report,,5,1,,0,0,2024,Damac
+2024-04-20,18:00,Pro League,Matchweek 28,Sat,Away,W,2.0,1.0,Al Okhdood SC,54.0,,Farouk Chafaï,4-1-4-1,Khalid Saleh Al Turais,Match Report,,8,3,,0,0,2024,Damac
+2024-04-26,18:00,Pro League,Matchweek 29,Fri,Home,L,0.0,1.0,Al-Taawoun,54.0,,Farouk Chafaï,4-1-4-1,Shukri Hussein Al Hunfush,Match Report,,12,2,,0,0,2024,Damac
+2024-05-02,21:00,Pro League,Matchweek 30,Thu,Away,L,1.0,4.0,Al-Ahli,46.0,,Farouk Chafaï,4-1-4-1,Abdullah Fahad Al Owaidan,Match Report,,3,2,,0,0,2024,Damac
+2024-05-10,18:00,Pro League,Matchweek 31,Fri,Away,D,0.0,0.0,Abha,65.0,,Domagoj Antolić,4-1-4-1,Sami Ahmed Al Jurays,Match Report,,11,5,,0,0,2024,Damac
+2024-05-17,19:15,Pro League,Matchweek 32,Fri,Home,D,1.0,1.0,Al-Fayha,69.0,,Farouk Chafaï,4-2-3-1,Abdullah Saleh Al Harbi,Match Report,,16,3,,0,0,2024,Damac
+2023-08-12,21:00,Pro League,Matchweek 1,Sat,Away,L,1.0,3.0,Al-Fayha,66.0,1518.0,Fábio Martins,4-2-3-1,Faisal Suleiman Al Balawi,Match Report,,16,4,,0,0,2024,Al Khaleej
+2023-08-17,21:00,Pro League,Matchweek 2,Thu,Home,L,1.0,3.0,Al-Ahli,48.0,14550.0,Fábio Martins,4-2-3-1,Majed Mohammed Al Shamrani,Match Report,,7,4,,0,0,2024,Al Khaleej
+2023-08-24,21:00,Pro League,Matchweek 3,Thu,Away,D,1.0,1.0,Al-Ettifaq,41.0,4200.0,Fábio Martins,4-2-3-1,Ahmed Mohammed Al Rumaikhani,Match Report,,2,1,,0,0,2024,Al Khaleej
+2023-08-29,21:00,Pro League,Matchweek 4,Tue,Home,D,1.0,1.0,Al-Hazem,55.0,1889.0,Fábio Martins,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,8,3,,0,1,2024,Al Khaleej
+2023-09-02,21:00,Pro League,Matchweek 5,Sat,Away,W,3.0,1.0,Al-Shabab,34.0,987.0,Fábio Martins,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,8,3,,0,0,2024,Al Khaleej
+2023-09-15,21:00,Pro League,Matchweek 6,Fri,Home,L,1.0,3.0,Al-Fateh,49.0,2276.0,Fábio Martins,4-2-3-1,Mohammed Abdulrahman Al Baridi,Match Report,,14,6,,1,1,2024,Al Khaleej
+2023-09-22,18:00,Pro League,Matchweek 7,Fri,Away,W,1.0,0.0,Al Okhdood SC,49.0,887.0,Fábio Martins,4-2-3-1,Mohammed Saif Al Harbi,Match Report,,9,6,,1,2,2024,Al Khaleej
+2023-09-30,21:00,Pro League,Matchweek 8,Sat,Home,L,0.0,2.0,Damac,53.0,,Fábio Martins,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,18,7,,0,0,2024,Al Khaleej
+2023-10-07,21:00,Pro League,Matchweek 9,Sat,Home,D,0.0,0.0,Al-Raed,54.0,,Fábio Martins,4-2-3-1,Abdullah Saleh Al Harbi,Match Report,,9,1,,0,0,2024,Al Khaleej
+2023-10-20,21:00,Pro League,Matchweek 10,Fri,Away,L,0.0,1.0,Al-Hilal,34.0,,Fábio Martins,4-2-3-1,Darío Herrera,Match Report,,10,1,,0,0,2024,Al Khaleej
+2023-10-26,18:00,Pro League,Matchweek 11,Thu,Home,D,1.0,1.0,Al-Taawoun,43.0,,Fábio Martins,4-2-3-1,Mamdouh Mufreh Al Shahdan,Match Report,,9,2,,0,0,2024,Al Khaleej
+2023-11-04,21:00,Pro League,Matchweek 12,Sat,Away,L,0.0,2.0,Al-Nassr,29.0,,Fábio Martins,5-4-1,Guillermo Guerrero,Match Report,,11,2,,0,0,2024,Al Khaleej
+2023-11-09,18:00,Pro League,Matchweek 13,Thu,Home,W,3.0,1.0,Al-Ta'ee,46.0,,Fábio Martins,4-2-3-1,Abdulrahman Mohammed Al Sultan,Match Report,,15,9,,1,1,2024,Al Khaleej
+2023-11-25,21:00,Pro League,Matchweek 14,Sat,Away,L,1.0,3.0,Al-Wehda,56.0,,Fábio Martins,4-1-4-1,Mohammed Abdulrahman Al Baridi,Match Report,,12,7,,1,1,2024,Al Khaleej
+2023-11-30,21:00,Pro League,Matchweek 15,Thu,Away,L,2.0,4.0,Al-Ittihad,47.0,,Mohammed Al-Khabrani,4-1-4-1,Mamdouh Mufreh Al Shahdan,Match Report,,16,6,,1,1,2024,Al Khaleej
+2023-12-08,18:00,Pro League,Matchweek 16,Fri,Home,W,3.0,1.0,Abha,47.0,,Fábio Martins,4-1-4-1,Abdullah Saleh Al Harbi,Match Report,,7,3,,0,0,2024,Al Khaleej
+2023-12-16,18:00,Pro League,Matchweek 17,Sat,Away,W,1.0,0.0,Al-Riyadh SC,48.0,,Mohammed Al-Khabrani,4-5-1,Raed Ali Al Zahrani,Match Report,,11,4,,0,0,2024,Al Khaleej
+2023-12-21,18:00,Pro League,Matchweek 18,Thu,Home,W,3.0,0.0,Al-Fayha,62.0,,Fábio Martins,4-1-4-1,Faisal Suleiman Al Balawi,Match Report,,17,8,,1,1,2024,Al Khaleej
+2023-12-29,21:00,Pro League,Matchweek 19,Fri,Away,L,0.0,1.0,Al-Ahli,40.0,,Fábio Martins,4-1-4-1,István Kovács,Match Report,,6,3,,0,0,2024,Al Khaleej
+2024-02-15,20:00,Pro League,Matchweek 20,Thu,Home,L,0.0,2.0,Al-Ettifaq,49.0,,Fábio Martins,4-1-4-1,Abdullah Khaled Al Kharboush,Match Report,,7,1,,0,0,2024,Al Khaleej
+2024-02-24,20:00,Pro League,Matchweek 21,Sat,Away,D,1.0,1.0,Al-Hazem,58.0,,Fábio Martins,4-1-4-1,Mamdouh Mufreh Al Shahdan,Match Report,,7,0,,0,0,2024,Al Khaleej
+2024-03-02,17:00,Pro League,Matchweek 22,Sat,Home,D,0.0,0.0,Al-Shabab,35.0,,Fábio Martins,4-1-4-1,Ahmed Mohammed Al Rumaikhani,Match Report,,10,3,,0,0,2024,Al Khaleej
+2024-03-09,17:00,Pro League,Matchweek 23,Sat,Away,W,2.0,1.0,Al-Fateh,39.0,,Fábio Martins,4-1-4-1,Mohammed Saif Al Harbi,Match Report,,19,8,,0,0,2024,Al Khaleej
+2024-03-14,22:00,Pro League,Matchweek 24,Thu,Home,D,2.0,2.0,Al Okhdood SC,48.0,,Fábio Martins,4-1-4-1,Mohammed Khaled Al Hoish,Match Report,,8,2,,0,0,2024,Al Khaleej
+2024-03-29,22:00,Pro League,Matchweek 25,Fri,Away,W,1.0,0.0,Damac,34.0,,Fábio Martins,4-1-4-1,Sami Ahmed Al Jurays,Match Report,,5,2,,0,0,2024,Al Khaleej
+2024-04-01,22:00,Pro League,Matchweek 26,Mon,Away,W,1.0,0.0,Al-Raed,44.0,,Mohammed Al-Khabrani,4-1-4-1,Mamdouh Mufreh Al Shahdan,Match Report,,8,3,,0,0,2024,Al Khaleej
+2024-04-05,22:00,Pro League,Matchweek 27,Fri,Home,L,1.0,4.0,Al-Hilal,36.0,,Fábio Martins,4-1-4-1,Harm Osmers,Match Report,,11,1,,0,0,2024,Al Khaleej
+2024-04-18,18:00,Pro League,Matchweek 28,Thu,Away,D,1.0,1.0,Al-Taawoun,50.0,,Fábio Martins,4-1-4-1,Raed Ali Al Zahrani,Match Report,,13,4,,0,0,2024,Al Khaleej
+2024-04-27,21:00,Pro League,Matchweek 29,Sat,Home,L,0.0,1.0,Al-Nassr,43.0,,Mohammed Al-Khabrani,4-1-4-1,Abdullah Khaled Al Kharboush,Match Report,,10,4,,0,0,2024,Al Khaleej
+2024-05-04,18:00,Pro League,Matchweek 30,Sat,Away,D,0.0,0.0,Al-Ta'ee,49.0,7423.0,Lisandro López,4-1-4-1,Khalid Saleh Al Turais,Match Report,,11,1,,0,0,2024,Al Khaleej
+2024-05-10,21:00,Pro League,Matchweek 31,Fri,Home,L,1.0,2.0,Al-Wehda,64.0,,Lisandro López,4-1-4-1,Mamdouh Mufreh Al Shahdan,Match Report,,8,3,,0,0,2024,Al Khaleej
+2024-05-16,21:00,Pro League,Matchweek 32,Thu,Home,D,1.0,1.0,Al-Ittihad,49.0,,Fábio Martins,4-1-4-1,Mohammed Khaled Al Hoish,Match Report,,8,1,,0,0,2024,Al Khaleej
+2023-08-14,18:00,Pro League,Matchweek 1,Mon,Home,L,0.0,3.0,Al-Ittihad,33.0,4149.0,Abdullah Al-Fahad,4-2-2-2,Luís Godinho,Match Report,,5,1,,0,0,2024,Al Raed
+2023-08-19,18:00,Pro League,Matchweek 2,Sat,Away,L,0.0,1.0,Abha,69.0,817.0,Abdullah Al-Fahad,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,14,5,,0,0,2024,Al Raed
+2023-08-24,21:00,Pro League,Matchweek 3,Thu,Home,L,0.0,4.0,Al-Hilal,40.0,20630.0,Abdullah Al-Fahad,4-2-3-1,César Arturo Ramos,Match Report,,7,2,,0,0,2024,Al Raed
+2023-08-28,21:00,Pro League,Matchweek 4,Mon,Home,W,3.0,0.0,Al-Riyadh SC,48.0,3870.0,Abdullah Al-Fahad,4-2-3-1,Faisal Suleiman Al Balawi,Match Report,,10,4,,0,0,2024,Al Raed
+2023-09-01,18:00,Pro League,Matchweek 5,Fri,Away,D,0.0,0.0,Al-Fayha,55.0,1134.0,Mohamed Fouzair,4-2-3-1,Shukri Hussein Al Hunfush,Match Report,,5,1,,0,0,2024,Al Raed
+2023-09-16,18:00,Pro League,Matchweek 6,Sat,Home,L,1.0,3.0,Al-Nassr,37.0,19710.0,Mohamed Fouzair,4-2-2-2,Wilmar Roldán,Match Report,,11,2,,1,1,2024,Al Raed
+2023-09-21,18:00,Pro League,Matchweek 7,Thu,Away,L,1.0,2.0,Al-Taawoun,59.0,8079.0,Abdullah Al-Fahad,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,14,3,,0,0,2024,Al Raed
+2023-09-30,18:00,Pro League,Matchweek 8,Sat,Home,L,1.0,2.0,Al Okhdood SC,58.0,,Mohamed Fouzair,4-1-4-1,Shukri Hussein Al Hunfush,Match Report,,16,3,,0,0,2024,Al Raed
+2023-10-07,21:00,Pro League,Matchweek 9,Sat,Away,D,0.0,0.0,Al-Khaleej,46.0,,Abdullah Al-Fahad,3-4-3,Abdullah Saleh Al Harbi,Match Report,,11,4,,0,0,2024,Al Raed
+2023-10-21,18:00,Pro League,Matchweek 10,Sat,Away,L,3.0,4.0,Al-Hazem,58.0,,Abdullah Al-Fahad,3-4-3,Freeh Khalifa Al Jaloud,Match Report,,19,8,,0,0,2024,Al Raed
+2023-10-27,18:00,Pro League,Matchweek 11,Fri,Home,L,1.0,2.0,Al-Fateh,52.0,,Mohamed Fouzair,4-2-3-1,Raed Ali Al Zahrani,Match Report,,16,6,,1,1,2024,Al Raed
+2023-11-04,21:00,Pro League,Matchweek 12,Sat,Away,D,0.0,0.0,Al-Ettifaq,35.0,,Abdullah Al-Fahad,3-4-3,Majed Mohammed Al Shamrani,Match Report,,2,0,,0,0,2024,Al Raed
+2023-11-09,18:00,Pro League,Matchweek 13,Thu,Home,W,2.0,1.0,Al-Shabab,32.0,,Mohamed Fouzair,5-3-2,Mamdouh Mufreh Al Shahdan,Match Report,,13,4,,0,0,2024,Al Raed
+2023-11-24,21:00,Pro League,Matchweek 14,Fri,Away,L,3.0,4.0,Al-Ta'ee,22.0,,Abdullah Al-Fahad,3-5-2,Abdulsamad Ali Bakri,Match Report,,9,6,,1,1,2024,Al Raed
+2023-12-02,21:00,Pro League,Matchweek 15,Sat,Home,W,2.0,0.0,Al-Wehda,44.0,,Mohamed Fouzair,5-3-2,Sultan Mohammed Al Akairi,Match Report,,8,3,,1,1,2024,Al Raed
+2023-12-09,18:00,Pro League,Matchweek 16,Sat,Away,D,0.0,0.0,Al-Ahli,29.0,,Mohamed Fouzair,5-3-2,Kirill Levnikov,Match Report,,2,0,,0,0,2024,Al Raed
+2023-12-15,18:00,Pro League,Matchweek 17,Fri,Home,L,0.0,1.0,Damac,47.0,,Mohamed Fouzair,5-3-2,Mohammed Nasser Abu Shaqara,Match Report,,5,1,,0,0,2024,Al Raed
+2023-12-23,21:00,Pro League,Matchweek 18,Sat,Away,W,3.0,1.0,Al-Ittihad,39.0,,Mohamed Fouzair,3-4-3,Sami Ahmed Al Jurays,Match Report,,16,7,,0,0,2024,Al Raed
+2023-12-29,18:00,Pro League,Matchweek 19,Fri,Home,W,4.0,3.0,Abha,59.0,,Mohamed Fouzair,3-5-2,Shukri Hussein Al Hunfush,Match Report,,19,7,,0,0,2024,Al Raed
+2024-02-18,17:00,Pro League,Matchweek 20,Sun,Away,L,1.0,3.0,Al-Hilal,26.0,,Mohamed Fouzair,5-3-2,Andris Treimanis,Match Report,,2,1,,0,0,2024,Al Raed
+2024-02-23,17:00,Pro League,Matchweek 21,Fri,Away,D,1.0,1.0,Al-Riyadh SC,45.0,,Amir Sayoud,4-1-4-1,Mohammed Khaled Al Hoish,Match Report,,13,4,,0,0,2024,Al Raed
+2024-02-29,17:00,Pro League,Matchweek 22,Thu,Home,L,1.0,2.0,Al-Fayha,46.0,,Karim El Berkaoui,5-3-2,Raed Ali Al Zahrani,Match Report,,13,3,,0,0,2024,Al Raed
+2024-03-07,20:00,Pro League,Matchweek 23,Thu,Away,W,3.0,1.0,Al-Nassr,29.0,,Mohamed Fouzair,4-2-3-1,Abdullah Khaled Al Kharboush,Match Report,,7,5,,0,0,2024,Al Raed
+2024-03-16,22:00,Pro League,Matchweek 24,Sat,Home,D,0.0,0.0,Al-Taawoun,34.0,,Mohamed Fouzair,4-2-3-1,Faisal Suleiman Al Balawi,Match Report,,11,4,,0,0,2024,Al Raed
+2024-03-29,22:00,Pro League,Matchweek 25,Fri,Away,W,3.0,1.0,Al Okhdood SC,43.0,,Abdullah Al-Fahad,4-2-3-1,Shukri Hussein Al Hunfush,Match Report,,12,6,,0,0,2024,Al Raed
+2024-04-01,22:00,Pro League,Matchweek 26,Mon,Home,L,0.0,1.0,Al-Khaleej,56.0,,Karim El Berkaoui,4-2-3-1,Mamdouh Mufreh Al Shahdan,Match Report,,15,3,,0,0,2024,Al Raed
+2024-04-07,22:00,Pro League,Matchweek 27,Sun,Home,W,2.0,0.0,Al-Hazem,31.0,,Karim El Berkaoui,4-2-3-1,Ahmed Mohammed Al Rumaikhani,Match Report,,12,5,,0,0,2024,Al Raed
+2024-04-18,21:00,Pro League,Matchweek 28,Thu,Away,L,1.0,3.0,Al-Fateh,37.0,,Júlio Tavares,4-2-3-1,Mamdouh Mufreh Al Shahdan,Match Report,,10,2,,0,0,2024,Al Raed
+2024-04-27,18:00,Pro League,Matchweek 29,Sat,Home,D,2.0,2.0,Al-Ettifaq,35.0,,Abdullah Al-Fahad,5-3-2,Abdulrahman Mohammed Al Sultan,Match Report,,8,3,,0,0,2024,Al Raed
+2024-05-04,18:00,Pro League,Matchweek 30,Sat,Away,L,0.0,2.0,Al-Shabab,41.0,,Abdullah Al-Fahad,3-4-3,Raed Ali Al Zahrani,Match Report,,3,1,,0,0,2024,Al Raed
+2024-05-11,18:00,Pro League,Matchweek 31,Sat,Home,D,1.0,1.0,Al-Ta'ee,62.0,,Abdullah Al-Fahad,4-2-3-1,Majed Mohammed Al Shamrani,Match Report,,14,4,,0,0,2024,Al Raed
+2024-05-16,21:00,Pro League,Matchweek 32,Thu,Away,W,1.0,0.0,Al-Wehda,52.0,,Ahmed Al-Rehaili,4-2-3-1,Shukri Hussein Al Hunfush,Match Report,,9,3,,0,0,2024,Al Raed
+2023-08-13,21:00,Pro League,Matchweek 1,Sun,Away,L,0.0,1.0,Al-Riyadh SC,62.0,1419.0,Waleed Bakshween,4-2-3-1,Mamdouh Mufreh Al Shahdan,Match Report,,19,8,,0,0,2024,Al Wehda
+2023-08-18,21:00,Pro League,Matchweek 2,Fri,Home,W,3.0,1.0,Al-Shabab,35.0,3000.0,Waleed Bakshween,4-2-3-1,Shukri Hussein Al Hunfush,Match Report,,8,5,,0,0,2024,Al Wehda
+2023-08-24,18:00,Pro League,Matchweek 3,Thu,Away,W,3.0,0.0,Al-Ta'ee,43.0,2217.0,Abdullah Al-Hafith,4-2-2-2,Mohammed Abdulrahman Al Baridi,Match Report,,12,5,,1,1,2024,Al Wehda
+2023-08-28,21:00,Pro League,Matchweek 4,Mon,Home,L,0.0,3.0,Al-Ittihad,46.0,9500.0,Waleed Bakshween,4-1-4-1,Facundo Tello,Match Report,,11,1,,0,0,2024,Al Wehda
+2023-09-02,21:00,Pro League,Matchweek 5,Sat,Away,L,1.0,4.0,Al-Taawoun,39.0,4197.0,Abdullah Al-Hafith,4-1-4-1,Abdullah Dhafer Al Shehri,Match Report,,7,1,,1,1,2024,Al Wehda
+2023-09-14,21:00,Pro League,Matchweek 6,Thu,Home,W,4.0,2.0,Damac,51.0,820.0,Waleed Bakshween,4-1-4-1,Abdullah Saleh Al Harbi,Match Report,,10,7,,1,1,2024,Al Wehda
+2023-09-22,21:00,Pro League,Matchweek 7,Fri,Home,W,4.0,0.0,Abha,65.0,661.0,Waleed Bakshween,4-1-4-1,Raed Ali Al Zahrani,Match Report,,24,12,,0,0,2024,Al Wehda
+2023-09-30,18:00,Pro League,Matchweek 8,Sat,Away,L,1.0,5.0,Al-Fateh,47.0,2885.0,Waleed Bakshween,4-1-4-1,Mamdouh Mufreh Al Shahdan,Match Report,,7,5,,0,0,2024,Al Wehda
+2023-10-07,21:00,Pro League,Matchweek 9,Sat,Home,D,1.0,1.0,Al-Fayha,58.0,,Alaa Al Hejji,4-2-3-1,Khalid Saleh Al Turais,Match Report,,12,3,,0,0,2024,Al Wehda
+2023-10-21,21:00,Pro League,Matchweek 10,Sat,Away,L,1.0,3.0,Al-Ahli,43.0,,Abdullah Al-Hafith,4-2-3-1,Jesús Valenzuela,Match Report,,3,1,,0,0,2024,Al Wehda
+2023-10-28,21:00,Pro League,Matchweek 11,Sat,Home,L,2.0,3.0,Al-Ettifaq,54.0,1188.0,Abdullah Al-Hafith,4-2-3-1,Khalid Saleh Al Turais,Match Report,,12,5,,0,0,2024,Al Wehda
+2023-11-05,18:00,Pro League,Matchweek 12,Sun,Away,W,2.0,1.0,Al-Hazem,58.0,,Abdullah Al-Hafith,4-2-3-1,Mohammed Saif Al Harbi,Match Report,,14,4,,0,0,2024,Al Wehda
+2023-11-11,21:00,Pro League,Matchweek 13,Sat,Home,L,1.0,3.0,Al-Nassr,41.0,,Waleed Bakshween,4-2-3-1,Fernando Guerrero,Match Report,,16,5,,0,0,2024,Al Wehda
+2023-11-25,21:00,Pro League,Matchweek 14,Sat,Home,W,3.0,1.0,Al-Khaleej,45.0,,Alaa Al Hejji,4-1-4-1,Mohammed Abdulrahman Al Baridi,Match Report,,13,5,,1,1,2024,Al Wehda
+2023-12-02,21:00,Pro League,Matchweek 15,Sat,Away,L,0.0,2.0,Al-Raed,56.0,,Waleed Bakshween,4-1-4-1,Sultan Mohammed Al Akairi,Match Report,,10,1,,0,0,2024,Al Wehda
+2023-12-09,21:00,Pro League,Matchweek 16,Sat,Home,W,2.0,0.0,Al Okhdood SC,49.0,,Waleed Bakshween,4-1-4-1,Khalid Saleh Al Turais,Match Report,,12,7,,0,0,2024,Al Wehda
+2023-12-15,18:00,Pro League,Matchweek 17,Fri,Away,L,0.0,2.0,Al-Hilal,29.0,,Waleed Bakshween,4-2-3-1,Ismail Elfath,Match Report,,9,2,,0,0,2024,Al Wehda
+2023-12-24,21:00,Pro League,Matchweek 18,Sun,Home,W,3.0,1.0,Al-Riyadh SC,45.0,,Anselmo de Moraes,4-2-3-1,Abdullah Khaled Al Kharboush,Match Report,,10,8,,1,1,2024,Al Wehda
+2023-12-30,21:00,Pro League,Matchweek 19,Sat,Away,L,0.0,1.0,Al-Shabab,43.0,,Waleed Bakshween,4-1-4-1,Danny Makkelie,Match Report,,7,1,,0,0,2024,Al Wehda
+2024-02-16,20:00,Pro League,Matchweek 20,Fri,Home,D,1.0,1.0,Al-Ta'ee,57.0,,Waleed Bakshween,4-2-3-1,Khalid Saleh Al Turais,Match Report,,10,1,,0,0,2024,Al Wehda
+2024-02-26,20:00,Pro League,Matchweek 21,Mon,Away,L,1.0,2.0,Al-Ittihad,36.0,,Waleed Bakshween,4-2-3-1,Kevin Ortega,Match Report,,8,3,,0,0,2024,Al Wehda
+2024-02-29,17:00,Pro League,Matchweek 22,Thu,Home,D,3.0,3.0,Al-Taawoun,41.0,,Anselmo de Moraes,4-2-3-1,Freeh Khalifa Al Jaloud,Match Report,,10,5,,1,1,2024,Al Wehda
+2024-03-07,17:00,Pro League,Matchweek 23,Thu,Away,L,0.0,1.0,Damac,44.0,2783.0,Waleed Bakshween,4-1-4-1,Mohammed Abdulrahman Al Baridi,Match Report,,7,0,,0,0,2024,Al Wehda
+2024-03-14,22:00,Pro League,Matchweek 24,Thu,Away,L,0.0,1.0,Abha,53.0,,Waleed Bakshween,4-2-3-1,Abdullah Khaled Al Kharboush,Match Report,,10,1,,0,0,2024,Al Wehda
+2024-03-30,22:00,Pro League,Matchweek 25,Sat,Home,L,2.0,3.0,Al-Fateh,38.0,,Anselmo de Moraes,4-2-3-1,Abdullah Dhafer Al Shehri,Match Report,,17,7,,0,0,2024,Al Wehda
+2024-04-02,22:00,Pro League,Matchweek 26,Tue,Away,W,2.0,1.0,Al-Fayha,50.0,,Waleed Bakshween,4-2-3-1,Mohammed Abdulrahman Al Baridi,Match Report,,14,4,,0,0,2024,Al Wehda
+2024-04-05,22:00,Pro League,Matchweek 27,Fri,Home,D,1.0,1.0,Al-Ahli,27.0,,Waleed Bakshween,4-1-4-1,Mohammed Khaled Al Hoish,Match Report,,9,2,,0,0,2024,Al Wehda
+2024-04-20,21:00,Pro League,Matchweek 28,Sat,Away,D,0.0,0.0,Al-Ettifaq,46.0,,Waleed Bakshween,4-1-4-1,Abdulsamad Ali Bakri,Match Report,,11,2,,0,0,2024,Al Wehda
+2024-04-25,21:00,Pro League,Matchweek 29,Thu,Home,L,0.0,2.0,Al-Hazem,64.0,,Waleed Bakshween,4-1-4-1,Abdullah Saleh Al Harbi,Match Report,,8,3,,0,0,2024,Al Wehda
+2024-05-04,21:00,Pro League,Matchweek 30,Sat,Away,L,0.0,6.0,Al-Nassr,35.0,,Waleed Bakshween,4-2-3-1,Sultan Sanat Al Harbi,Match Report,,6,0,,0,0,2024,Al Wehda
+2024-05-10,21:00,Pro League,Matchweek 31,Fri,Away,W,2.0,1.0,Al-Khaleej,36.0,,Waleed Bakshween,4-2-3-1,Mamdouh Mufreh Al Shahdan,Match Report,,12,4,,1,1,2024,Al Wehda
+2024-05-16,21:00,Pro League,Matchweek 32,Thu,Home,L,0.0,1.0,Al-Raed,48.0,,Waleed Bakshween,4-2-3-1,Shukri Hussein Al Hunfush,Match Report,,9,2,,0,0,2024,Al Wehda
+2023-08-12,18:00,Pro League,Matchweek 1,Sat,Home,W,1.0,0.0,Damac,51.0,1750.0,Alfa Semedo,4-1-4-1,Abdullah Saleh Al Harbi,Match Report,,6,2,,0,0,2024,Al Taee
+2023-08-19,21:00,Pro League,Matchweek 2,Sat,Away,L,0.0,2.0,Al-Ittihad,45.0,21460.0,Alfa Semedo,4-1-4-1,César Arturo Ramos,Match Report,,8,2,,0,0,2024,Al Taee
+2023-08-24,18:00,Pro League,Matchweek 3,Thu,Home,L,0.0,3.0,Al-Wehda,57.0,2217.0,Alfa Semedo,4-1-4-1,Mohammed Abdulrahman Al Baridi,Match Report,,6,3,,0,0,2024,Al Taee
+2023-08-29,21:00,Pro League,Matchweek 4,Tue,Away,L,0.0,2.0,Al-Ahli,41.0,21530.0,Alfa Semedo,4-1-4-1,Fedayi San,Match Report,,3,1,,0,0,2024,Al Taee
+2023-09-01,18:00,Pro League,Matchweek 5,Fri,Home,W,1.0,0.0,Abha,58.0,1172.0,Robert Bauer,4-2-3-1,Faisal Suleiman Al Balawi,Match Report,,15,2,,0,0,2024,Al Taee
+2023-09-16,18:00,Pro League,Matchweek 6,Sat,Away,D,1.0,1.0,Al-Hazem,56.0,554.0,Alfa Semedo,4-2-3-1,Mohammed Salem Al Dagash,Match Report,,12,6,,1,1,2024,Al Taee
+2023-09-21,18:00,Pro League,Matchweek 7,Thu,Away,L,3.0,4.0,Al-Ettifaq,45.0,4865.0,Alfa Semedo,4-2-3-1,Mamdouh Mufreh Al Shahdan,Match Report,,11,6,,0,0,2024,Al Taee
+2023-09-29,18:00,Pro League,Matchweek 8,Fri,Home,L,1.0,2.0,Al-Nassr,42.0,10898.0,Alfa Semedo,4-2-3-1,Matt Conger,Match Report,,11,6,,0,0,2024,Al Taee
+2023-10-05,18:00,Pro League,Matchweek 9,Thu,Away,L,0.0,3.0,Al-Taawoun,51.0,,Alfa Semedo,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,14,4,,0,0,2024,Al Taee
+2023-10-21,21:00,Pro League,Matchweek 10,Sat,Away,L,0.0,2.0,Al-Shabab,54.0,11974.0,Alfa Semedo,4-2-3-1,Shukri Hussein Al Hunfush,Match Report,,5,1,,0,0,2024,Al Taee
+2023-10-27,18:00,Pro League,Matchweek 11,Fri,Home,W,3.0,2.0,Al-Riyadh SC,58.0,,Alfa Semedo,4-2-3-1,Abdulsamad Ali Bakri,Match Report,,9,4,,0,0,2024,Al Taee
+2023-11-03,18:00,Pro League,Matchweek 12,Fri,Home,D,3.0,3.0,Al-Fayha,51.0,4331.0,Alfa Semedo,4-2-3-1,Faisal Suleiman Al Balawi,Match Report,,11,5,,0,0,2024,Al Taee
+2023-11-09,18:00,Pro League,Matchweek 13,Thu,Away,L,1.0,3.0,Al-Khaleej,54.0,,Alfa Semedo,4-2-3-1,Abdulrahman Mohammed Al Sultan,Match Report,,12,4,,0,0,2024,Al Taee
+2023-11-24,21:00,Pro League,Matchweek 14,Fri,Home,W,4.0,3.0,Al-Raed,78.0,,Alfa Semedo,4-1-4-1,Abdulsamad Ali Bakri,Match Report,,16,8,,2,2,2024,Al Taee
+2023-12-02,18:00,Pro League,Matchweek 15,Sat,Away,W,1.0,0.0,Al-Fateh,44.0,,Alfa Semedo,4-1-4-1,Faisal Suleiman Al Balawi,Match Report,,10,8,,1,1,2024,Al Taee
+2023-12-08,18:00,Pro League,Matchweek 16,Fri,Home,L,1.0,2.0,Al-Hilal,34.0,,Alfa Semedo,5-4-1,Alexis Herrera,Match Report,,8,4,,0,0,2024,Al Taee
+2023-12-14,18:00,Pro League,Matchweek 17,Thu,Away,L,0.0,1.0,Al Okhdood SC,56.0,,Alfa Semedo,4-1-4-1,Mohammed Saif Al Harbi,Match Report,,8,3,,0,0,2024,Al Taee
+2023-12-21,18:00,Pro League,Matchweek 18,Thu,Away,L,0.0,3.0,Damac,54.0,,Alfa Semedo,4-1-4-1,Sultan Mohammed Al Akairi,Match Report,,7,2,,0,0,2024,Al Taee
+2024-02-07,21:00,Pro League,Matchweek 19,Wed,Home,L,0.0,3.0,Al-Ittihad,38.0,,Alfa Semedo,4-2-3-1,Sergey Karasev,Match Report,,16,3,,0,0,2024,Al Taee
+2024-02-16,20:00,Pro League,Matchweek 20,Fri,Away,D,1.0,1.0,Al-Wehda,43.0,,Alfa Semedo,4-1-4-1,Khalid Saleh Al Turais,Match Report,,15,3,,0,0,2024,Al Taee
+2024-02-24,17:00,Pro League,Matchweek 21,Sat,Home,L,1.0,4.0,Al-Ahli,44.0,,Alfa Semedo,4-1-4-1,Mohammed Al Hakim,Match Report,,5,3,,0,0,2024,Al Taee
+2024-03-01,17:00,Pro League,Matchweek 22,Fri,Away,L,0.0,2.0,Abha,55.0,,Alfa Semedo,4-1-3-2,Abdulsamad Ali Bakri,Match Report,,10,2,,0,0,2024,Al Taee
+2024-03-08,17:00,Pro League,Matchweek 23,Fri,Home,W,1.0,0.0,Al-Hazem,38.0,,Alfa Semedo,4-2-3-1,Sultan Sanat Al Harbi,Match Report,,12,6,,0,0,2024,Al Taee
+2024-03-15,22:00,Pro League,Matchweek 24,Fri,Home,D,1.0,1.0,Al-Ettifaq,38.0,,Alfa Semedo,4-2-3-1,Khalid Saleh Al Turais,Match Report,,9,4,,0,0,2024,Al Taee
+2024-03-30,22:00,Pro League,Matchweek 25,Sat,Away,L,1.0,5.0,Al-Nassr,31.0,,Alfa Semedo,4-2-3-1,Abdullah Saleh Al Harbi,Match Report,,6,3,,0,0,2024,Al Taee
+2024-04-02,22:00,Pro League,Matchweek 26,Tue,Home,L,2.0,3.0,Al-Taawoun,39.0,,Alfa Semedo,4-2-3-1,Abdullah Khaled Al Kharboush,Match Report,,11,3,,0,0,2024,Al Taee
+2024-04-06,22:00,Pro League,Matchweek 27,Sat,Home,D,0.0,0.0,Al-Shabab,47.0,,Alfa Semedo,4-2-3-1,Sultan Sanat Al Harbi,Match Report,,12,1,,0,0,2024,Al Taee
+2024-04-19,18:00,Pro League,Matchweek 28,Fri,Away,W,2.0,1.0,Al-Riyadh SC,59.0,,Alfa Semedo,4-2-3-1,Faisal Suleiman Al Balawi,Match Report,,11,6,,0,0,2024,Al Taee
+2024-04-25,18:00,Pro League,Matchweek 29,Thu,Away,L,0.0,1.0,Al-Fayha,64.0,,Alfa Semedo,4-2-3-1,Abdulsamad Ali Bakri,Match Report,,12,1,,0,0,2024,Al Taee
+2024-05-04,18:00,Pro League,Matchweek 30,Sat,Home,D,0.0,0.0,Al-Khaleej,51.0,7423.0,Alfa Semedo,4-2-3-1,Khalid Saleh Al Turais,Match Report,,12,2,,0,0,2024,Al Taee
+2024-05-11,18:00,Pro League,Matchweek 31,Sat,Away,D,1.0,1.0,Al-Raed,38.0,,Alfa Semedo,4-1-4-1,Majed Mohammed Al Shamrani,Match Report,,6,1,,0,0,2024,Al Taee
+2024-05-16,18:00,Pro League,Matchweek 32,Thu,Home,W,3.0,1.0,Al-Fateh,50.0,,Alfa Semedo,4-2-3-1,Sultan Sanat Al Harbi,Match Report,,17,6,,0,0,2024,Al Taee
+2023-08-13,21:00,Pro League,Matchweek 1,Sun,Home,W,1.0,0.0,Al-Wehda,38.0,1419.0,Knowledge Musona,3-4-3,Mamdouh Mufreh Al Shahdan,Match Report,,6,3,,0,0,2024,Al Riyadh SC
+2023-08-17,18:00,Pro League,Matchweek 2,Thu,Away,D,2.0,2.0,Damac,44.0,1109.0,Knowledge Musona,4-2-2-2,Abdullah Khaled Al Kharboush,Match Report,,5,3,,0,0,2024,Al Riyadh SC
+2023-08-24,21:00,Pro League,Matchweek 3,Thu,Home,L,0.0,4.0,Al-Ittihad,42.0,8618.0,Knowledge Musona,4-2-2-2,Iván Barton,Match Report,,9,4,,0,1,2024,Al Riyadh SC
+2023-08-28,21:00,Pro League,Matchweek 4,Mon,Away,L,0.0,3.0,Al-Raed,52.0,3870.0,Knowledge Musona,4-2-2-2,Faisal Suleiman Al Balawi,Match Report,,10,4,,0,0,2024,Al Riyadh SC
+2023-09-01,21:00,Pro League,Matchweek 5,Fri,Home,L,0.0,1.0,Al Okhdood SC,51.0,133.0,Knowledge Musona,4-2-2-2,Sami Ahmed Al Jurays,Match Report,,7,1,,0,0,2024,Al Riyadh SC
+2023-09-15,21:00,Pro League,Matchweek 6,Fri,Away,L,1.0,6.0,Al-Hilal,33.0,15373.0,Knowledge Musona,4-2-2-2,Tamás Bognár,Match Report,,9,2,,0,0,2024,Al Riyadh SC
+2023-09-22,18:00,Pro League,Matchweek 7,Fri,Home,L,1.0,3.0,Al-Fayha,52.0,281.0,Knowledge Musona,4-2-3-1,Abdulrahman Mohammed Al Sultan,Match Report,,8,3,,0,0,2024,Al Riyadh SC
+2023-09-30,15:00,Pro League,Matchweek 8,Sat,Away,W,1.0,0.0,Abha,41.0,,Knowledge Musona,4-2-3-1,Mohammed Salem Al Dagash,Match Report,,5,2,,0,0,2024,Al Riyadh SC
+2023-10-05,18:00,Pro League,Matchweek 9,Thu,Home,D,2.0,2.0,Al-Shabab,29.0,,Knowledge Musona,4-2-3-1,Raed Ali Al Zahrani,Match Report,,8,4,,0,0,2024,Al Riyadh SC
+2023-10-22,18:00,Pro League,Matchweek 10,Sun,Home,W,1.0,0.0,Al-Ettifaq,32.0,,Mohammed Al Shwirekh,4-2-2-2,Ahmed Mohammed Al Rumaikhani,Match Report,,5,3,,0,0,2024,Al Riyadh SC
+2023-10-27,18:00,Pro League,Matchweek 11,Fri,Away,L,2.0,3.0,Al-Ta'ee,42.0,,Mohammed Al Shwirekh,4-2-2-2,Abdulsamad Ali Bakri,Match Report,,7,4,,1,1,2024,Al Riyadh SC
+2023-11-05,21:00,Pro League,Matchweek 12,Sun,Away,L,0.0,3.0,Al-Ahli,41.0,,Mohammed Al Shwirekh,5-4-1,Ramon Abatti,Match Report,,10,2,,0,0,2024,Al Riyadh SC
+2023-11-09,21:00,Pro League,Matchweek 13,Thu,Home,D,1.0,1.0,Al-Fateh,53.0,,Mohammed Al Shwirekh,4-2-3-1,Abdullah Dhafer Al Shehri,Match Report,,15,5,,0,0,2024,Al Riyadh SC
+2023-11-24,18:00,Pro League,Matchweek 14,Fri,Away,W,2.0,1.0,Al-Taawoun,47.0,,Mohammed Al Shwirekh,4-1-4-1,Shukri Hussein Al Hunfush,Match Report,,12,3,,1,1,2024,Al Riyadh SC
+2023-11-30,18:00,Pro League,Matchweek 15,Thu,Home,D,0.0,0.0,Al-Hazem,52.0,,Abdulelah Al Khaibari,4-2-3-1,Mohammed Salem Al Dagash,Match Report,,3,0,,0,0,2024,Al Riyadh SC
+2023-12-08,21:00,Pro League,Matchweek 16,Fri,Away,L,1.0,4.0,Al-Nassr,33.0,,Abdulelah Al Khaibari,4-2-3-1,Majed Mohammed Al Shamrani,Match Report,,1,1,,0,0,2024,Al Riyadh SC
+2023-12-16,18:00,Pro League,Matchweek 17,Sat,Home,L,0.0,1.0,Al-Khaleej,52.0,,Knowledge Musona,4-2-2-2,Raed Ali Al Zahrani,Match Report,,2,0,,0,0,2024,Al Riyadh SC
+2023-12-24,21:00,Pro League,Matchweek 18,Sun,Away,L,1.0,3.0,Al-Wehda,55.0,,Martín Campaña,4-1-4-1,Abdullah Khaled Al Kharboush,Match Report,,11,6,,0,0,2024,Al Riyadh SC
+2023-12-28,18:00,Pro League,Matchweek 19,Thu,Home,W,1.0,0.0,Damac,35.0,,Knowledge Musona,4-2-3-1,Ahmed Mohammed Al Rumaikhani,Match Report,,4,2,,0,0,2024,Al Riyadh SC
+2024-02-18,20:00,Pro League,Matchweek 20,Sun,Away,L,0.0,2.0,Al-Ittihad,40.0,,Knowledge Musona,4-2-3-1,Nazareno Arasa,Match Report,,7,0,,0,0,2024,Al Riyadh SC
+2024-02-23,17:00,Pro League,Matchweek 21,Fri,Home,D,1.0,1.0,Al-Raed,55.0,,Knowledge Musona,3-4-3,Mohammed Khaled Al Hoish,Match Report,,6,3,,0,0,2024,Al Riyadh SC
+2024-03-01,17:00,Pro League,Matchweek 22,Fri,Away,W,2.0,1.0,Al Okhdood SC,51.0,,Knowledge Musona,4-2-3-1,Urs Schnyder,Match Report,,10,5,,0,0,2024,Al Riyadh SC
+2024-03-08,17:00,Pro League,Matchweek 23,Fri,Home,L,1.0,3.0,Al-Hilal,24.0,,Knowledge Musona,5-4-1,Wilton Pereira Sampaio,Match Report,,4,3,,0,0,2024,Al Riyadh SC
+2024-03-15,22:00,Pro League,Matchweek 24,Fri,Away,D,1.0,1.0,Al-Fayha,47.0,,Knowledge Musona,4-2-2-2,Ahmed Alromkhani,Match Report,,9,1,,0,0,2024,Al Riyadh SC
+2024-03-30,22:00,Pro League,Matchweek 25,Sat,Home,D,1.0,1.0,Abha,65.0,,Abdulelah Al Khaibari,3-4-3,Majed Mohammed Al Shamrani,Match Report,,10,3,,0,0,2024,Al Riyadh SC
+2024-04-03,22:00,Pro League,Matchweek 26,Wed,Away,L,0.0,1.0,Al-Shabab,41.0,,Abdulelah Al Khaibari,3-4-3,Khalid Saleh Al Turais,Match Report,,5,1,,0,0,2024,Al Riyadh SC
+2024-04-06,22:00,Pro League,Matchweek 27,Sat,Away,L,0.0,1.0,Al-Ettifaq,49.0,,Abdulelah Al Khaibari,4-2-3-1,Majed Mohammed Al Shamrani,Match Report,,8,2,,0,0,2024,Al Riyadh SC
+2024-04-19,18:00,Pro League,Matchweek 28,Fri,Home,L,1.0,2.0,Al-Ta'ee,41.0,,Abdulelah Al Khaibari,4-2-3-1,Faisal Suleiman Al Balawi,Match Report,,7,2,,0,0,2024,Al Riyadh SC
+2024-04-25,21:00,Pro League,Matchweek 29,Thu,Home,W,2.0,1.0,Al-Ahli,33.0,,Knowledge Musona,4-2-2-2,Sami Ahmed Al Jurays,Match Report,,6,3,,1,1,2024,Al Riyadh SC
+2024-05-02,21:00,Pro League,Matchweek 30,Thu,Away,D,2.0,2.0,Al-Fateh,33.0,,Knowledge Musona,4-2-2-2,Abdullah Khaled Al Kharboush,Match Report,,7,4,,0,0,2024,Al Riyadh SC
+2024-05-09,18:00,Pro League,Matchweek 31,Thu,Home,D,0.0,0.0,Al-Taawoun,43.0,,Knowledge Musona,4-2-2-2,Mohammed Khaled Al Hoish,Match Report,,3,1,,0,0,2024,Al Riyadh SC
+2024-05-18,19:20,Pro League,Matchweek 32,Sat,Away,D,1.0,1.0,Al-Hazem,37.0,305.0,Abdulelah Al Khaibari,4-2-3-1,Majed Mohammed Al Shamrani,Match Report,,2,1,,0,0,2024,Al Riyadh SC
+2023-08-14,21:00,Pro League,Matchweek 1,Mon,Away,D,1.0,1.0,Al-Shabab,33.0,1974.0,Hussian Al Zabdani,4-2-2-2,Majed Mohammed Al Shamrani,Match Report,,8,3,,1,1,2024,Al Okhdood SC
+2023-08-18,18:00,Pro League,Matchweek 2,Fri,Home,L,1.0,3.0,Al-Fateh,44.0,1255.0,Hussian Al Zabdani,4-2-2-2,Abdullah Dhafer Al Shehri,Match Report,,12,2,,0,0,2024,Al Okhdood SC
+2023-08-24,21:00,Pro League,Matchweek 3,Thu,Away,L,0.0,1.0,Al-Ahli,33.0,23100.0,Hussian Al Zabdani,3-4-3,Mohammed Khaled Al Hoish,Match Report,,6,1,,0,0,2024,Al Okhdood SC
+2023-08-29,18:00,Pro League,Matchweek 4,Tue,Home,L,0.0,1.0,Al-Taawoun,37.0,1520.0,Hussian Al Zabdani,3-4-3,Mamdouh Mufreh Al Shahdan,Match Report,,4,2,,0,0,2024,Al Okhdood SC
+2023-09-01,21:00,Pro League,Matchweek 5,Fri,Away,W,1.0,0.0,Al-Riyadh SC,49.0,133.0,Hussian Al Zabdani,3-4-3,Sami Ahmed Al Jurays,Match Report,,7,3,,0,0,2024,Al Okhdood SC
+2023-09-14,18:00,Pro League,Matchweek 6,Thu,Home,L,0.0,1.0,Al-Ittihad,38.0,6971.0,Hussian Al Zabdani,3-4-3,Piero Maza,Match Report,,8,4,,0,0,2024,Al Okhdood SC
+2023-09-22,18:00,Pro League,Matchweek 7,Fri,Home,L,0.0,1.0,Al-Khaleej,51.0,887.0,Hussian Al Zabdani,3-4-3,Mohammed Saif Al Harbi,Match Report,,9,4,,0,0,2024,Al Okhdood SC
+2023-09-30,18:00,Pro League,Matchweek 8,Sat,Away,W,2.0,1.0,Al-Raed,42.0,,Hussian Al Zabdani,4-2-3-1,Shukri Hussein Al Hunfush,Match Report,,9,5,,1,1,2024,Al Okhdood SC
+2023-10-07,18:00,Pro League,Matchweek 9,Sat,Home,L,0.0,3.0,Al-Hilal,27.0,,Hussian Al Zabdani,3-4-3,Halil Umut Meler,Match Report,,6,1,,0,0,2024,Al Okhdood SC
+2023-10-20,18:00,Pro League,Matchweek 10,Fri,Home,L,1.0,2.0,Al-Fayha,56.0,,Hussian Al Zabdani,4-2-3-1,Sultan Mohammed Al Akairi,Match Report,,15,6,,0,0,2024,Al Okhdood SC
+2023-10-26,18:00,Pro League,Matchweek 11,Thu,Away,L,0.0,2.0,Damac,50.0,1614.0,Hussian Al Zabdani,4-2-3-1,Faisal Suleiman Al Balawi,Match Report,,13,4,,0,0,2024,Al Okhdood SC
+2023-11-04,18:00,Pro League,Matchweek 12,Sat,Away,L,2.0,3.0,Abha,45.0,,Léandre Tawamba,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,22,7,,0,0,2024,Al Okhdood SC
+2023-11-11,18:00,Pro League,Matchweek 13,Sat,Home,W,2.0,1.0,Al-Hazem,36.0,,Hussian Al Zabdani,3-4-3,Matt Conger,Match Report,,16,7,,0,0,2024,Al Okhdood SC
+2023-11-24,21:00,Pro League,Matchweek 14,Fri,Away,L,0.0,3.0,Al-Nassr,30.0,,Hussian Al Zabdani,5-4-1,Faisal Suleiman Al Balawi,Match Report,,8,5,,0,0,2024,Al Okhdood SC
+2023-12-02,18:00,Pro League,Matchweek 15,Sat,Home,W,1.0,0.0,Al-Ettifaq,44.0,,Léandre Tawamba,5-4-1,Andris Treimanis,Match Report,,9,1,,0,0,2024,Al Okhdood SC
+2023-12-09,21:00,Pro League,Matchweek 16,Sat,Away,L,0.0,2.0,Al-Wehda,51.0,,Hussian Al Zabdani,5-4-1,Khalid Saleh Al Turais,Match Report,,20,4,,0,0,2024,Al Okhdood SC
+2023-12-14,18:00,Pro League,Matchweek 17,Thu,Home,W,1.0,0.0,Al-Ta'ee,44.0,,Léandre Tawamba,4-2-3-1,Mohammed Saif Al Harbi,Match Report,,16,5,,0,0,2024,Al Okhdood SC
+2023-12-22,18:00,Pro League,Matchweek 18,Fri,Home,W,1.0,0.0,Al-Shabab,27.0,,Léandre Tawamba,4-4-1-1,Andrei Chivulete,Match Report,,7,2,,0,0,2024,Al Okhdood SC
+2023-12-30,18:00,Pro League,Matchweek 19,Sat,Away,D,0.0,0.0,Al-Fateh,36.0,,Léandre Tawamba,4-2-3-1,Majed Mohammed Al Shamrani,Match Report,,8,2,,0,0,2024,Al Okhdood SC
+2024-02-16,20:00,Pro League,Matchweek 20,Fri,Home,W,3.0,2.0,Al-Ahli,29.0,,Léandre Tawamba,5-4-1,Kirill Levnikov,Match Report,,5,3,,0,0,2024,Al Okhdood SC
+2024-02-23,17:00,Pro League,Matchweek 21,Fri,Away,L,1.0,3.0,Al-Taawoun,39.0,,Léandre Tawamba,5-4-1,Sebastían Zunino,Match Report,,9,3,,0,0,2024,Al Okhdood SC
+2024-03-01,17:00,Pro League,Matchweek 22,Fri,Home,L,1.0,2.0,Al-Riyadh SC,49.0,,Léandre Tawamba,4-1-4-1,Urs Schnyder,Match Report,,14,5,,0,0,2024,Al Okhdood SC
+2024-03-08,20:00,Pro League,Matchweek 23,Fri,Away,L,1.0,2.0,Al-Ittihad,37.0,,Léandre Tawamba,5-3-2,Yael Falcón,Match Report,,12,3,,0,0,2024,Al Okhdood SC
+2024-03-14,22:00,Pro League,Matchweek 24,Thu,Away,D,2.0,2.0,Al-Khaleej,52.0,,Léandre Tawamba,5-3-2,Mohammed Khaled Al Hoish,Match Report,,12,5,,1,1,2024,Al Okhdood SC
+2024-03-29,22:00,Pro League,Matchweek 25,Fri,Home,L,1.0,3.0,Al-Raed,57.0,,Léandre Tawamba,4-2-3-1,Shukri Hussein Al Hunfush,Match Report,,13,2,,1,1,2024,Al Okhdood SC
+2024-04-02,22:00,Pro League,Matchweek 26,Tue,Away,L,0.0,3.0,Al-Hilal,27.0,,Saeed Al Rubaie,3-4-3,Bastian Dankert,Match Report,,10,2,,0,0,2024,Al Okhdood SC
+2024-04-07,22:00,Pro League,Matchweek 27,Sun,Away,L,0.0,3.0,Al-Fayha,50.0,,Saeed Al Rubaie,5-4-1,Abdullah Saleh Al Harbi,Match Report,,22,4,,0,0,2024,Al Okhdood SC
+2024-04-20,18:00,Pro League,Matchweek 28,Sat,Home,L,1.0,2.0,Damac,46.0,,Léandre Tawamba,4-2-3-1,Khalid Saleh Al Turais,Match Report,,16,7,,0,0,2024,Al Okhdood SC
+2024-04-27,18:00,Pro League,Matchweek 29,Sat,Home,W,4.0,0.0,Abha,49.0,,Léandre Tawamba,4-1-4-1,Mohammed Khaled Al Hoish,Match Report,,18,5,,0,0,2024,Al Okhdood SC
+2024-05-02,18:00,Pro League,Matchweek 30,Thu,Away,D,0.0,0.0,Al-Hazem,46.0,,Léandre Tawamba,4-1-4-1,Shukri Hussein Al Hunfush,Match Report,,18,4,,0,0,2024,Al Okhdood SC
+2024-05-09,21:00,Pro League,Matchweek 31,Thu,Home,L,2.0,3.0,Al-Nassr,32.0,,Saeed Al Rubaie,4-1-4-1,Faisal Suleiman Al Balawi,Match Report,,13,5,,0,0,2024,Al Okhdood SC
+2024-05-17,21:00,Pro League,Matchweek 32,Fri,Away,D,1.0,1.0,Al-Ettifaq,49.0,,Léandre Tawamba,4-1-4-1,Khalid Saleh Al Turais,Match Report,,16,5,,0,0,2024,Al Okhdood SC
+2023-08-14,18:00,Pro League,Matchweek 1,Mon,Home,L,1.0,3.0,Al-Hilal,28.0,7079.0,Saad Bguir,4-4-1-1,Radu Petrescu,Match Report,,12,4,,0,0,2024,Abha
+2023-08-19,18:00,Pro League,Matchweek 2,Sat,Home,W,1.0,0.0,Al-Raed,32.0,817.0,Saad Bguir,4-2-2-2,Mohammed Khaled Al Hoish,Match Report,,8,2,,0,0,2024,Abha
+2023-08-25,21:00,Pro League,Matchweek 3,Fri,Away,L,0.0,1.0,Al-Taawoun,37.0,4434.0,Saad Bguir,4-2-2-2,Abdullah Khaled Al Kharboush,Match Report,,13,1,,0,0,2024,Abha
+2023-08-28,18:00,Pro League,Matchweek 4,Mon,Home,W,2.0,1.0,Al-Fayha,38.0,856.0,Zakaria Sami,4-2-2-2,Abdulsamad Ali Bakri,Match Report,,8,3,,0,0,2024,Abha
+2023-09-01,18:00,Pro League,Matchweek 5,Fri,Away,L,0.0,1.0,Al-Ta'ee,42.0,1172.0,Zakaria Sami,4-2-2-2,Faisal Suleiman Al Balawi,Match Report,,12,3,,0,0,2024,Abha
+2023-09-16,15:00,Pro League,Matchweek 6,Sat,Home,L,1.0,3.0,Al-Ettifaq,38.0,976.0,Ahmed Al-Habib,4-2-2-2,Sultan Mohammed Al Akairi,Match Report,,11,4,,1,1,2024,Abha
+2023-09-22,21:00,Pro League,Matchweek 7,Fri,Away,L,0.0,4.0,Al-Wehda,35.0,661.0,Zakaria Sami,4-2-2-2,Raed Ali Al Zahrani,Match Report,,8,4,,0,0,2024,Abha
+2023-09-30,15:00,Pro League,Matchweek 8,Sat,Home,L,0.0,1.0,Al-Riyadh SC,59.0,,Zakaria Sami,4-1-4-1,Mohammed Salem Al Dagash,Match Report,,18,2,,0,0,2024,Abha
+2023-10-06,18:00,Pro League,Matchweek 9,Fri,Away,D,2.0,2.0,Al-Nassr,40.0,,Saad Bguir,4-1-4-1,Mario Escobar,Match Report,,8,6,,1,1,2024,Abha
+2023-10-20,21:00,Pro League,Matchweek 10,Fri,Away,L,1.0,4.0,Al-Fateh,42.0,9852.0,Saad Bguir,5-4-1,Mohammed Saif Al Harbi,Match Report,,15,5,,0,0,2024,Abha
+2023-10-28,18:00,Pro League,Matchweek 11,Sat,Home,W,2.0,1.0,Al-Shabab,43.0,,Saad Bguir,3-4-3,Mohammed Khaled Al Hoish,Match Report,,10,4,,0,0,2024,Abha
+2023-11-04,18:00,Pro League,Matchweek 12,Sat,Home,W,3.0,2.0,Al Okhdood SC,55.0,,Saad Bguir,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,10,4,,0,0,2024,Abha
+2023-11-10,21:00,Pro League,Matchweek 13,Fri,Away,L,2.0,4.0,Al-Ittihad,48.0,,Saad Bguir,5-2-1-2,Kevin Ortega,Match Report,,16,4,,0,0,2024,Abha
+2023-11-25,21:00,Pro League,Matchweek 14,Sat,Away,L,2.0,4.0,Damac,41.0,,Saad Bguir,3-5-2,Ahmed Mohammed Al Rumaikhani,Match Report,,13,6,,0,0,2024,Abha
+2023-11-30,18:00,Pro League,Matchweek 15,Thu,Home,L,0.0,6.0,Al-Ahli,44.0,,Saad Bguir,3-4-3,Sergey Karasev,Match Report,,10,2,,0,0,2024,Abha
+2023-12-08,18:00,Pro League,Matchweek 16,Fri,Away,L,1.0,3.0,Al-Khaleej,53.0,,Saad Bguir,3-4-3,Abdullah Saleh Al Harbi,Match Report,,13,3,,0,0,2024,Abha
+2023-12-14,18:00,Pro League,Matchweek 17,Thu,Home,D,1.0,1.0,Al-Hazem,56.0,,Saad Bguir,4-1-4-1,Mohammed Abdulrahman Al Baridi,Match Report,,9,1,,0,0,2024,Abha
+2023-12-21,21:00,Pro League,Matchweek 18,Thu,Away,L,0.0,7.0,Al-Hilal,34.0,,Saad Bguir,4-1-4-1,Bastian Dankert,Match Report,,9,3,,0,0,2024,Abha
+2023-12-29,18:00,Pro League,Matchweek 19,Fri,Away,L,3.0,4.0,Al-Raed,41.0,,Saad Bguir,4-1-4-1,Shukri Hussein Al Hunfush,Match Report,,6,5,,0,0,2024,Abha
+2024-02-15,17:00,Pro League,Matchweek 20,Thu,Home,D,1.0,1.0,Al-Taawoun,38.0,,Saad Bguir,4-2-3-1,Faisal Suleiman Al Balawi,Match Report,,2,0,,0,0,2024,Abha
+2024-02-25,17:00,Pro League,Matchweek 21,Sun,Away,L,2.0,3.0,Al-Fayha,66.0,,Zakaria Sami,4-1-4-1,Abdullah Saleh Al Harbi,Match Report,,16,4,,1,1,2024,Abha
+2024-03-01,17:00,Pro League,Matchweek 22,Fri,Home,W,2.0,0.0,Al-Ta'ee,45.0,,Zakaria Sami,4-2-3-1,Abdulsamad Ali Bakri,Match Report,,10,5,,0,0,2024,Abha
+2024-03-09,17:00,Pro League,Matchweek 23,Sat,Away,L,0.0,3.0,Al-Ettifaq,32.0,,Fahad bin Jumayah,5-3-2,Mohammed Nasser Abu Shaqara,Match Report,,7,0,,0,0,2024,Abha
+2024-03-14,22:00,Pro League,Matchweek 24,Thu,Home,W,1.0,0.0,Al-Wehda,48.0,,Fahad bin Jumayah,4-1-4-1,Abdullah Khaled Al Kharboush,Match Report,,14,4,,0,0,2024,Abha
+2024-03-30,22:00,Pro League,Matchweek 25,Sat,Away,D,1.0,1.0,Al-Riyadh SC,35.0,,Fahad bin Jumayah,4-2-3-1,Majed Mohammed Al Shamrani,Match Report,,5,1,,0,0,2024,Abha
+2024-04-02,22:00,Pro League,Matchweek 26,Tue,Home,L,0.0,8.0,Al-Nassr,33.0,,Fahad bin Jumayah,4-2-3-1,Ahmed Mohammed Al Rumaikhani,Match Report,,9,2,,0,0,2024,Abha
+2024-04-07,22:00,Pro League,Matchweek 27,Sun,Home,W,2.0,1.0,Al-Fateh,24.0,,Fahad bin Jumayah,4-2-3-1,Mohammed Saif Al Harbi,Match Report,,9,6,,0,0,2024,Abha
+2024-04-18,21:00,Pro League,Matchweek 28,Thu,Away,L,0.0,5.0,Al-Shabab,32.0,,Saad Bguir,4-1-4-1,Shukri Hussein Al Hunfush,Match Report,,6,1,,0,0,2024,Abha
+2024-04-27,18:00,Pro League,Matchweek 29,Sat,Away,L,0.0,4.0,Al Okhdood SC,51.0,,Saad Bguir,4-2-2-2,Mohammed Khaled Al Hoish,Match Report,,7,4,,0,1,2024,Abha
+2024-05-03,21:00,Pro League,Matchweek 30,Fri,Home,W,3.0,1.0,Al-Ittihad,27.0,,Fahad bin Jumayah,5-4-1,Ahmed Mohammed Al Rumaikhani,Match Report,,6,5,,1,1,2024,Abha
+2024-05-10,18:00,Pro League,Matchweek 31,Fri,Home,D,0.0,0.0,Damac,35.0,,Fahad bin Jumayah,5-4-1,Sami Ahmed Al Jurays,Match Report,,9,2,,0,1,2024,Abha
+2024-05-18,21:00,Pro League,Matchweek 32,Sat,Away,L,1.0,5.0,Al-Ahli,24.0,,Ibrahim Al-Zubaidi,5-4-1,Tamás Bognár,Match Report,,4,0,,0,0,2024,Abha
+2023-08-11,21:00,Pro League,Matchweek 1,Fri,Away,L,1.0,3.0,Al-Ahli,41.0,24006.0,Talal Al-Absi,3-4-1-2,Khalid Saleh Al Turais,Match Report,,11,2,,0,0,2024,Al Hazem
+2023-08-18,21:00,Pro League,Matchweek 2,Fri,Home,L,0.0,2.0,Al-Ettifaq,52.0,1024.0,Abdurahman Al Dakheel,3-4-1-2,Raed Ali Al Zahrani,Match Report,,5,2,,0,0,2024,Al Hazem
+2023-08-25,18:00,Pro League,Matchweek 3,Fri,Away,D,0.0,0.0,Al-Fayha,49.0,465.0,Abdurahman Al Dakheel,3-4-1-2,Sultan Mohammed Al Akairi,Match Report,,5,1,,0,1,2024,Al Hazem
+2023-08-29,21:00,Pro League,Matchweek 4,Tue,Away,D,1.0,1.0,Al-Khaleej,45.0,1889.0,Abdurahman Al Dakheel,4-2-2-2,Sami Ahmed Al Jurays,Match Report,,13,6,,1,1,2024,Al Hazem
+2023-09-02,21:00,Pro League,Matchweek 5,Sat,Home,L,1.0,5.0,Al-Nassr,31.0,12297.0,Abdurahman Al Dakheel,4-2-2-2,Darío Herrera,Match Report,,5,4,,0,0,2024,Al Hazem
+2023-09-16,18:00,Pro League,Matchweek 6,Sat,Home,D,1.0,1.0,Al-Ta'ee,44.0,554.0,Tozé,4-2-2-2,Mohammed Salem Al Dagash,Match Report,,11,4,,1,1,2024,Al Hazem
+2023-09-21,21:00,Pro League,Matchweek 7,Thu,Away,L,1.0,4.0,Al-Shabab,44.0,2450.0,Tozé,4-2-2-2,Majed Mohammed Al Shamrani,Match Report,,7,5,,0,0,2024,Al Hazem
+2023-09-29,18:00,Pro League,Matchweek 8,Fri,Home,L,1.0,3.0,Al-Taawoun,38.0,959.0,Talal Al-Absi,4-2-3-1,Faisal Suleiman Al Balawi,Match Report,,11,3,,1,1,2024,Al Hazem
+2023-10-05,15:00,Pro League,Matchweek 9,Thu,Away,L,1.0,4.0,Damac,49.0,,Talal Al-Absi,4-2-3-1,Abdulrahman Mohammed Al Sultan,Match Report,,12,4,,0,0,2024,Al Hazem
+2023-10-21,18:00,Pro League,Matchweek 10,Sat,Home,W,4.0,3.0,Al-Raed,42.0,,Ibrahim Zaied,4-1-4-1,Freeh Khalifa Al Jaloud,Match Report,,6,6,,0,0,2024,Al Hazem
+2023-10-26,21:00,Pro League,Matchweek 11,Thu,Away,D,2.0,2.0,Al-Ittihad,40.0,,Ibrahim Zaied,4-1-4-1,Alexis Herrera,Match Report,,12,5,,0,0,2024,Al Hazem
+2023-11-05,18:00,Pro League,Matchweek 12,Sun,Home,L,1.0,2.0,Al-Wehda,42.0,,Ibrahim Zaied,4-1-4-1,Mohammed Saif Al Harbi,Match Report,,9,1,,0,0,2024,Al Hazem
+2023-11-11,18:00,Pro League,Matchweek 13,Sat,Away,L,1.0,2.0,Al Okhdood SC,64.0,,Abdurahman Al Dakheel,4-1-4-1,Matt Conger,Match Report,,18,5,,0,0,2024,Al Hazem
+2023-11-25,18:00,Pro League,Matchweek 14,Sat,Home,L,0.0,9.0,Al-Hilal,31.0,,Talal Al-Absi,4-3-1-2,Fabio Maresca,Match Report,,5,2,,0,0,2024,Al Hazem
+2023-11-30,18:00,Pro League,Matchweek 15,Thu,Away,D,0.0,0.0,Al-Riyadh SC,49.0,,Mohammed Abousaban,4-3-1-2,Mohammed Salem Al Dagash,Match Report,,15,8,,0,0,2024,Al Hazem
+2023-12-07,18:00,Pro League,Matchweek 16,Thu,Home,W,2.0,0.0,Al-Fateh,45.0,,Tozé,4-3-1-2,Ahmed Alromkhani,Match Report,,15,5,,1,1,2024,Al Hazem
+2023-12-14,18:00,Pro League,Matchweek 17,Thu,Away,D,1.0,1.0,Abha,44.0,,Tozé,4-1-4-1,Mohammed Abdulrahman Al Baridi,Match Report,,10,4,,0,0,2024,Al Hazem
+2023-12-22,18:00,Pro League,Matchweek 18,Fri,Home,L,0.0,4.0,Al-Ahli,40.0,,Tozé,4-2-2-2,Juan Gabriel Benítez,Match Report,,10,4,,0,0,2024,Al Hazem
+2023-12-28,18:00,Pro League,Matchweek 19,Thu,Away,D,1.0,1.0,Al-Ettifaq,38.0,,Tozé,4-1-4-1,Abdullah Saleh Al Harbi,Match Report,,7,3,,1,1,2024,Al Hazem
+2024-02-17,17:00,Pro League,Matchweek 20,Sat,Home,L,1.0,3.0,Al-Fayha,52.0,,Tozé,4-1-4-1,Majed Mohammed Al Shamrani,Match Report,,19,4,,0,0,2024,Al Hazem
+2024-02-24,20:00,Pro League,Matchweek 21,Sat,Home,D,1.0,1.0,Al-Khaleej,42.0,,Tozé,4-2-3-1,Mamdouh Mufreh Al Shahdan,Match Report,,15,6,,0,0,2024,Al Hazem
+2024-02-29,20:00,Pro League,Matchweek 22,Thu,Away,D,4.0,4.0,Al-Nassr,31.0,,Tozé,4-2-2-2,Shukri Hussein Al Hunfush,Match Report,,14,5,,0,0,2024,Al Hazem
+2024-03-08,17:00,Pro League,Matchweek 23,Fri,Away,L,0.0,1.0,Al-Ta'ee,62.0,,Tozé,4-2-3-1,Sultan Sanat Al Harbi,Match Report,,16,4,,0,0,2024,Al Hazem
+2024-03-14,22:00,Pro League,Matchweek 24,Thu,Home,L,0.0,3.0,Al-Shabab,51.0,,Talal Al-Absi,4-2-3-1,Georgi Kabakov,Match Report,,11,0,,0,0,2024,Al Hazem
+2024-03-29,22:00,Pro League,Matchweek 25,Fri,Away,L,0.0,4.0,Al-Taawoun,41.0,,Tozé,4-1-4-1,Abdulsamad Ali Bakri,Match Report,,10,6,,0,0,2024,Al Hazem
+2024-04-01,22:00,Pro League,Matchweek 26,Mon,Home,D,0.0,0.0,Damac,44.0,,Talal Al-Absi,4-5-1,Sultan Mohammed Al Akairi,Match Report,,14,1,,0,0,2024,Al Hazem
+2024-04-07,22:00,Pro League,Matchweek 27,Sun,Away,L,0.0,2.0,Al-Raed,69.0,,Tozé,4-1-4-1,Ahmed Mohammed Al Rumaikhani,Match Report,,15,3,,0,0,2024,Al Hazem
+2024-04-20,21:00,Pro League,Matchweek 28,Sat,Home,L,2.0,3.0,Al-Ittihad,44.0,,Talal Al-Absi,4-1-4-1,Mohammed Salem Al Dagash,Match Report,,19,5,,0,0,2024,Al Hazem
+2024-04-25,21:00,Pro League,Matchweek 29,Thu,Away,W,2.0,0.0,Al-Wehda,36.0,,Talal Al-Absi,4-1-4-1,Abdullah Saleh Al Harbi,Match Report,,10,4,,0,0,2024,Al Hazem
+2024-05-02,18:00,Pro League,Matchweek 30,Thu,Home,D,0.0,0.0,Al Okhdood SC,54.0,,Talal Al-Absi,4-1-4-1,Shukri Hussein Al Hunfush,Match Report,,7,3,,0,0,2024,Al Hazem
+2024-05-11,18:00,Pro League,Matchweek 31,Sat,Away,L,1.0,4.0,Al-Hilal,28.0,,Abdurahman Al Dakheel,3-4-3,Urs Schnyder,Match Report,,9,1,,0,0,2024,Al Hazem
+2024-05-18,19:20,Pro League,Matchweek 32,Sat,Home,D,1.0,1.0,Al-Riyadh SC,63.0,305.0,Abdurahman Al Dakheel,3-4-3,Majed Mohammed Al Shamrani,Match Report,,11,4,,0,0,2024,Al Hazem
+2022-08-26,18:45,Pro League,Matchweek 1,Fri,Away,W,3.0,0.0,Al-Adalah,43.0,16250.0,Ahmed Hegazi,3-4-3,Slavko Vinčič,Match Report,,15,8,,0,0,2023,Al Ittihad
+2022-09-03,21:00,Pro League,Matchweek 2,Sat,Home,D,0.0,0.0,Al-Ettifaq,62.0,33556.0,Ahmed Hegazi,3-4-3,Daniele Orsato,Match Report,,0,0,,0,0,2023,Al Ittihad
+2022-09-09,21:00,Pro League,Matchweek 3,Fri,Away,W,1.0,0.0,Al-Raed,55.0,10856.0,Ahmed Hegazi,3-4-3,Andrés Matonte,Match Report,,0,0,,0,0,2023,Al Ittihad
+2022-09-15,21:00,Pro League,Matchweek 4,Thu,Home,W,2.0,0.0,Al-Khaleej,41.0,25049.0,Ahmed Hegazi,3-4-3,Fernando Rapallini,Match Report,,0,0,,0,0,2023,Al Ittihad
+2022-10-02,21:00,Pro League,Matchweek 5,Sun,Away,D,0.0,0.0,Al-Nassr,32.0,23025.0,Ahmed Hegazi,3-4-3,Andrés Cunha,Match Report,,0,0,,0,0,2023,Al Ittihad
+2022-10-07,21:00,Pro League,Matchweek 6,Fri,Home,W,3.0,1.0,Al-Fateh,31.0,32374.0,Ahmed Hegazi,3-4-1-2,Georgi Kabakov,Match Report,,9,4,,0,0,2023,Al Ittihad
+2022-10-11,18:15,Pro League,Matchweek 7,Tue,Away,D,1.0,1.0,Damac,56.0,13266.0,Ahmed Hegazi,4-2-3-1,Tamás Bognár,Match Report,,9,2,,0,0,2023,Al Ittihad
+2022-10-16,20:30,Pro League,Matchweek 8,Sun,Home,W,1.0,0.0,Al-Wehda,52.0,,Ahmed Hegazi,3-4-3,Radu Petrescu,Match Report,,7,5,,0,0,2023,Al Ittihad
+2022-12-26,18:00,Pro League,Matchweek 10,Mon,Home,W,3.0,0.0,Al-Taawoun,55.0,,Ahmed Hegazi,4-2-3-1,Sven Jablonski,Match Report,,14,5,,1,1,2023,Al Ittihad
+2022-12-31,15:30,Pro League,Matchweek 11,Sat,Away,W,2.0,1.0,Abha,44.0,,Ahmed Hegazi,4-2-2-2,Anastasios Sidiropoulos,Match Report,,17,5,,0,0,2023,Al Ittihad
+2023-01-05,20:30,Pro League,Matchweek 12,Thu,Home,L,0.0,1.0,Al-Hilal,54.0,,Ahmed Hegazi,4-2-3-1,Daniele Orsato,Match Report,,15,4,,0,0,2023,Al Ittihad
+2023-01-09,21:15,Pro League,Matchweek 9,Mon,Away,D,1.0,1.0,Al-Shabab,45.0,,Ahmed Hegazi,4-2-3-1,Szymon Marciniak,Match Report,,9,3,,0,0,2023,Al Ittihad
+2023-01-14,15:30,Pro League,Matchweek 13,Sat,Away,W,2.0,1.0,Al-Batin,77.0,,Ahmed Hegazi,4-2-3-1,Anastasios Sidiropoulos,Match Report,,22,4,,2,2,2023,Al Ittihad
+2023-01-19,18:00,Pro League,Matchweek 14,Thu,Home,W,3.0,0.0,Al-Fayha,57.0,,Ahmed Hegazi,4-2-3-1,Sandro Schärer,Match Report,,9,4,,1,1,2023,Al Ittihad
+2023-02-04,16:00,Pro League,Matchweek 15,Sat,Away,W,1.0,0.0,Al-Ta'ee,49.0,,Ahmed Hegazi,4-2-3-1,Srđan Jovanović,Match Report,,12,3,,0,0,2023,Al Ittihad
+2023-02-10,20:30,Pro League,Matchweek 16,Fri,Home,W,5.0,0.0,Al-Adalah,70.0,,Ahmed Hegazi,4-2-3-1,Tamás Bognár,Match Report,,27,7,,1,1,2023,Al Ittihad
+2023-02-16,20:30,Pro League,Matchweek 17,Thu,Away,W,3.0,0.0,Al-Ettifaq,52.0,,Ahmed Hegazi,4-2-3-1,Artur Dias,Match Report,,17,6,,0,0,2023,Al Ittihad
+2023-02-23,20:30,Pro League,Matchweek 18,Thu,Home,D,0.0,0.0,Al-Raed,69.0,,Marcelo Grohe,4-2-3-1,Sandro Schärer,Match Report,,17,5,,0,0,2023,Al Ittihad
+2023-03-03,16:00,Pro League,Matchweek 19,Fri,Away,W,3.0,0.0,Al-Khaleej,54.0,,Ahmed Hegazi,4-2-3-1,Bastian Dankert,Match Report,,10,7,,1,1,2023,Al Ittihad
+2023-03-09,20:30,Pro League,Matchweek 20,Thu,Home,W,1.0,0.0,Al-Nassr,58.0,,Ahmed Hegazi,4-2-3-1,Antonio Matéu,Match Report,,12,3,,0,0,2023,Al Ittihad
+2023-03-18,16:00,Pro League,Matchweek 21,Sat,Away,W,5.0,1.0,Al-Fateh,33.0,,Ahmed Hegazi,4-2-3-1,Andrés Matonte,Match Report,,20,9,,1,1,2023,Al Ittihad
+2023-04-04,22:00,Pro League,Matchweek 22,Tue,Home,W,3.0,0.0,Damac,48.0,,Ahmed Hegazi,4-2-3-1,István Kovács,Match Report,,12,6,,1,1,2023,Al Ittihad
+2023-04-09,23:00,Pro League,Matchweek 23,Sun,Away,W,2.0,1.0,Al-Wehda,46.0,,Ahmed Hegazi,4-2-3-1,Artur Dias,Match Report,,8,3,,1,1,2023,Al Ittihad
+2023-04-27,21:30,Pro League,Matchweek 24,Thu,Home,W,2.0,1.0,Al-Shabab,35.0,,Ahmed Hegazi,4-2-3-1,Srđan Jovanović,Match Report,,11,7,,2,2,2023,Al Ittihad
+2023-05-03,19:00,Pro League,Matchweek 25,Wed,Away,L,1.0,2.0,Al-Taawoun,66.0,,Ahmed Hegazi,4-2-3-1,Bastian Dankert,Match Report,,21,9,,0,0,2023,Al Ittihad
+2023-05-08,21:30,Pro League,Matchweek 26,Mon,Home,W,4.0,0.0,Abha,50.0,,Ahmed Hegazi,3-4-1-2,Nikola Dabanović,Match Report,,14,9,,1,1,2023,Al Ittihad
+2023-05-16,21:30,Pro League,Matchweek 27,Tue,Away,D,2.0,2.0,Al-Hilal,33.0,,Ahmed Hegazi,3-4-3,Fernando Rapallini,Match Report,,15,6,,0,0,2023,Al Ittihad
+2023-05-23,21:30,Pro League,Matchweek 28,Tue,Home,W,1.0,0.0,Al-Batin,62.0,,Ahmed Hegazi,3-4-1-2,Tamás Bognár,Match Report,,15,4,,0,0,2023,Al Ittihad
+2023-05-27,21:00,Pro League,Matchweek 29,Sat,Away,W,3.0,0.0,Al-Fayha,48.0,,Ahmed Hegazi,4-2-3-1,Fabio Verssimo,Match Report,,8,5,,0,0,2023,Al Ittihad
+2023-05-31,21:00,Pro League,Matchweek 30,Wed,Home,W,2.0,0.0,Al-Ta'ee,54.0,,Romarinho,4-2-3-1,Abdullah Zafer Al Shehri,Match Report,,10,2,,1,1,2023,Al Ittihad
+2022-08-27,21:00,Pro League,Matchweek 1,Sat,Home,W,1.0,0.0,Al-Wehda,60.0,19312.0,Abdulelah Al-Amri,4-2-2-2,Mohammed Khaled Al Hoish,Match Report,,8,2,,0,0,2023,Al Nassr
+2022-09-03,19:00,Pro League,Matchweek 2,Sat,Away,L,0.0,1.0,Al-Taawoun,58.0,7838.0,Abdulelah Al-Amri,4-2-3-1,Kevin Ortega,Match Report,,0,0,,0,0,2023,Al Nassr
+2022-09-10,21:00,Pro League,Matchweek 3,Sat,Home,W,2.0,1.0,Damac,50.0,14972.0,Abdulelah Al-Amri,4-2-2-2,Khalid Saleh Al Turais,Match Report,,0,0,,0,0,2023,Al Nassr
+2022-09-15,18:40,Pro League,Matchweek 4,Thu,Away,W,4.0,0.0,Al-Batin,77.0,4096.0,Sultan Al-Ghanam,4-2-3-1,Roberto Tobar,Match Report,,0,0,,0,0,2023,Al Nassr
+2022-10-02,21:00,Pro League,Matchweek 5,Sun,Home,D,0.0,0.0,Al-Ittihad,69.0,23025.0,Sultan Al-Ghanam,4-2-3-1,Andrés Cunha,Match Report,,0,0,,0,0,2023,Al Nassr
+2022-10-07,18:30,Pro League,Matchweek 6,Fri,Away,W,3.0,0.0,Abha,64.0,13250.0,Sultan Al-Ghanam,4-2-3-1,Fábio Veríssimo,Match Report,,11,7,,0,0,2023,Al Nassr
+2022-10-11,20:30,Pro League,Matchweek 7,Tue,Home,W,4.0,1.0,Al-Adalah,68.0,,Sultan Al-Ghanam,4-2-3-1,Khalid Saleh Al Turais,Match Report,,18,6,,0,0,2023,Al Nassr
+2022-10-16,17:45,Pro League,Matchweek 8,Sun,Home,W,4.0,0.0,Al-Fayha,61.0,,Abdulelah Al-Amri,4-2-3-1,Mohammed Sami Al Ismail,Match Report,,16,5,,0,0,2023,Al Nassr
+2022-12-16,18:00,Pro League,Matchweek 9,Fri,Away,W,4.0,1.0,Al-Raed,71.0,,Sultan Al-Ghanam,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,21,8,,1,1,2023,Al Nassr
+2022-12-26,20:30,Pro League,Matchweek 10,Mon,Home,D,2.0,2.0,Al-Hilal,49.0,,Sultan Al-Ghanam,4-2-3-1,César Arturo Ramos,Match Report,,22,9,,0,0,2023,Al Nassr
+2022-12-31,20:30,Pro League,Matchweek 11,Sat,Away,W,1.0,0.0,Al-Khaleej,67.0,,Sultan Al-Ghanam,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,8,2,,0,0,2023,Al Nassr
+2023-01-06,18:00,Pro League,Matchweek 12,Fri,Home,W,2.0,0.0,Al-Ta'ee,56.0,,Sultan Al-Ghanam,4-2-3-1,Abdullah Saleh Al Harbi,Match Report,,15,6,,0,0,2023,Al Nassr
+2023-01-14,20:30,Pro League,Matchweek 13,Sat,Away,D,0.0,0.0,Al-Shabab,48.0,,Sultan Al-Ghanam,3-4-3,Clément Turpin,Match Report,,9,2,,0,0,2023,Al Nassr
+2023-01-22,20:30,Pro League,Matchweek 14,Sun,Home,W,1.0,0.0,Al-Ettifaq,67.0,,Cristiano Ronaldo,4-2-3-1,Khalid Saleh Al Turais,Match Report,,13,5,,0,0,2023,Al Nassr
+2023-02-03,18:00,Pro League,Matchweek 15,Fri,Away,D,2.0,2.0,Al-Fateh,58.0,17631.0,Cristiano Ronaldo,4-2-3-1,Fernando Rapallini,Match Report,,18,6,,1,1,2023,Al Nassr
+2023-02-09,20:30,Pro League,Matchweek 16,Thu,Away,W,4.0,0.0,Al-Wehda,53.0,,Cristiano Ronaldo,4-2-3-1,Sultan Sanat Al Harbi,Match Report,,14,7,,1,1,2023,Al Nassr
+2023-02-17,18:00,Pro League,Matchweek 17,Fri,Home,W,2.0,1.0,Al-Taawoun,47.0,,Cristiano Ronaldo,4-2-3-1,Faisal Suleiman Al Balawi,Match Report,,20,11,,0,0,2023,Al Nassr
+2023-02-25,18:30,Pro League,Matchweek 18,Sat,Away,W,3.0,0.0,Damac,62.0,,Cristiano Ronaldo,4-2-3-1,Khalid Saleh Al Turais,Match Report,,17,5,,1,1,2023,Al Nassr
+2023-03-03,20:30,Pro League,Matchweek 19,Fri,Home,W,3.0,1.0,Al-Batin,70.0,,Cristiano Ronaldo,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,25,7,,0,0,2023,Al Nassr
+2023-03-09,20:30,Pro League,Matchweek 20,Thu,Away,L,0.0,1.0,Al-Ittihad,42.0,,Cristiano Ronaldo,3-4-3,Antonio Matéu,Match Report,,6,3,,0,0,2023,Al Nassr
+2023-03-18,20:30,Pro League,Matchweek 21,Sat,Home,W,2.0,1.0,Abha,70.0,,Cristiano Ronaldo,4-1-4-1,Fernando Rapallini,Match Report,,17,5,,1,1,2023,Al Nassr
+2023-04-04,22:00,Pro League,Matchweek 22,Tue,Away,W,5.0,0.0,Al-Adalah,53.0,,Cristiano Ronaldo,4-2-3-1,Abdullah Saleh Al Harbi,Match Report,,13,9,,1,1,2023,Al Nassr
+2023-04-09,22:00,Pro League,Matchweek 23,Sun,Away,D,0.0,0.0,Al-Fayha,59.0,,Cristiano Ronaldo,4-2-3-1,Tamás Bognár,Match Report,,18,3,,0,0,2023,Al Nassr
+2023-04-18,22:00,Pro League,Matchweek 25,Tue,Away,L,0.0,2.0,Al-Hilal,47.0,,Cristiano Ronaldo,4-2-3-1,Michael Oliver,Match Report,,11,3,,0,0,2023,Al Nassr
+2023-04-28,21:30,Pro League,Matchweek 24,Fri,Home,W,4.0,0.0,Al-Raed,60.0,,Cristiano Ronaldo,4-1-4-1,Mohammed Khaled Al Hoish,Match Report,,18,7,,0,0,2023,Al Nassr
+2023-05-08,19:00,Pro League,Matchweek 26,Mon,Home,D,1.0,1.0,Al-Khaleej,65.0,,Cristiano Ronaldo,4-1-4-1,Majed Mohammed Al Shamrani,Match Report,,22,6,,0,0,2023,Al Nassr
+2023-05-16,21:30,Pro League,Matchweek 27,Tue,Away,W,2.0,0.0,Al-Ta'ee,55.0,,Cristiano Ronaldo,4-1-4-1,Abdullah Khaled Al Kharboush,Match Report,,17,5,,1,1,2023,Al Nassr
+2023-05-23,21:30,Pro League,Matchweek 28,Tue,Home,W,3.0,2.0,Al-Shabab,45.0,,Cristiano Ronaldo,4-1-4-1,Daniele Orsato,Match Report,,13,6,,0,0,2023,Al Nassr
+2023-05-27,21:00,Pro League,Matchweek 29,Sat,Away,D,1.0,1.0,Al-Ettifaq,74.0,,Cristiano Ronaldo,4-2-2-2,Abdullah Saleh Al Harbi,Match Report,,30,8,,0,0,2023,Al Nassr
+2023-05-31,21:00,Pro League,Matchweek 30,Wed,Home,W,3.0,0.0,Al-Fateh,45.0,,Abdullah Madu,4-1-4-1,Artur Dias,Match Report,,15,8,,0,0,2023,Al Nassr
+2022-08-25,21:00,Pro League,Matchweek 1,Thu,Away,W,2.0,0.0,Al-Khaleej,65.0,13218.0,Abdullah Al-Mayouf,4-1-4-1,Majed Mohammed Al Shamrani,Match Report,,0,0,,0,0,2023,Al Hilal
+2022-08-31,21:00,Pro League,Matchweek 2,Wed,Home,W,2.0,0.0,Al-Fayha,67.0,11215.0,Abdullah Al-Mayouf,4-2-3-1,Sandro Schärer,Match Report,,0,0,,0,0,2023,Al Hilal
+2022-09-04,18:35,Pro League,Matchweek 3,Sun,Away,W,1.0,0.0,Al-Fateh,62.0,15483.0,Salman Al-Faraj,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,0,0,,0,0,2023,Al Hilal
+2022-09-16,21:00,Pro League,Matchweek 4,Fri,Home,W,3.0,0.0,Al-Wehda,67.0,13585.0,Salman Al-Faraj,4-1-4-1,Artur Dias,Match Report,,0,0,,0,0,2023,Al Hilal
+2022-10-02,18:20,Pro League,Matchweek 5,Sun,Home,L,1.0,2.0,Al-Taawoun,60.0,5062.0,Abdullah Al-Mayouf,4-1-4-1,Anastasios Sidiropoulos,Match Report,,0,0,,0,0,2023,Al Hilal
+2022-10-06,21:00,Pro League,Matchweek 6,Thu,Away,D,0.0,0.0,Al-Ettifaq,72.0,11321.0,Abdullah Al-Mayouf,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,26,4,,0,0,2023,Al Hilal
+2022-10-10,20:30,Pro League,Matchweek 7,Mon,Home,D,1.0,1.0,Al-Shabab,53.0,,Abdullah Al-Mayouf,4-1-4-1,Eber Aquino,Match Report,,16,3,,0,1,2023,Al Hilal
+2022-10-15,18:30,Pro League,Matchweek 8,Sat,Away,W,3.0,2.0,Al-Ta'ee,75.0,,Abdullah Al-Mayouf,4-1-4-1,Mohammed Khaled Al Hoish,Match Report,,14,9,,0,0,2023,Al Hilal
+2022-12-16,20:30,Pro League,Matchweek 9,Fri,Home,W,3.0,1.0,Al-Batin,80.0,,Abdullah Al-Mayouf,4-2-2-2,Sandro Schärer,Match Report,,27,12,,1,3,2023,Al Hilal
+2022-12-26,20:30,Pro League,Matchweek 10,Mon,Away,D,2.0,2.0,Al-Nassr,51.0,,Abdullah Al-Mayouf,4-2-3-1,César Arturo Ramos,Match Report,,7,2,,1,1,2023,Al Hilal
+2022-12-31,20:30,Pro League,Matchweek 11,Sat,Home,D,2.0,2.0,Damac,59.0,,Abdullah Al-Mayouf,4-2-3-1,Srđan Jovanović,Match Report,,13,7,,0,0,2023,Al Hilal
+2023-01-05,20:30,Pro League,Matchweek 12,Thu,Away,W,1.0,0.0,Al-Ittihad,46.0,,Abdullah Al-Mayouf,4-1-4-1,Daniele Orsato,Match Report,,6,4,,0,0,2023,Al Hilal
+2023-01-10,20:30,Pro League,Matchweek 15,Tue,Away,D,1.0,1.0,Al-Raed,74.0,,Abdullah Al-Mayouf,4-1-4-1,Sami Ahmed Al Jurays,Match Report,,17,6,,0,0,2023,Al Hilal
+2023-01-15,18:00,Pro League,Matchweek 13,Sun,Home,W,2.0,0.0,Al-Adalah,76.0,,Abdullah Al-Mayouf,4-1-4-1,Luís Godinho,Match Report,,25,9,,1,1,2023,Al Hilal
+2023-01-22,18:00,Pro League,Matchweek 14,Sun,Home,W,2.0,1.0,Abha,57.0,,Salem Al-Dawsari,4-1-4-1,Georgi Kabakov,Match Report,,25,12,,1,1,2023,Al Hilal
+2023-03-02,20:30,Pro League,Matchweek 19,Thu,Away,D,3.0,3.0,Al-Wehda,64.0,,Salman Al-Faraj,4-1-4-1,Faisal Suleiman Al Balawi,Match Report,,15,7,,0,0,2023,Al Hilal
+2023-03-06,20:30,Pro League,Matchweek 18,Mon,Home,L,1.0,2.0,Al-Fateh,64.0,,Abdullah Al-Mayouf,4-2-3-1,Artur Dias,Match Report,,11,3,,0,0,2023,Al Hilal
+2023-03-10,20:30,Pro League,Matchweek 20,Fri,Away,W,4.0,0.0,Al-Taawoun,62.0,,Salman Al-Faraj,4-1-4-1,Khalid Saleh Al Turais,Match Report,,21,13,,0,0,2023,Al Hilal
+2023-03-18,20:30,Pro League,Matchweek 21,Sat,Home,W,3.0,0.0,Al-Ettifaq,69.0,,Salman Al-Faraj,4-1-4-1,Daniele Orsato,Match Report,,16,7,,0,0,2023,Al Hilal
+2023-04-01,22:00,Pro League,Matchweek 16,Sat,Home,W,2.0,0.0,Al-Khaleej,67.0,,Abdullah Al-Mayouf,4-1-4-1,João Pinheiro,Match Report,,14,5,,1,1,2023,Al Hilal
+2023-04-04,22:00,Pro League,Matchweek 17,Tue,Away,W,2.0,0.0,Al-Fayha,59.0,,Abdullah Al-Mayouf,4-1-4-1,Abdullah Khaled Al Kharboush,Match Report,,13,4,,0,0,2023,Al Hilal
+2023-04-07,22:00,Pro League,Matchweek 22,Fri,Away,L,0.0,3.0,Al-Shabab,58.0,,Abdullah Al-Mayouf,4-1-4-1,Majed Mohammed Al Shamrani,Match Report,,11,4,,0,0,2023,Al Hilal
+2023-04-10,22:00,Pro League,Matchweek 23,Mon,Home,D,2.0,2.0,Al-Ta'ee,70.0,,Abdullah Al-Mayouf,4-1-4-1,Georgi Kabakov,Match Report,,25,9,,0,0,2023,Al Hilal
+2023-04-14,22:00,Pro League,Matchweek 24,Fri,Away,L,0.0,1.0,Al-Batin,76.0,,Salman Al-Faraj,4-1-4-1,Faisal Suleiman Al Balawi,Match Report,,25,3,,0,0,2023,Al Hilal
+2023-04-18,22:00,Pro League,Matchweek 25,Tue,Home,W,2.0,0.0,Al-Nassr,53.0,,Salman Al-Faraj,4-1-4-1,Michael Oliver,Match Report,,14,6,,2,2,2023,Al Hilal
+2023-05-16,21:30,Pro League,Matchweek 27,Tue,Home,D,2.0,2.0,Al-Ittihad,68.0,,Abdullah Al-Mayouf,4-1-4-1,Fernando Rapallini,Match Report,,18,6,,0,0,2023,Al Hilal
+2023-05-19,21:00,Pro League,Matchweek 26,Fri,Away,W,1.0,0.0,Damac,70.0,,Yasser Al-Shahrani,4-2-3-1,Abdullah Saleh Al Harbi,Match Report,,8,2,,0,0,2023,Al Hilal
+2023-05-23,19:00,Pro League,Matchweek 28,Tue,Away,L,0.0,2.0,Al-Adalah,77.0,,Salem Al-Dawsari,4-1-4-1,Sami Ahmed Al Jurays,Match Report,,19,6,,0,0,2023,Al Hilal
+2023-05-27,21:00,Pro League,Matchweek 29,Sat,Away,W,3.0,0.0,Abha,50.0,,Yasser Al-Shahrani,4-2-3-1,Mohammed Sami Al Ismail,Match Report,,13,6,,0,0,2023,Al Hilal
+2023-05-31,21:00,Pro League,Matchweek 30,Wed,Home,W,3.0,2.0,Al-Raed,66.0,,Mohammed Jahfali,4-1-4-1,Raed Ali Al Zahrani,Match Report,,13,5,,1,1,2023,Al Hilal
+2022-08-26,21:00,Pro League,Matchweek 1,Fri,Home,W,3.0,0.0,Al-Batin,81.0,6041.0,Nawaf Al Abed,4-5-1,Faisal Suleiman Al Balawi,Match Report,,19,7,,0,0,2023,Al Shabab
+2022-09-01,21:00,Pro League,Matchweek 2,Thu,Away,W,4.0,0.0,Abha,53.0,6909.0,Cristian Guanca,4-2-3-1,Mohammed Saif Al Harbi,Match Report,,0,0,,1,1,2023,Al Shabab
+2022-09-08,21:00,Pro League,Matchweek 3,Thu,Home,W,4.0,0.0,Al-Ta'ee,51.0,9379.0,Cristian Guanca,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,0,0,,2,2,2023,Al Shabab
+2022-09-14,21:00,Pro League,Matchweek 4,Wed,Away,W,1.0,0.0,Al-Adalah,63.0,7392.0,Cristian Guanca,4-2-3-1,Shukri Hussein Al Hunfush,Match Report,,0,0,,0,0,2023,Al Shabab
+2022-10-02,18:20,Pro League,Matchweek 5,Sun,Away,W,2.0,1.0,Al-Fayha,66.0,4028.0,Éver Banega,4-2-3-1,Faisal Suleiman Al Balawi,Match Report,,0,0,,0,0,2023,Al Shabab
+2022-10-06,21:00,Pro League,Matchweek 6,Thu,Home,W,1.0,0.0,Al-Raed,58.0,7458.0,Éver Banega,4-2-3-1,Mohammed Sami Al Ismail,Match Report,,13,1,,0,0,2023,Al Shabab
+2022-10-10,20:30,Pro League,Matchweek 7,Mon,Away,D,1.0,1.0,Al-Hilal,47.0,,Éver Banega,4-2-3-1,Eber Aquino,Match Report,,8,3,,0,0,2023,Al Shabab
+2022-10-15,20:45,Pro League,Matchweek 8,Sat,Home,W,4.0,0.0,Al-Khaleej,58.0,,Éver Banega,4-2-3-1,Majed Mohammed Al Shamrani,Match Report,,12,5,,0,1,2023,Al Shabab
+2022-12-26,15:30,Pro League,Matchweek 10,Mon,Away,L,1.0,4.0,Al-Fateh,58.0,,Éver Banega,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,7,4,,0,0,2023,Al Shabab
+2022-12-30,20:30,Pro League,Matchweek 11,Fri,Home,W,3.0,0.0,Al-Ettifaq,60.0,,Éver Banega,4-2-3-1,Mohammed Sami Al Ismail,Match Report,,23,6,,0,0,2023,Al Shabab
+2023-01-05,20:30,Pro League,Matchweek 12,Thu,Away,L,1.0,2.0,Al-Wehda,56.0,,Éver Banega,4-2-3-1,Ahmed Mohammed Al Rumaikhani,Match Report,,13,5,,0,0,2023,Al Shabab
+2023-01-09,21:15,Pro League,Matchweek 9,Mon,Home,D,1.0,1.0,Al-Ittihad,55.0,,Éver Banega,4-1-4-1,Szymon Marciniak,Match Report,,19,5,,1,1,2023,Al Shabab
+2023-01-14,20:30,Pro League,Matchweek 13,Sat,Home,D,0.0,0.0,Al-Nassr,53.0,,Éver Banega,4-1-4-1,Clément Turpin,Match Report,,10,5,,0,0,2023,Al Shabab
+2023-01-20,20:30,Pro League,Matchweek 14,Fri,Away,D,1.0,1.0,Al-Taawoun,56.0,,Éver Banega,4-1-4-1,Shukri Hussein Al Hunfush,Match Report,,10,2,,0,0,2023,Al Shabab
+2023-01-27,18:00,Pro League,Matchweek 18,Fri,Away,W,2.0,1.0,Al-Ta'ee,51.0,,Éver Banega,4-1-4-1,Sultan Sanat Al Harbi,Match Report,,8,3,,0,0,2023,Al Shabab
+2023-02-02,18:00,Pro League,Matchweek 15,Thu,Home,W,2.0,1.0,Damac,53.0,,Éver Banega,4-1-4-1,Faisal Suleiman Al Balawi,Match Report,,12,7,,0,0,2023,Al Shabab
+2023-02-09,16:00,Pro League,Matchweek 16,Thu,Away,W,4.0,2.0,Al-Batin,70.0,,Iago Santos,4-1-4-1,Abdullah Zafer Al Shehri,Match Report,,20,4,,2,2,2023,Al Shabab
+2023-02-14,18:00,Pro League,Matchweek 17,Tue,Home,W,2.0,0.0,Abha,45.0,,Éver Banega,4-1-4-1,Raed Ali Al Zahrani,Match Report,,15,6,,0,0,2023,Al Shabab
+2023-03-04,20:30,Pro League,Matchweek 19,Sat,Home,L,1.0,2.0,Al-Adalah,57.0,,Cristian Guanca,4-2-3-1,Abdullah Saleh Al Harbi,Match Report,,20,7,,0,0,2023,Al Shabab
+2023-03-09,20:30,Pro League,Matchweek 20,Thu,Home,W,3.0,2.0,Al-Fayha,46.0,,Cristian Guanca,4-1-4-1,Mohammed Saif Al Harbi,Match Report,,8,4,,0,0,2023,Al Shabab
+2023-03-18,20:30,Pro League,Matchweek 21,Sat,Away,D,2.0,2.0,Al-Raed,71.0,,Cristian Guanca,4-2-3-1,Khalid Saleh Al Turais,Match Report,,25,6,,0,0,2023,Al Shabab
+2023-04-07,22:00,Pro League,Matchweek 22,Fri,Home,W,3.0,0.0,Al-Hilal,42.0,,Éver Banega,4-1-4-1,Majed Mohammed Al Shamrani,Match Report,,13,8,,0,0,2023,Al Shabab
+2023-04-11,22:00,Pro League,Matchweek 23,Tue,Away,W,3.0,2.0,Al-Khaleej,57.0,,Éver Banega,4-1-4-1,Sami Ahmed Al Jurays,Match Report,,9,4,,0,0,2023,Al Shabab
+2023-04-27,21:30,Pro League,Matchweek 24,Thu,Away,L,1.0,2.0,Al-Ittihad,65.0,,Éver Banega,4-1-4-1,Srđan Jovanović,Match Report,,24,5,,1,2,2023,Al Shabab
+2023-05-03,21:30,Pro League,Matchweek 25,Wed,Home,W,1.0,0.0,Al-Fateh,49.0,,Éver Banega,4-1-4-1,Andris Treimanis,Match Report,,18,8,,0,0,2023,Al Shabab
+2023-05-14,19:00,Pro League,Matchweek 26,Sun,Away,L,0.0,1.0,Al-Ettifaq,72.0,,Éver Banega,4-1-4-1,Faisal Suleiman Al Balawi,Match Report,,24,2,,0,0,2023,Al Shabab
+2023-05-18,19:00,Pro League,Matchweek 27,Thu,Home,L,0.0,1.0,Al-Wehda,65.0,,Éver Banega,4-1-4-1,Mamdouh Mufreh Al Shahdan,Match Report,,12,5,,0,0,2023,Al Shabab
+2023-05-23,21:30,Pro League,Matchweek 28,Tue,Away,L,2.0,3.0,Al-Nassr,55.0,,Éver Banega,4-1-4-1,Daniele Orsato,Match Report,,9,3,,1,1,2023,Al Shabab
+2023-05-27,21:00,Pro League,Matchweek 29,Sat,Home,L,0.0,3.0,Al-Taawoun,47.0,,Cristian Guanca,4-2-3-1,Sultan Sanat Al Harbi,Match Report,,10,1,,0,0,2023,Al Shabab
+2023-05-31,21:00,Pro League,Matchweek 30,Wed,Away,W,4.0,1.0,Damac,52.0,,Éver Banega,4-2-3-1,Mohammed Saif Al Harbi,Match Report,,18,10,,0,0,2023,Al Shabab
+2022-08-27,18:45,Pro League,Matchweek 1,Sat,Away,W,2.0,0.0,Al-Fateh,52.0,2929.0,Naldo,4-1-4-1,Khalid Saleh Al Turais,Match Report,,12,4,,0,0,2023,Al Taawoun
+2022-09-03,19:00,Pro League,Matchweek 2,Sat,Home,W,1.0,0.0,Al-Nassr,42.0,7838.0,Naldo,4-1-4-1,Kevin Ortega,Match Report,,0,0,,0,0,2023,Al Taawoun
+2022-09-10,18:45,Pro League,Matchweek 3,Sat,Away,D,1.0,1.0,Al-Fayha,61.0,3184.0,Naldo,4-1-4-1,Shukri Hussein Al Hunfush,Match Report,,0,0,,0,0,2023,Al Taawoun
+2022-09-16,18:50,Pro League,Matchweek 4,Fri,Home,D,1.0,1.0,Damac,57.0,4532.0,Naldo,4-1-4-1,Mohammed Saif Al Harbi,Match Report,,0,0,,0,0,2023,Al Taawoun
+2022-10-02,18:20,Pro League,Matchweek 5,Sun,Away,W,2.0,1.0,Al-Hilal,40.0,5062.0,Naldo,4-1-4-1,Anastasios Sidiropoulos,Match Report,,0,0,,0,0,2023,Al Taawoun
+2022-10-06,18:30,Pro League,Matchweek 6,Thu,Home,W,2.0,0.0,Al-Wehda,54.0,4843.0,Hassan Kadesh,4-1-4-1,Mamdouh Mufreh Al Shahdan,Match Report,,9,2,,0,0,2023,Al Taawoun
+2022-10-11,18:15,Pro League,Matchweek 7,Tue,Home,L,1.0,3.0,Abha,53.0,5076.0,Hassan Kadesh,4-1-4-1,Sultan Sanat Al Harbi,Match Report,,20,7,,0,0,2023,Al Taawoun
+2022-10-16,20:30,Pro League,Matchweek 8,Sun,Away,W,1.0,0.0,Al-Ettifaq,48.0,,Naldo,4-1-4-1,Shukri Hussein Al Hunfush,Match Report,,11,5,,0,0,2023,Al Taawoun
+2022-12-15,18:00,Pro League,Matchweek 9,Thu,Home,W,4.0,1.0,Al-Adalah,59.0,,Naldo,4-1-4-1,Mohammed Khaled Al Hoish,Match Report,,13,5,,0,0,2023,Al Taawoun
+2022-12-26,18:00,Pro League,Matchweek 10,Mon,Away,L,0.0,3.0,Al-Ittihad,45.0,,Naldo,4-1-4-1,Sven Jablonski,Match Report,,7,1,,0,0,2023,Al Taawoun
+2022-12-31,18:00,Pro League,Matchweek 11,Sat,Away,W,3.0,2.0,Al-Raed,56.0,,Naldo,4-1-4-1,Majed Mohammed Al Shamrani,Match Report,,15,9,,0,0,2023,Al Taawoun
+2023-01-06,18:00,Pro League,Matchweek 12,Fri,Home,L,0.0,1.0,Al-Khaleej,66.0,,Naldo,4-2-2-2,Abdullah Khaled Al Kharboush,Match Report,,15,1,,0,1,2023,Al Taawoun
+2023-01-12,15:30,Pro League,Matchweek 13,Thu,Away,W,3.0,1.0,Al-Ta'ee,55.0,,Naldo,4-2-3-1,Mamdouh Mufreh Al Shahdan,Match Report,,20,12,,0,0,2023,Al Taawoun
+2023-01-20,20:30,Pro League,Matchweek 14,Fri,Home,D,1.0,1.0,Al-Shabab,44.0,,Naldo,4-1-4-1,Shukri Hussein Al Hunfush,Match Report,,14,4,,0,0,2023,Al Taawoun
+2023-02-02,18:00,Pro League,Matchweek 15,Thu,Away,W,1.0,0.0,Al-Batin,64.0,,Naldo,4-2-3-1,Majed Mohammed Al Shamrani,Match Report,,17,10,,0,0,2023,Al Taawoun
+2023-02-09,18:00,Pro League,Matchweek 16,Thu,Home,L,1.0,2.0,Al-Fateh,51.0,,Naldo,4-2-3-1,Khalid Saleh Al Turais,Match Report,,14,5,,1,1,2023,Al Taawoun
+2023-02-17,18:00,Pro League,Matchweek 17,Fri,Away,L,1.0,2.0,Al-Nassr,53.0,,Naldo,4-2-3-1,Faisal Suleiman Al Balawi,Match Report,,7,2,,0,0,2023,Al Taawoun
+2023-02-23,16:00,Pro League,Matchweek 18,Thu,Home,D,1.0,1.0,Al-Fayha,66.0,,Naldo,4-2-3-1,Majed Mohammed Al Shamrani,Match Report,,16,7,,0,0,2023,Al Taawoun
+2023-03-04,16:00,Pro League,Matchweek 19,Sat,Away,W,2.0,1.0,Damac,47.0,,Naldo,4-2-3-1,Sultan Sanat Al Harbi,Match Report,,7,5,,0,0,2023,Al Taawoun
+2023-03-10,20:30,Pro League,Matchweek 20,Fri,Home,L,0.0,4.0,Al-Hilal,38.0,,Naldo,4-2-3-1,Khalid Saleh Al Turais,Match Report,,13,2,,0,0,2023,Al Taawoun
+2023-03-17,20:30,Pro League,Matchweek 21,Fri,Away,D,1.0,1.0,Al-Wehda,48.0,,Naldo,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,12,3,,0,0,2023,Al Taawoun
+2023-04-05,22:00,Pro League,Matchweek 22,Wed,Away,D,1.0,1.0,Abha,53.0,,Naldo,4-2-3-1,Raed Ali Al Zahrani,Match Report,,9,3,,0,0,2023,Al Taawoun
+2023-04-09,22:00,Pro League,Matchweek 23,Sun,Home,D,1.0,1.0,Al-Ettifaq,65.0,,Hassan Kadesh,4-2-3-1,Khalid Saleh Al Turais,Match Report,,26,7,,0,0,2023,Al Taawoun
+2023-04-27,19:00,Pro League,Matchweek 24,Thu,Away,L,1.0,2.0,Al-Adalah,52.0,,Naldo,3-5-2,Sultan Sanat Al Harbi,Match Report,,10,4,,0,1,2023,Al Taawoun
+2023-05-03,19:00,Pro League,Matchweek 25,Wed,Home,W,2.0,1.0,Al-Ittihad,35.0,,Naldo,4-1-4-1,Bastian Dankert,Match Report,,8,4,,0,0,2023,Al Taawoun
+2023-05-09,19:00,Pro League,Matchweek 26,Tue,Home,W,2.0,1.0,Al-Raed,52.0,,Naldo,4-1-4-1,Anastasios Sidiropoulos,Match Report,,16,5,,1,1,2023,Al Taawoun
+2023-05-15,19:00,Pro League,Matchweek 27,Mon,Away,W,2.0,0.0,Al-Khaleej,62.0,,Hassan Kadesh,4-1-4-1,Abdullah Zafer Al Shehri,Match Report,,17,8,,0,1,2023,Al Taawoun
+2023-05-22,21:30,Pro League,Matchweek 28,Mon,Home,W,2.0,1.0,Al-Ta'ee,54.0,,Naldo,4-1-4-1,Mohammed Abdulrahman Al Baridi,Match Report,,10,4,,0,0,2023,Al Taawoun
+2023-05-27,21:00,Pro League,Matchweek 29,Sat,Away,W,3.0,0.0,Al-Shabab,53.0,,Naldo,4-1-4-1,Sultan Sanat Al Harbi,Match Report,,8,5,,0,0,2023,Al Taawoun
+2023-05-31,21:00,Pro League,Matchweek 30,Wed,Home,W,3.0,1.0,Al-Batin,56.0,,Naldo,4-2-3-1,Turki Ali Hashlan,Match Report,,19,8,,1,1,2023,Al Taawoun
+2022-08-27,18:45,Pro League,Matchweek 1,Sat,Home,L,0.0,2.0,Al-Taawoun,48.0,2929.0,Mohammed Al-Fuhaid,4-4-2,Khalid Saleh Al Turais,Match Report,,15,6,,0,0,2023,Al Fateh
+2022-08-31,18:55,Pro League,Matchweek 2,Wed,Away,W,5.0,0.0,Al-Batin,73.0,3984.0,Mohammed Al-Fuhaid,4-2-3-1,Ahmed Alromkhani,Match Report,,0,0,,0,0,2023,Al Fateh
+2022-09-04,18:35,Pro League,Matchweek 3,Sun,Home,L,0.0,1.0,Al-Hilal,38.0,15483.0,Mohammed Al-Fuhaid,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,0,0,,0,0,2023,Al Fateh
+2022-09-14,18:55,Pro League,Matchweek 4,Wed,Away,L,0.0,1.0,Al-Ta'ee,58.0,7962.0,Marwane Saâdane,4-2-3-1,Abdullah Saleh Al Harbi,Match Report,,0,0,,0,1,2023,Al Fateh
+2022-10-02,21:00,Pro League,Matchweek 5,Sun,Home,W,3.0,0.0,Abha,51.0,3705.0,Mohammed Al-Fuhaid,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,0,0,,0,0,2023,Al Fateh
+2022-10-07,21:00,Pro League,Matchweek 6,Fri,Away,L,1.0,3.0,Al-Ittihad,69.0,32374.0,Mohammed Al-Fuhaid,4-2-3-1,Georgi Kabakov,Match Report,,16,3,,0,0,2023,Al Fateh
+2022-10-11,20:30,Pro League,Matchweek 7,Tue,Away,W,2.0,1.0,Al-Khaleej,55.0,,Tawfiq Bu Haymid,4-2-3-1,Ahmed Mohammed Al Rumaikhani,Match Report,,12,6,,0,1,2023,Al Fateh
+2022-10-15,20:45,Pro League,Matchweek 8,Sat,Home,W,1.0,0.0,Al-Raed,50.0,,Marwane Saâdane,4-2-3-1,Mamdouh Mufreh Al Shahdan,Match Report,,7,2,,0,0,2023,Al Fateh
+2022-12-26,15:30,Pro League,Matchweek 10,Mon,Home,W,4.0,1.0,Al-Shabab,42.0,,Marwane Saâdane,4-1-4-1,Mohammed Khaled Al Hoish,Match Report,,15,6,,2,2,2023,Al Fateh
+2022-12-30,15:30,Pro League,Matchweek 11,Fri,Home,L,0.0,2.0,Al-Fayha,63.0,,Marwane Saâdane,4-2-3-1,Sultan Sanat Al Harbi,Match Report,,10,4,,0,0,2023,Al Fateh
+2023-01-06,18:00,Pro League,Matchweek 12,Fri,Away,L,1.0,2.0,Al-Adalah,65.0,,Marwane Saâdane,4-2-3-1,Majed Mohammed Al Shamrani,Match Report,,11,3,,0,0,2023,Al Fateh
+2023-01-12,15:30,Pro League,Matchweek 13,Thu,Home,W,2.0,0.0,Al-Ettifaq,57.0,,Marwane Saâdane,4-2-3-1,Faisal Suleiman Al Balawi,Match Report,,14,5,,1,1,2023,Al Fateh
+2023-01-20,18:00,Pro League,Matchweek 14,Fri,Away,L,1.0,3.0,Damac,50.0,,Marwane Saâdane,5-4-1,Mohammed Sami Al Ismail,Match Report,,7,2,,0,0,2023,Al Fateh
+2023-01-27,20:30,Pro League,Matchweek 9,Fri,Away,W,2.0,0.0,Al-Wehda,53.0,,Marwane Saâdane,4-1-4-1,Abdullah Saleh Al Harbi,Match Report,,9,3,,0,0,2023,Al Fateh
+2023-02-03,18:00,Pro League,Matchweek 15,Fri,Home,D,2.0,2.0,Al-Nassr,42.0,17631.0,Mohammed Al-Fuhaid,4-2-3-1,Fernando Rapallini,Match Report,,6,4,,0,0,2023,Al Fateh
+2023-02-09,18:00,Pro League,Matchweek 16,Thu,Away,W,2.0,1.0,Al-Taawoun,49.0,,Mohammed Al-Fuhaid,4-2-3-1,Khalid Saleh Al Turais,Match Report,,7,4,,0,0,2023,Al Fateh
+2023-02-18,16:00,Pro League,Matchweek 17,Sat,Home,W,2.0,0.0,Al-Batin,64.0,,Marwane Saâdane,4-2-3-1,Mohammed Saif Al Harbi,Match Report,,11,2,,1,1,2023,Al Fateh
+2023-03-02,16:00,Pro League,Matchweek 19,Thu,Home,L,2.0,3.0,Al-Ta'ee,54.0,,Mohammed Al-Fuhaid,4-2-3-1,Sultan Mohammed Al Akairi,Match Report,,11,4,,0,0,2023,Al Fateh
+2023-03-06,20:30,Pro League,Matchweek 18,Mon,Away,W,2.0,1.0,Al-Hilal,36.0,,Marwane Saâdane,4-2-3-1,Artur Dias,Match Report,,11,5,,0,0,2023,Al Fateh
+2023-03-10,16:00,Pro League,Matchweek 20,Fri,Away,D,2.0,2.0,Abha,53.0,,Mohammed Al-Fuhaid,4-2-3-1,Mohammed Abdulrahman Al Baridi,Match Report,,14,4,,2,3,2023,Al Fateh
+2023-03-18,16:00,Pro League,Matchweek 21,Sat,Home,L,1.0,5.0,Al-Ittihad,67.0,,Mohammed Al-Fuhaid,4-2-3-1,Andrés Matonte,Match Report,,9,3,,0,0,2023,Al Fateh
+2023-04-06,22:00,Pro League,Matchweek 22,Thu,Home,W,2.0,0.0,Al-Khaleej,61.0,,Marwane Saâdane,4-2-3-1,Abdulsamad Ali Bakri,Match Report,,11,5,,0,0,2023,Al Fateh
+2023-04-10,22:00,Pro League,Matchweek 23,Mon,Away,W,3.0,0.0,Al-Raed,69.0,,Mohammed Al-Fuhaid,4-2-3-1,Sultan Sanat Al Harbi,Match Report,,14,7,,0,0,2023,Al Fateh
+2023-04-28,19:00,Pro League,Matchweek 24,Fri,Home,D,1.0,1.0,Al-Wehda,46.0,,Mohammed Al-Fuhaid,4-2-3-1,Khalid Saleh Al Turais,Match Report,,18,4,,0,0,2023,Al Fateh
+2023-05-03,21:30,Pro League,Matchweek 25,Wed,Away,L,0.0,1.0,Al-Shabab,51.0,,Mohammed Al-Fuhaid,4-2-3-1,Andris Treimanis,Match Report,,16,1,,0,0,2023,Al Fateh
+2023-05-09,19:00,Pro League,Matchweek 26,Tue,Away,L,0.0,3.0,Al-Fayha,63.0,,Mohammed Al-Fuhaid,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,5,1,,0,0,2023,Al Fateh
+2023-05-15,21:30,Pro League,Matchweek 27,Mon,Home,L,2.0,4.0,Al-Adalah,68.0,,Mohammed Al-Fuhaid,4-2-3-1,Khalid Saleh Al Turais,Match Report,,17,6,,0,0,2023,Al Fateh
+2023-05-22,19:00,Pro League,Matchweek 28,Mon,Away,W,4.0,0.0,Al-Ettifaq,61.0,,Marwane Saâdane,4-2-3-1,Raed Ali Al Zahrani,Match Report,,10,7,,1,1,2023,Al Fateh
+2023-05-27,21:00,Pro League,Matchweek 29,Sat,Home,D,1.0,1.0,Damac,55.0,,Tawfiq Bu Haymid,4-2-3-1,Freeh Khalifa Al Jaloud,Match Report,,9,3,,0,0,2023,Al Fateh
+2023-05-31,21:00,Pro League,Matchweek 30,Wed,Away,L,0.0,3.0,Al-Nassr,55.0,,Mohammed Al-Fuhaid,4-2-3-1,Artur Dias,Match Report,,11,2,,0,0,2023,Al Fateh
+2022-08-26,18:45,Pro League,Matchweek 1,Fri,Home,L,1.0,2.0,Al-Ta'ee,53.0,3878.0,Mohammed Al-Kwikbi,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,8,1,,0,0,2023,Al Ettifaq
+2022-09-03,21:00,Pro League,Matchweek 2,Sat,Away,D,0.0,0.0,Al-Ittihad,38.0,33556.0,Ali Hazazi,4-2-3-1,Daniele Orsato,Match Report,,0,0,,0,0,2023,Al Ettifaq
+2022-09-09,18:30,Pro League,Matchweek 3,Fri,Home,W,3.0,0.0,Al-Batin,72.0,2608.0,Saeed Al Mowalad,4-2-3-1,Mamdouh Mufreh Al Shahdan,Match Report,,0,0,,1,1,2023,Al Ettifaq
+2022-09-15,21:00,Pro League,Matchweek 4,Thu,Home,L,1.0,2.0,Al-Raed,58.0,5731.0,Mohammed Al-Kwikbi,4-2-3-1,Abdullah Zafer Al Shehri,Match Report,,0,0,,0,0,2023,Al Ettifaq
+2022-10-01,21:00,Pro League,Matchweek 5,Sat,Away,D,1.0,1.0,Al-Wehda,51.0,2237.0,Mohammed Al-Kwikbi,4-2-3-1,Ahmed Mohammed Al Rumaikhani,Match Report,,0,0,,0,0,2023,Al Ettifaq
+2022-10-06,21:00,Pro League,Matchweek 6,Thu,Home,D,0.0,0.0,Al-Hilal,28.0,11321.0,Mohammed Al-Kwikbi,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,5,0,,0,0,2023,Al Ettifaq
+2022-10-11,20:30,Pro League,Matchweek 7,Tue,Away,W,3.0,0.0,Al-Fayha,38.0,,Mohammed Al-Kwikbi,4-2-3-1,Abdullah Saleh Al Harbi,Match Report,,11,5,,0,0,2023,Al Ettifaq
+2022-10-16,20:30,Pro League,Matchweek 8,Sun,Home,L,0.0,1.0,Al-Taawoun,52.0,,Mohammed Al-Kwikbi,4-2-3-1,Shukri Hussein Al Hunfush,Match Report,,4,1,,0,0,2023,Al Ettifaq
+2022-12-15,15:30,Pro League,Matchweek 9,Thu,Away,D,0.0,0.0,Damac,40.0,,Saeed Al Mowalad,5-3-2,Shukri Hussein Al Hunfush,Match Report,,7,2,,0,0,2023,Al Ettifaq
+2022-12-25,20:30,Pro League,Matchweek 10,Sun,Home,W,1.0,0.0,Al-Khaleej,55.0,,Mohammed Al-Kwikbi,4-1-4-1,Khalid Saleh Al Turais,Match Report,,13,4,,0,0,2023,Al Ettifaq
+2022-12-30,20:30,Pro League,Matchweek 11,Fri,Away,L,0.0,3.0,Al-Shabab,40.0,,Mohammed Al-Kwikbi,4-2-3-1,Mohammed Sami Al Ismail,Match Report,,2,0,,0,0,2023,Al Ettifaq
+2023-01-07,18:00,Pro League,Matchweek 12,Sat,Home,W,2.0,1.0,Abha,47.0,,Mohammed Al-Kwikbi,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,14,7,,0,0,2023,Al Ettifaq
+2023-01-12,15:30,Pro League,Matchweek 13,Thu,Away,L,0.0,2.0,Al-Fateh,43.0,,Mohammed Al-Kwikbi,5-4-1,Faisal Suleiman Al Balawi,Match Report,,8,2,,0,0,2023,Al Ettifaq
+2023-01-22,20:30,Pro League,Matchweek 14,Sun,Away,L,0.0,1.0,Al-Nassr,33.0,,Mohammed Al-Kwikbi,4-2-3-1,Khalid Saleh Al Turais,Match Report,,8,2,,0,0,2023,Al Ettifaq
+2023-02-03,20:30,Pro League,Matchweek 15,Fri,Home,W,3.0,2.0,Al-Adalah,56.0,,Mohammed Al-Kwikbi,4-2-3-1,Mamdouh Mufreh Al Shahdan,Match Report,,13,6,,1,1,2023,Al Ettifaq
+2023-02-10,16:00,Pro League,Matchweek 16,Fri,Away,L,0.0,2.0,Al-Ta'ee,47.0,,Mohammed Al-Kwikbi,4-2-3-1,Abdulsamad Ali Bakri,Match Report,,9,1,,0,0,2023,Al Ettifaq
+2023-02-16,20:30,Pro League,Matchweek 17,Thu,Home,L,0.0,3.0,Al-Ittihad,48.0,,Mohammed Al-Kwikbi,4-1-4-1,Artur Dias,Match Report,,14,4,,0,0,2023,Al Ettifaq
+2023-02-25,16:00,Pro League,Matchweek 18,Sat,Away,L,0.0,1.0,Al-Batin,48.0,,Ali Hazazi,4-1-4-1,Ahmed Mohammed Al Rumaikhani,Match Report,,7,2,,0,0,2023,Al Ettifaq
+2023-03-03,16:00,Pro League,Matchweek 19,Fri,Away,W,2.0,1.0,Al-Raed,54.0,,Mohammed Al-Kwikbi,4-2-3-1,Abdullah Khaled Al Kharboush,Match Report,,10,2,,0,0,2023,Al Ettifaq
+2023-03-09,16:00,Pro League,Matchweek 20,Thu,Home,D,1.0,1.0,Al-Wehda,52.0,,Mohammed Al-Kwikbi,4-2-3-1,Shukri Hussein Al Hunfush,Match Report,,11,4,,1,1,2023,Al Ettifaq
+2023-03-18,20:30,Pro League,Matchweek 21,Sat,Away,L,0.0,3.0,Al-Hilal,31.0,,Ali Hazazi,4-5-1,Daniele Orsato,Match Report,,7,0,,0,0,2023,Al Ettifaq
+2023-04-09,22:00,Pro League,Matchweek 23,Sun,Away,D,1.0,1.0,Al-Taawoun,36.0,,Ali Hazazi,4-2-2-2,Khalid Saleh Al Turais,Match Report,,16,5,,0,1,2023,Al Ettifaq
+2023-04-14,22:00,Pro League,Matchweek 22,Fri,Home,W,1.0,0.0,Al-Fayha,48.0,,Mohammed Al-Kwikbi,4-2-2-2,Mohammed Khaled Al Hoish,Match Report,,9,2,,0,0,2023,Al Ettifaq
+2023-04-28,19:00,Pro League,Matchweek 24,Fri,Home,W,2.0,0.0,Damac,41.0,,Mohammed Al-Kwikbi,4-2-2-2,Mohammed Al Esmaiel,Match Report,,10,4,,0,0,2023,Al Ettifaq
+2023-05-02,21:30,Pro League,Matchweek 25,Tue,Away,L,1.0,2.0,Al-Khaleej,56.0,,Mohammed Al-Kwikbi,4-2-3-1,Abdullah Zafer Al Shehri,Match Report,,7,1,,0,0,2023,Al Ettifaq
+2023-05-14,19:00,Pro League,Matchweek 26,Sun,Home,W,1.0,0.0,Al-Shabab,28.0,,Mohammed Al-Kwikbi,4-2-3-1,Faisal Suleiman Al Balawi,Match Report,,13,3,,0,0,2023,Al Ettifaq
+2023-05-18,19:00,Pro League,Matchweek 27,Thu,Away,L,1.0,2.0,Abha,44.0,,Mohammed Al-Kwikbi,4-1-4-1,Ahmed Mohammed Al Rumaikhani,Match Report,,10,4,,0,0,2023,Al Ettifaq
+2023-05-22,19:00,Pro League,Matchweek 28,Mon,Home,L,0.0,4.0,Al-Fateh,39.0,,Mohammed Al-Kwikbi,4-1-4-1,Raed Ali Al Zahrani,Match Report,,9,1,,0,0,2023,Al Ettifaq
+2023-05-27,21:00,Pro League,Matchweek 29,Sat,Home,D,1.0,1.0,Al-Nassr,27.0,,Ali Hazazi,5-4-1,Abdullah Saleh Al Harbi,Match Report,,12,4,,0,0,2023,Al Ettifaq
+2023-05-31,21:00,Pro League,Matchweek 30,Wed,Away,W,2.0,0.0,Al-Adalah,52.0,,Naïm Sliti,5-4-1,Khalid Saleh Al Turais,Match Report,,11,5,,0,0,2023,Al Ettifaq
+2022-08-25,19:05,Pro League,Matchweek 1,Thu,Away,W,1.0,0.0,Al-Fayha,43.0,6291.0,Farouk Chafaï,4-1-4-1,Abdullah Zafer Al Shehri,Match Report,,0,0,,0,0,2023,Damac
+2022-09-02,21:00,Pro League,Matchweek 2,Fri,Home,W,2.0,1.0,Al-Khaleej,56.0,746.0,Farouk Chafaï,4-1-4-1,Abdullah Saleh Al Harbi,Match Report,,0,0,,1,1,2023,Damac
+2022-09-10,21:00,Pro League,Matchweek 3,Sat,Away,L,1.0,2.0,Al-Nassr,50.0,14972.0,Farouk Chafaï,4-1-4-1,Khalid Saleh Al Turais,Match Report,,0,0,,0,0,2023,Damac
+2022-09-16,18:50,Pro League,Matchweek 4,Fri,Away,D,1.0,1.0,Al-Taawoun,43.0,4532.0,Farouk Chafaï,4-2-2-2,Mohammed Saif Al Harbi,Match Report,,0,0,,0,0,2023,Damac
+2022-10-01,18:30,Pro League,Matchweek 5,Sat,Home,W,2.0,0.0,Al-Ta'ee,52.0,1608.0,Farouk Chafaï,4-1-4-1,Shukri Hussein Al Hunfush,Match Report,,0,0,,0,0,2023,Damac
+2022-10-06,21:00,Pro League,Matchweek 6,Thu,Away,D,2.0,2.0,Al-Batin,69.0,3182.0,Farouk Chafaï,4-1-4-1,Mohammed Khaled Al Hoish,Match Report,,14,5,,0,1,2023,Damac
+2022-10-11,18:15,Pro League,Matchweek 7,Tue,Home,D,1.0,1.0,Al-Ittihad,44.0,13266.0,Farouk Chafaï,3-4-3,Tamás Bognár,Match Report,,9,5,,0,0,2023,Damac
+2022-10-16,20:30,Pro League,Matchweek 8,Sun,Away,W,2.0,0.0,Al-Adalah,53.0,,Farouk Chafaï,4-1-4-1,Sultan Sanat Al Harbi,Match Report,,11,4,,0,0,2023,Damac
+2022-12-15,15:30,Pro League,Matchweek 9,Thu,Home,D,0.0,0.0,Al-Ettifaq,61.0,,Farouk Chafaï,4-2-2-2,Shukri Hussein Al Hunfush,Match Report,,18,1,,0,0,2023,Damac
+2022-12-25,15:30,Pro League,Matchweek 10,Sun,Home,D,0.0,0.0,Al-Wehda,41.0,,Farouk Chafaï,4-2-3-1,Mohammed Salem Al Dagash,Match Report,,6,2,,0,0,2023,Damac
+2022-12-31,20:30,Pro League,Matchweek 11,Sat,Away,D,2.0,2.0,Al-Hilal,41.0,,Farouk Chafaï,4-2-2-2,Srđan Jovanović,Match Report,,13,7,,0,0,2023,Damac
+2023-01-05,15:30,Pro League,Matchweek 12,Thu,Home,L,1.0,2.0,Al-Raed,73.0,,Farouk Chafaï,4-2-3-1,Mohammed Saif Al Harbi,Match Report,,14,7,,0,1,2023,Damac
+2023-01-13,15:30,Pro League,Matchweek 13,Fri,Away,L,1.0,2.0,Abha,51.0,,Farouk Chafaï,4-2-3-1,Sultan Sanat Al Harbi,Match Report,,12,2,,0,0,2023,Damac
+2023-01-20,18:00,Pro League,Matchweek 14,Fri,Home,W,3.0,1.0,Al-Fateh,50.0,,Farouk Chafaï,4-2-2-2,Mohammed Sami Al Ismail,Match Report,,23,9,,0,0,2023,Damac
+2023-02-02,18:00,Pro League,Matchweek 15,Thu,Away,L,1.0,2.0,Al-Shabab,47.0,,Farouk Chafaï,4-2-2-2,Faisal Suleiman Al Balawi,Match Report,,10,2,,0,0,2023,Damac
+2023-02-10,16:00,Pro League,Matchweek 16,Fri,Home,D,1.0,1.0,Al-Fayha,61.0,,Farouk Chafaï,4-2-2-2,Sami Ahmed Al Jurays,Match Report,,7,3,,0,0,2023,Damac
+2023-02-18,18:00,Pro League,Matchweek 17,Sat,Away,L,0.0,2.0,Al-Khaleej,60.0,,Farouk Chafaï,5-4-1,Abdullah Saleh Al Harbi,Match Report,,12,2,,0,0,2023,Damac
+2023-02-25,18:30,Pro League,Matchweek 18,Sat,Home,L,0.0,3.0,Al-Nassr,38.0,,Farouk Chafaï,5-4-1,Khalid Saleh Al Turais,Match Report,,6,2,,0,0,2023,Damac
+2023-03-04,16:00,Pro League,Matchweek 19,Sat,Home,L,1.0,2.0,Al-Taawoun,53.0,,Farouk Chafaï,5-4-1,Sultan Sanat Al Harbi,Match Report,,12,4,,0,0,2023,Damac
+2023-03-11,16:00,Pro League,Matchweek 20,Sat,Away,W,3.0,1.0,Al-Ta'ee,36.0,,Farouk Chafaï,4-1-4-1,Khalid Al Ahmari,Match Report,,4,3,,0,0,2023,Damac
+2023-03-17,16:00,Pro League,Matchweek 21,Fri,Home,W,1.0,0.0,Al-Batin,43.0,,Farouk Chafaï,4-1-4-1,Mohammed Sami Al Ismail,Match Report,,13,8,,0,0,2023,Damac
+2023-04-04,22:00,Pro League,Matchweek 22,Tue,Away,L,0.0,3.0,Al-Ittihad,52.0,,Hassan Al Shamrani,4-2-3-1,István Kovács,Match Report,,7,1,,0,0,2023,Damac
+2023-04-10,22:00,Pro League,Matchweek 23,Mon,Home,D,2.0,2.0,Al-Adalah,48.0,,Farouk Chafaï,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,13,5,,0,0,2023,Damac
+2023-04-28,19:00,Pro League,Matchweek 24,Fri,Away,L,0.0,2.0,Al-Ettifaq,59.0,,Farouk Chafaï,4-2-3-1,Mohammed Al Esmaiel,Match Report,,12,2,,0,0,2023,Damac
+2023-05-03,21:30,Pro League,Matchweek 25,Wed,Away,W,2.0,0.0,Al-Wehda,44.0,,Farouk Chafaï,4-2-3-1,Samir Zolota,Match Report,,9,6,,0,0,2023,Damac
+2023-05-15,19:00,Pro League,Matchweek 27,Mon,Away,L,0.0,5.0,Al-Raed,66.0,,Farouk Chafaï,4-2-3-1,Shukri Hussein Al Hunfush,Match Report,,11,2,,0,0,2023,Damac
+2023-05-19,21:00,Pro League,Matchweek 26,Fri,Home,L,0.0,1.0,Al-Hilal,30.0,,Farouk Chafaï,4-2-3-1,Abdullah Saleh Al Harbi,Match Report,,8,2,,0,0,2023,Damac
+2023-05-22,19:00,Pro League,Matchweek 28,Mon,Home,W,1.0,0.0,Abha,44.0,,Farouk Chafaï,4-2-2-2,Abdulsamad Ali Bakri,Match Report,,10,4,,0,0,2023,Damac
+2023-05-27,21:00,Pro League,Matchweek 29,Sat,Away,D,1.0,1.0,Al-Fateh,45.0,,Mansor Hamzi,4-2-3-1,Freeh Khalifa Al Jaloud,Match Report,,14,5,,0,1,2023,Damac
+2023-05-31,21:00,Pro League,Matchweek 30,Wed,Home,L,1.0,4.0,Al-Shabab,48.0,,Muhannad Al Najei,4-1-4-1,Mohammed Saif Al Harbi,Match Report,,4,3,,0,0,2023,Damac
+2022-08-26,18:45,Pro League,Matchweek 1,Fri,Away,W,2.0,1.0,Al-Ettifaq,47.0,3878.0,Knowledge Musona,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,11,6,,0,0,2023,Al Taee
+2022-09-02,19:00,Pro League,Matchweek 2,Fri,Home,W,1.0,0.0,Al-Adalah,42.0,6724.0,Knowledge Musona,4-2-3-1,Abdullah Khaled Al Kharboush,Match Report,,0,0,,0,0,2023,Al Taee
+2022-09-08,21:00,Pro League,Matchweek 3,Thu,Away,L,0.0,4.0,Al-Shabab,49.0,9379.0,Knowledge Musona,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,0,0,,0,0,2023,Al Taee
+2022-09-14,18:55,Pro League,Matchweek 4,Wed,Home,W,1.0,0.0,Al-Fateh,42.0,7962.0,Knowledge Musona,4-1-4-1,Abdullah Saleh Al Harbi,Match Report,,0,0,,0,0,2023,Al Taee
+2022-10-01,18:30,Pro League,Matchweek 5,Sat,Away,L,0.0,2.0,Damac,48.0,1608.0,Knowledge Musona,4-2-3-1,Shukri Hussein Al Hunfush,Match Report,,0,0,,0,0,2023,Al Taee
+2022-10-06,18:30,Pro League,Matchweek 6,Thu,Home,W,3.0,0.0,Al-Khaleej,42.0,7455.0,Knowledge Musona,4-1-4-1,Mohammed Saif Al Harbi,Match Report,,10,7,,1,1,2023,Al Taee
+2022-10-10,18:15,Pro League,Matchweek 7,Mon,Away,W,2.0,0.0,Al-Raed,36.0,3810.0,Knowledge Musona,4-1-4-1,Abdullah Zafer Al Shehri,Match Report,,11,5,,0,0,2023,Al Taee
+2022-10-15,18:30,Pro League,Matchweek 8,Sat,Home,L,2.0,3.0,Al-Hilal,25.0,,Knowledge Musona,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,6,3,,0,0,2023,Al Taee
+2022-12-16,15:30,Pro League,Matchweek 9,Fri,Away,L,1.0,2.0,Abha,46.0,,Knowledge Musona,4-1-4-1,Khalid Saleh Al Turais,Match Report,,14,6,,0,0,2023,Al Taee
+2022-12-26,18:00,Pro League,Matchweek 10,Mon,Away,L,1.0,2.0,Al-Fayha,63.0,,Knowledge Musona,4-1-4-1,Ahmed Alromkhani,Match Report,,21,6,,0,0,2023,Al Taee
+2022-12-31,15:30,Pro League,Matchweek 11,Sat,Home,W,4.0,0.0,Al-Batin,63.0,,Knowledge Musona,4-2-3-1,Shukri Hussein Al Hunfush,Match Report,,12,7,,0,0,2023,Al Taee
+2023-01-06,18:00,Pro League,Matchweek 12,Fri,Away,L,0.0,2.0,Al-Nassr,44.0,,Knowledge Musona,4-1-4-1,Abdullah Saleh Al Harbi,Match Report,,8,1,,0,0,2023,Al Taee
+2023-01-12,15:30,Pro League,Matchweek 13,Thu,Home,L,1.0,3.0,Al-Taawoun,45.0,,Knowledge Musona,4-1-4-1,Mamdouh Mufreh Al Shahdan,Match Report,,13,4,,0,0,2023,Al Taee
+2023-01-21,18:00,Pro League,Matchweek 14,Sat,Away,L,0.0,1.0,Al-Wehda,44.0,,Knowledge Musona,4-1-4-1,Raed Ali Al Zahrani,Match Report,,11,2,,0,0,2023,Al Taee
+2023-01-27,18:00,Pro League,Matchweek 18,Fri,Home,L,1.0,2.0,Al-Shabab,49.0,,Knowledge Musona,4-2-3-1,Sultan Sanat Al Harbi,Match Report,,8,2,,0,0,2023,Al Taee
+2023-02-04,16:00,Pro League,Matchweek 15,Sat,Home,L,0.0,1.0,Al-Ittihad,51.0,,Knowledge Musona,4-2-3-1,Srđan Jovanović,Match Report,,9,3,,0,0,2023,Al Taee
+2023-02-10,16:00,Pro League,Matchweek 16,Fri,Home,W,2.0,0.0,Al-Ettifaq,53.0,,Knowledge Musona,4-2-3-1,Abdulsamad Ali Bakri,Match Report,,12,6,,0,0,2023,Al Taee
+2023-02-16,18:00,Pro League,Matchweek 17,Thu,Away,D,2.0,2.0,Al-Adalah,63.0,,Knowledge Musona,4-2-3-1,Mohammed Abdulrahman Al Baridi,Match Report,,15,5,,0,0,2023,Al Taee
+2023-03-02,16:00,Pro League,Matchweek 19,Thu,Away,W,3.0,2.0,Al-Fateh,46.0,,Knowledge Musona,4-2-3-1,Sultan Mohammed Al Akairi,Match Report,,9,5,,0,0,2023,Al Taee
+2023-03-11,16:00,Pro League,Matchweek 20,Sat,Home,L,1.0,3.0,Damac,64.0,,Knowledge Musona,4-2-3-1,Khalid Al Ahmari,Match Report,,15,3,,0,0,2023,Al Taee
+2023-03-16,16:00,Pro League,Matchweek 21,Thu,Away,D,2.0,2.0,Al-Khaleej,65.0,,Knowledge Musona,4-2-3-1,Mamdouh Mufreh Al Shahdan,Match Report,,10,3,,0,0,2023,Al Taee
+2023-04-05,22:00,Pro League,Matchweek 22,Wed,Home,D,2.0,2.0,Al-Raed,60.0,,Knowledge Musona,3-4-3,Mohammed Hussein Al Hunfush,Match Report,,5,2,,0,0,2023,Al Taee
+2023-04-10,22:00,Pro League,Matchweek 23,Mon,Away,D,2.0,2.0,Al-Hilal,30.0,,Knowledge Musona,3-4-3,Georgi Kabakov,Match Report,,9,6,,0,0,2023,Al Taee
+2023-04-27,19:00,Pro League,Matchweek 24,Thu,Home,W,1.0,0.0,Abha,44.0,,Knowledge Musona,4-2-3-1,Mohammed Salem Al Dagash,Match Report,,12,4,,0,0,2023,Al Taee
+2023-05-02,21:30,Pro League,Matchweek 25,Tue,Home,W,2.0,1.0,Al-Fayha,47.0,,Collins Fai,4-2-3-1,Abdulrahman Mohammed Al Sultan,Match Report,,5,3,,0,1,2023,Al Taee
+2023-05-10,19:00,Pro League,Matchweek 26,Wed,Away,L,3.0,4.0,Al-Batin,54.0,,Knowledge Musona,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,14,4,,1,1,2023,Al Taee
+2023-05-16,21:30,Pro League,Matchweek 27,Tue,Home,L,0.0,2.0,Al-Nassr,45.0,,Knowledge Musona,4-2-3-1,Abdullah Khaled Al Kharboush,Match Report,,9,0,,0,0,2023,Al Taee
+2023-05-22,21:30,Pro League,Matchweek 28,Mon,Away,L,1.0,2.0,Al-Taawoun,46.0,,Knowledge Musona,4-2-3-1,Mohammed Abdulrahman Al Baridi,Match Report,,24,6,,0,0,2023,Al Taee
+2023-05-27,21:00,Pro League,Matchweek 29,Sat,Home,L,1.0,2.0,Al-Wehda,52.0,,Knowledge Musona,4-2-3-1,Shukri Hussein Al Hunfush,Match Report,,12,3,,0,0,2023,Al Taee
+2023-05-31,21:00,Pro League,Matchweek 30,Wed,Away,L,0.0,2.0,Al-Ittihad,46.0,,Knowledge Musona,4-2-3-1,Abdullah Zafer Al Shehri,Match Report,,12,3,,0,0,2023,Al Taee
+2022-08-27,21:00,Pro League,Matchweek 1,Sat,Away,L,1.0,2.0,Abha,50.0,932.0,Sultan Fahran,4-2-2-2,Sultan Sanat Al Harbi,Match Report,,9,2,,0,0,2023,Al Raed
+2022-09-01,19:00,Pro League,Matchweek 2,Thu,Home,W,1.0,0.0,Al-Wehda,39.0,3081.0,Abdullah Al-Fahad,3-4-1-2,Majed Mohammed Al Shamrani,Match Report,,0,0,,0,0,2023,Al Raed
+2022-09-09,21:00,Pro League,Matchweek 3,Fri,Home,L,0.0,1.0,Al-Ittihad,45.0,10856.0,Abdullah Al-Fahad,3-4-1-2,Andrés Matonte,Match Report,,0,0,,0,0,2023,Al Raed
+2022-09-15,21:00,Pro League,Matchweek 4,Thu,Away,W,2.0,1.0,Al-Ettifaq,42.0,5731.0,Abdullah Al-Fahad,3-4-1-2,Abdullah Zafer Al Shehri,Match Report,,0,0,,0,0,2023,Al Raed
+2022-10-01,18:30,Pro League,Matchweek 5,Sat,Home,W,2.0,1.0,Al-Adalah,57.0,4309.0,Abdullah Al-Fahad,3-4-1-2,Sultan Sanat Al Harbi,Match Report,,0,0,,0,0,2023,Al Raed
+2022-10-06,21:00,Pro League,Matchweek 6,Thu,Away,L,0.0,1.0,Al-Shabab,43.0,7458.0,Abdullah Al-Fahad,5-3-2,Mohammed Sami Al Ismail,Match Report,,9,2,,0,0,2023,Al Raed
+2022-10-10,18:15,Pro League,Matchweek 7,Mon,Home,L,0.0,2.0,Al-Ta'ee,65.0,3810.0,Sultan Fahran,3-4-1-2,Abdullah Zafer Al Shehri,Match Report,,17,2,,0,0,2023,Al Raed
+2022-10-15,20:45,Pro League,Matchweek 8,Sat,Away,L,0.0,1.0,Al-Fateh,50.0,,Abdullah Al-Fahad,5-3-2,Mamdouh Mufreh Al Shahdan,Match Report,,9,2,,0,1,2023,Al Raed
+2022-12-16,18:00,Pro League,Matchweek 9,Fri,Home,L,1.0,4.0,Al-Nassr,29.0,,Abdullah Al-Fahad,4-1-4-1,Sami Ahmed Al Jurays,Match Report,,3,1,,0,0,2023,Al Raed
+2022-12-26,15:30,Pro League,Matchweek 10,Mon,Away,W,2.0,1.0,Al-Batin,59.0,,Mohammed Salem,4-2-3-1,Mamdouh Mufreh Al Shahdan,Match Report,,11,4,,0,0,2023,Al Raed
+2022-12-31,18:00,Pro League,Matchweek 11,Sat,Home,L,2.0,3.0,Al-Taawoun,44.0,,Abdullah Al-Fahad,5-3-2,Majed Mohammed Al Shamrani,Match Report,,10,5,,1,1,2023,Al Raed
+2023-01-05,15:30,Pro League,Matchweek 12,Thu,Away,W,2.0,1.0,Damac,28.0,,Mohammed Salem,5-3-2,Mohammed Saif Al Harbi,Match Report,,10,4,,0,0,2023,Al Raed
+2023-01-10,20:30,Pro League,Matchweek 15,Tue,Home,D,1.0,1.0,Al-Hilal,26.0,,Mohammed Salem,4-1-4-1,Sami Ahmed Al Jurays,Match Report,,9,3,,0,0,2023,Al Raed
+2023-01-14,18:00,Pro League,Matchweek 13,Sat,Home,L,2.0,4.0,Al-Fayha,54.0,,Mohammed Salem,4-1-4-1,Abdulsamad Ali Bakri,Match Report,,6,5,,0,0,2023,Al Raed
+2023-01-20,15:30,Pro League,Matchweek 14,Fri,Away,L,0.0,3.0,Al-Khaleej,60.0,,Mohammed Salem,4-1-4-1,Mohammed Saif Al Harbi,Match Report,,7,1,,0,0,2023,Al Raed
+2023-02-10,16:00,Pro League,Matchweek 16,Fri,Home,W,3.0,1.0,Abha,33.0,,Mohammed Salem,5-4-1,Sultan Mohammed Al Akairi,Match Report,,11,6,,0,0,2023,Al Raed
+2023-02-17,20:30,Pro League,Matchweek 17,Fri,Away,D,2.0,2.0,Al-Wehda,44.0,,Abdullah Al-Fahad,5-4-1,Shukri Hussein Al Hunfush,Match Report,,9,5,,0,0,2023,Al Raed
+2023-02-23,20:30,Pro League,Matchweek 18,Thu,Away,D,0.0,0.0,Al-Ittihad,31.0,,Abdullah Al-Fahad,5-4-1,Sandro Schärer,Match Report,,1,1,,0,0,2023,Al Raed
+2023-03-03,16:00,Pro League,Matchweek 19,Fri,Home,L,1.0,2.0,Al-Ettifaq,47.0,,Abdullah Al-Fahad,5-4-1,Abdullah Khaled Al Kharboush,Match Report,,10,3,,1,1,2023,Al Raed
+2023-03-11,18:00,Pro League,Matchweek 20,Sat,Away,W,3.0,0.0,Al-Adalah,36.0,,Sultan Fahran,4-2-2-2,Matej Jug,Match Report,,12,7,,1,1,2023,Al Raed
+2023-03-18,20:30,Pro League,Matchweek 21,Sat,Home,D,2.0,2.0,Al-Shabab,29.0,,Abdullah Al-Fahad,5-3-2,Khalid Saleh Al Turais,Match Report,,7,5,,0,0,2023,Al Raed
+2023-04-05,22:00,Pro League,Matchweek 22,Wed,Away,D,2.0,2.0,Al-Ta'ee,40.0,,Abdullah Al-Fahad,4-2-2-2,Mohammed Hussein Al Hunfush,Match Report,,8,5,,0,0,2023,Al Raed
+2023-04-10,22:00,Pro League,Matchweek 23,Mon,Home,L,0.0,3.0,Al-Fateh,31.0,,Sultan Fahran,4-2-2-2,Sultan Sanat Al Harbi,Match Report,,7,1,,0,0,2023,Al Raed
+2023-04-28,21:30,Pro League,Matchweek 24,Fri,Away,L,0.0,4.0,Al-Nassr,40.0,,Abdullah Al-Fahad,4-1-4-1,Mohammed Khaled Al Hoish,Match Report,,6,4,,0,0,2023,Al Raed
+2023-05-02,19:00,Pro League,Matchweek 25,Tue,Home,W,3.0,1.0,Al-Batin,46.0,4380.0,Sultan Fahran,4-2-3-1,Majed Mohammed Al Shamrani,Match Report,,22,6,,1,1,2023,Al Raed
+2023-05-09,19:00,Pro League,Matchweek 26,Tue,Away,L,1.0,2.0,Al-Taawoun,48.0,,Abdullah Al-Fahad,4-1-4-1,Anastasios Sidiropoulos,Match Report,,15,5,,0,0,2023,Al Raed
+2023-05-15,19:00,Pro League,Matchweek 27,Mon,Home,W,5.0,0.0,Damac,34.0,,Sultan Fahran,4-1-4-1,Shukri Hussein Al Hunfush,Match Report,,13,6,,1,1,2023,Al Raed
+2023-05-22,19:00,Pro League,Matchweek 28,Mon,Away,D,1.0,1.0,Al-Fayha,38.0,,Abdullah Al-Fahad,4-1-4-1,Sultan Mohammed Al Akairi,Match Report,,4,2,,0,0,2023,Al Raed
+2023-05-27,21:00,Pro League,Matchweek 29,Sat,Home,D,0.0,0.0,Al-Khaleej,49.0,,Abdullah Al-Fahad,4-1-4-1,Abdullah Khaled Al Kharboush,Match Report,,7,4,,0,0,2023,Al Raed
+2023-05-31,21:00,Pro League,Matchweek 30,Wed,Away,L,2.0,3.0,Al-Hilal,34.0,,Abdullah Al-Fahad,5-3-2,Raed Ali Al Zahrani,Match Report,,10,4,,0,0,2023,Al Raed
+2022-08-25,19:05,Pro League,Matchweek 1,Thu,Home,L,0.0,1.0,Damac,57.0,6291.0,Sami Al-Khaibari,4-2-3-1,Abdullah Zafer Al Shehri,Match Report,,0,0,,0,0,2023,Al Fayha
+2022-08-31,21:00,Pro League,Matchweek 2,Wed,Away,L,0.0,2.0,Al-Hilal,33.0,11215.0,Sami Al-Khaibari,4-2-3-1,Sandro Schärer,Match Report,,0,0,,0,0,2023,Al Fayha
+2022-09-10,18:45,Pro League,Matchweek 3,Sat,Home,D,1.0,1.0,Al-Taawoun,40.0,3184.0,Sami Al-Khaibari,4-2-3-1,Shukri Hussein Al Hunfush,Match Report,,0,0,,0,0,2023,Al Fayha
+2022-09-16,18:50,Pro League,Matchweek 4,Fri,Away,D,1.0,1.0,Abha,46.0,917.0,Sami Al-Khaibari,4-2-3-1,Mohammed Sami Al Ismail,Match Report,,0,0,,0,0,2023,Al Fayha
+2022-10-02,18:20,Pro League,Matchweek 5,Sun,Home,L,1.0,2.0,Al-Shabab,34.0,4028.0,Sami Al-Khaibari,4-1-4-1,Faisal Suleiman Al Balawi,Match Report,,0,0,,1,1,2023,Al Fayha
+2022-10-07,21:00,Pro League,Matchweek 6,Fri,Away,L,1.0,2.0,Al-Adalah,67.0,7632.0,Sami Al-Khaibari,4-2-3-1,Mohammed Abdulrahman Al Baridi,Match Report,,15,3,,0,0,2023,Al Fayha
+2022-10-11,20:30,Pro League,Matchweek 7,Tue,Home,L,0.0,3.0,Al-Ettifaq,62.0,,Sami Al-Khaibari,4-2-3-1,Abdullah Saleh Al Harbi,Match Report,,18,6,,0,0,2023,Al Fayha
+2022-10-16,17:45,Pro League,Matchweek 8,Sun,Away,L,0.0,4.0,Al-Nassr,39.0,,Sami Al-Khaibari,4-2-2-2,Mohammed Sami Al Ismail,Match Report,,3,1,,0,0,2023,Al Fayha
+2022-12-15,15:30,Pro League,Matchweek 9,Thu,Away,W,2.0,1.0,Al-Khaleej,39.0,,Sami Al-Khaibari,4-2-3-1,Majed Mohammed Al Shamrani,Match Report,,7,3,,1,1,2023,Al Fayha
+2022-12-26,18:00,Pro League,Matchweek 10,Mon,Home,W,2.0,1.0,Al-Ta'ee,38.0,,Sami Al-Khaibari,4-2-3-1,Ahmed Alromkhani,Match Report,,7,5,,0,0,2023,Al Fayha
+2022-12-30,15:30,Pro League,Matchweek 11,Fri,Away,W,2.0,0.0,Al-Fateh,37.0,,Sami Al-Khaibari,4-2-3-1,Sultan Sanat Al Harbi,Match Report,,13,3,,0,0,2023,Al Fayha
+2023-01-07,15:30,Pro League,Matchweek 12,Sat,Home,D,2.0,2.0,Al-Batin,55.0,,Sami Al-Khaibari,3-4-3,Sultan Mohammed Al Akairi,Match Report,,12,6,,0,0,2023,Al Fayha
+2023-01-14,18:00,Pro League,Matchweek 13,Sat,Away,W,4.0,2.0,Al-Raed,47.0,,Sami Al-Khaibari,5-4-1,Abdulsamad Ali Bakri,Match Report,,12,7,,1,1,2023,Al Fayha
+2023-01-19,18:00,Pro League,Matchweek 14,Thu,Away,L,0.0,3.0,Al-Ittihad,44.0,,Sami Al-Khaibari,5-4-1,Sandro Schärer,Match Report,,4,0,,0,0,2023,Al Fayha
+2023-02-04,18:00,Pro League,Matchweek 15,Sat,Home,W,2.0,0.0,Al-Wehda,54.0,,Sami Al-Khaibari,3-4-3,Mohammed Sami Al Ismail,Match Report,,11,5,,1,1,2023,Al Fayha
+2023-02-10,16:00,Pro League,Matchweek 16,Fri,Away,D,1.0,1.0,Damac,39.0,,Sami Al-Khaibari,3-4-3,Sami Ahmed Al Jurays,Match Report,,5,1,,0,0,2023,Al Fayha
+2023-02-23,16:00,Pro League,Matchweek 18,Thu,Away,D,1.0,1.0,Al-Taawoun,34.0,,Sami Al-Khaibari,5-4-1,Majed Mohammed Al Shamrani,Match Report,,8,4,,0,0,2023,Al Fayha
+2023-03-02,16:00,Pro League,Matchweek 19,Thu,Home,W,2.0,0.0,Abha,38.0,,Sami Al-Khaibari,3-4-3,Mohammed Salem Al Dagash,Match Report,,12,6,,0,0,2023,Al Fayha
+2023-03-09,20:30,Pro League,Matchweek 20,Thu,Away,L,2.0,3.0,Al-Shabab,54.0,,Sami Al-Khaibari,5-4-1,Mohammed Saif Al Harbi,Match Report,,14,4,,0,0,2023,Al Fayha
+2023-03-17,16:00,Pro League,Matchweek 21,Fri,Home,D,1.0,1.0,Al-Adalah,58.0,,Sami Al-Khaibari,3-4-3,Abdullah Zafer Al Shehri,Match Report,,16,4,,0,0,2023,Al Fayha
+2023-04-04,22:00,Pro League,Matchweek 17,Tue,Home,L,0.0,2.0,Al-Hilal,41.0,,Sami Al-Khaibari,3-4-3,Abdullah Khaled Al Kharboush,Match Report,,8,2,,0,0,2023,Al Fayha
+2023-04-09,22:00,Pro League,Matchweek 23,Sun,Home,D,0.0,0.0,Al-Nassr,41.0,,Sami Al-Khaibari,3-4-3,Tamás Bognár,Match Report,,5,1,,0,0,2023,Al Fayha
+2023-04-14,22:00,Pro League,Matchweek 22,Fri,Away,L,0.0,1.0,Al-Ettifaq,52.0,,Sami Al-Khaibari,5-4-1,Mohammed Khaled Al Hoish,Match Report,,17,5,,0,0,2023,Al Fayha
+2023-04-28,21:30,Pro League,Matchweek 24,Fri,Home,L,0.0,3.0,Al-Khaleej,65.0,,Sami Al-Khaibari,3-4-3,Shukri Hussein Al Hunfush,Match Report,,14,1,,0,0,2023,Al Fayha
+2023-05-02,21:30,Pro League,Matchweek 25,Tue,Away,L,1.0,2.0,Al-Ta'ee,54.0,,Sami Al-Khaibari,5-4-1,Abdulrahman Mohammed Al Sultan,Match Report,,14,4,,0,0,2023,Al Fayha
+2023-05-09,19:00,Pro League,Matchweek 26,Tue,Home,W,3.0,0.0,Al-Fateh,37.0,,Sami Al-Khaibari,3-4-3,Sami Ahmed Al Jurays,Match Report,,10,5,,0,0,2023,Al Fayha
+2023-05-15,19:00,Pro League,Matchweek 27,Mon,Away,D,0.0,0.0,Al-Batin,48.0,,Sami Al-Khaibari,5-4-1,Sultan Sanat Al Harbi,Match Report,,15,1,,0,0,2023,Al Fayha
+2023-05-22,19:00,Pro League,Matchweek 28,Mon,Home,D,1.0,1.0,Al-Raed,62.0,,Sami Al-Khaibari,5-4-1,Sultan Mohammed Al Akairi,Match Report,,16,4,,0,0,2023,Al Fayha
+2023-05-27,21:00,Pro League,Matchweek 29,Sat,Home,L,0.0,3.0,Al-Ittihad,52.0,,Sami Al-Khaibari,4-1-4-1,Fabio Verssimo,Match Report,,10,0,,0,0,2023,Al Fayha
+2023-05-31,21:00,Pro League,Matchweek 30,Wed,Away,W,1.0,0.0,Al-Wehda,54.0,,Sami Al-Khaibari,5-4-1,Abdullah Saleh Al Harbi,Match Report,,26,8,,0,0,2023,Al Fayha
+2022-08-27,21:00,Pro League,Matchweek 1,Sat,Home,W,2.0,1.0,Al-Raed,50.0,932.0,Abdullah Al-Zori,4-4-1-1,Sultan Sanat Al Harbi,Match Report,,6,2,,0,0,2023,Abha
+2022-09-01,21:00,Pro League,Matchweek 2,Thu,Home,L,0.0,4.0,Al-Shabab,47.0,6909.0,Abdullah Al-Zori,4-2-3-1,Mohammed Saif Al Harbi,Match Report,,0,0,,0,0,2023,Abha
+2022-09-08,21:00,Pro League,Matchweek 3,Thu,Away,L,0.0,1.0,Al-Wehda,64.0,3118.0,Saleh Al-Amri,4-2-3-1,Faisal Suleiman Al Balawi,Match Report,,0,0,,0,0,2023,Abha
+2022-09-16,18:50,Pro League,Matchweek 4,Fri,Home,D,1.0,1.0,Al-Fayha,54.0,917.0,Riyadh Sharahili,4-2-3-1,Mohammed Sami Al Ismail,Match Report,,0,0,,0,0,2023,Abha
+2022-10-02,21:00,Pro League,Matchweek 5,Sun,Away,L,0.0,3.0,Al-Fateh,49.0,3705.0,Riyadh Sharahili,3-4-3,Sami Ahmed Al Jurays,Match Report,,0,0,,0,0,2023,Abha
+2022-10-07,18:30,Pro League,Matchweek 6,Fri,Home,L,0.0,3.0,Al-Nassr,36.0,13250.0,Abdullah Al-Zori,5-4-1,Fábio Veríssimo,Match Report,,5,0,,0,0,2023,Abha
+2022-10-11,18:15,Pro League,Matchweek 7,Tue,Away,W,3.0,1.0,Al-Taawoun,47.0,5076.0,Abdullah Al-Zori,4-2-3-1,Sultan Sanat Al Harbi,Match Report,,12,4,,0,0,2023,Abha
+2022-10-16,17:45,Pro League,Matchweek 8,Sun,Away,W,3.0,1.0,Al-Batin,69.0,,Abdullah Al-Zori,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,17,6,,0,0,2023,Abha
+2022-12-16,15:30,Pro League,Matchweek 9,Fri,Home,W,2.0,1.0,Al-Ta'ee,54.0,,Abdullah Al-Zori,4-1-4-1,Khalid Saleh Al Turais,Match Report,,11,6,,0,0,2023,Abha
+2022-12-25,18:00,Pro League,Matchweek 10,Sun,Away,W,2.0,0.0,Al-Adalah,54.0,,Abdullah Al-Zori,4-2-3-1,Abdulsamad Ali Bakri,Match Report,,12,6,,0,0,2023,Abha
+2022-12-31,15:30,Pro League,Matchweek 11,Sat,Home,L,1.0,2.0,Al-Ittihad,57.0,,Abdullah Al-Zori,4-2-3-1,Anastasios Sidiropoulos,Match Report,,11,6,,0,1,2023,Abha
+2023-01-07,18:00,Pro League,Matchweek 12,Sat,Away,L,1.0,2.0,Al-Ettifaq,53.0,,Abdullah Al-Zori,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,14,4,,0,0,2023,Abha
+2023-01-13,15:30,Pro League,Matchweek 13,Fri,Home,W,2.0,1.0,Damac,49.0,,Abdullah Al-Zori,4-2-3-1,Sultan Sanat Al Harbi,Match Report,,15,8,,0,0,2023,Abha
+2023-01-22,18:00,Pro League,Matchweek 14,Sun,Away,L,1.0,2.0,Al-Hilal,43.0,,Saad Bguir,4-2-3-1,Georgi Kabakov,Match Report,,8,3,,0,0,2023,Abha
+2023-02-02,16:00,Pro League,Matchweek 15,Thu,Home,W,2.0,0.0,Al-Khaleej,65.0,,Abdullah Al-Zori,4-2-3-1,Ahmed Mohammed Al Rumaikhani,Match Report,,8,4,,0,0,2023,Abha
+2023-02-10,16:00,Pro League,Matchweek 16,Fri,Away,L,1.0,3.0,Al-Raed,67.0,,Abdullah Al-Zori,4-2-3-1,Sultan Mohammed Al Akairi,Match Report,,10,4,,0,0,2023,Abha
+2023-02-14,18:00,Pro League,Matchweek 17,Tue,Away,L,0.0,2.0,Al-Shabab,55.0,,Abdullah Al-Zori,4-2-3-1,Raed Ali Al Zahrani,Match Report,,16,6,,0,0,2023,Abha
+2023-02-24,16:00,Pro League,Matchweek 18,Fri,Home,L,1.0,2.0,Al-Wehda,64.0,,Abdullah Al-Zori,4-2-3-1,Abdulsamad Ali Bakri,Match Report,,13,4,,0,0,2023,Abha
+2023-03-02,16:00,Pro League,Matchweek 19,Thu,Away,L,0.0,2.0,Al-Fayha,63.0,,Saad Bguir,4-2-3-1,Mohammed Salem Al Dagash,Match Report,,8,5,,0,0,2023,Abha
+2023-03-10,16:00,Pro League,Matchweek 20,Fri,Home,D,2.0,2.0,Al-Fateh,47.0,,Abdullah Al-Zori,4-2-3-1,Mohammed Abdulrahman Al Baridi,Match Report,,7,3,,0,0,2023,Abha
+2023-03-18,20:30,Pro League,Matchweek 21,Sat,Away,L,1.0,2.0,Al-Nassr,30.0,,Abdullah Al-Zori,4-2-2-2,Fernando Rapallini,Match Report,,9,4,,0,0,2023,Abha
+2023-04-05,22:00,Pro League,Matchweek 22,Wed,Home,D,1.0,1.0,Al-Taawoun,48.0,,Abdullah Al-Zori,4-2-2-2,Raed Ali Al Zahrani,Match Report,,16,5,,0,0,2023,Abha
+2023-04-09,22:00,Pro League,Matchweek 23,Sun,Home,W,3.0,2.0,Al-Batin,47.0,,Abdullah Al-Zori,4-2-3-1,Mohammed Saif Al Harbi,Match Report,,8,6,,0,0,2023,Abha
+2023-04-27,19:00,Pro League,Matchweek 24,Thu,Away,L,0.0,1.0,Al-Ta'ee,56.0,,Saleh Al-Amri,4-2-2-2,Mohammed Salem Al Dagash,Match Report,,13,4,,0,0,2023,Abha
+2023-05-02,19:00,Pro League,Matchweek 25,Tue,Home,W,1.0,0.0,Al-Adalah,55.0,,Amine Atouchi,4-2-3-1,Abdullah Khaled Al Kharboush,Match Report,,13,3,,0,1,2023,Abha
+2023-05-08,21:30,Pro League,Matchweek 26,Mon,Away,L,0.0,4.0,Al-Ittihad,50.0,,Abdullah Al-Zori,4-2-3-1,Nikola Dabanović,Match Report,,7,2,,0,0,2023,Abha
+2023-05-18,19:00,Pro League,Matchweek 27,Thu,Home,W,2.0,1.0,Al-Ettifaq,56.0,,Saad Bguir,4-2-3-1,Ahmed Mohammed Al Rumaikhani,Match Report,,11,6,,1,1,2023,Abha
+2023-05-22,19:00,Pro League,Matchweek 28,Mon,Away,L,0.0,1.0,Damac,56.0,,Saad Bguir,4-2-3-1,Abdulsamad Ali Bakri,Match Report,,9,4,,0,0,2023,Abha
+2023-05-27,21:00,Pro League,Matchweek 29,Sat,Home,L,0.0,3.0,Al-Hilal,50.0,,Saad Bguir,4-2-3-1,Mohammed Sami Al Ismail,Match Report,,11,3,,0,0,2023,Abha
+2023-05-31,21:00,Pro League,Matchweek 30,Wed,Away,L,1.0,3.0,Al-Khaleej,53.0,,Saleh Al-Amri,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,6,3,,0,0,2023,Abha
+2022-08-27,21:00,Pro League,Matchweek 1,Sat,Away,L,0.0,1.0,Al-Nassr,40.0,19312.0,Alberto Botía,4-1-4-1,Mohammed Khaled Al Hoish,Match Report,,2,0,,0,0,2023,Al Wehda
+2022-09-01,19:00,Pro League,Matchweek 2,Thu,Away,L,0.0,1.0,Al-Raed,61.0,3081.0,Waleed Bakshween,4-1-4-1,Majed Mohammed Al Shamrani,Match Report,,0,0,,0,0,2023,Al Wehda
+2022-09-08,21:00,Pro League,Matchweek 3,Thu,Home,W,1.0,0.0,Abha,36.0,3118.0,Waleed Bakshween,4-1-4-1,Faisal Suleiman Al Balawi,Match Report,,0,0,,0,0,2023,Al Wehda
+2022-09-16,21:00,Pro League,Matchweek 4,Fri,Away,L,0.0,3.0,Al-Hilal,33.0,13585.0,Waleed Bakshween,4-2-3-1,Artur Dias,Match Report,,0,0,,0,0,2023,Al Wehda
+2022-10-01,21:00,Pro League,Matchweek 5,Sat,Home,D,1.0,1.0,Al-Ettifaq,50.0,2237.0,Waleed Bakshween,4-2-3-1,Ahmed Mohammed Al Rumaikhani,Match Report,,0,0,,0,0,2023,Al Wehda
+2022-10-06,18:30,Pro League,Matchweek 6,Thu,Away,L,0.0,2.0,Al-Taawoun,47.0,4843.0,Waleed Bakshween,4-2-2-2,Mamdouh Mufreh Al Shahdan,Match Report,,5,1,,0,0,2023,Al Wehda
+2022-10-10,20:30,Pro League,Matchweek 7,Mon,Home,W,2.0,0.0,Al-Batin,69.0,761.0,Waleed Bakshween,4-1-4-1,Abdulsamad Ali Bakri,Match Report,,14,6,,0,0,2023,Al Wehda
+2022-10-16,20:30,Pro League,Matchweek 8,Sun,Away,L,0.0,1.0,Al-Ittihad,48.0,,Waleed Bakshween,4-1-4-1,Radu Petrescu,Match Report,,10,1,,0,0,2023,Al Wehda
+2022-12-25,15:30,Pro League,Matchweek 10,Sun,Away,D,0.0,0.0,Damac,60.0,,Waleed Bakshween,4-2-3-1,Mohammed Salem Al Dagash,Match Report,,12,3,,0,0,2023,Al Wehda
+2022-12-30,18:00,Pro League,Matchweek 11,Fri,Home,D,0.0,0.0,Al-Adalah,77.0,,Abdullah Al-Hafith,4-2-3-1,Mohammed Nasser Abu Shaqara,Match Report,,12,3,,0,0,2023,Al Wehda
+2023-01-05,20:30,Pro League,Matchweek 12,Thu,Home,W,2.0,1.0,Al-Shabab,44.0,,Waleed Bakshween,4-2-3-1,Ahmed Mohammed Al Rumaikhani,Match Report,,15,4,,1,1,2023,Al Wehda
+2023-01-13,18:00,Pro League,Matchweek 13,Fri,Away,L,2.0,3.0,Al-Khaleej,69.0,,Waleed Bakshween,4-1-4-1,Sami Ahmed Al Jurays,Match Report,,8,3,,0,0,2023,Al Wehda
+2023-01-21,18:00,Pro League,Matchweek 14,Sat,Home,W,1.0,0.0,Al-Ta'ee,56.0,,Waleed Bakshween,4-2-3-1,Raed Ali Al Zahrani,Match Report,,19,6,,0,0,2023,Al Wehda
+2023-01-27,20:30,Pro League,Matchweek 9,Fri,Home,L,0.0,2.0,Al-Fateh,47.0,,Waleed Bakshween,4-2-3-1,Abdullah Saleh Al Harbi,Match Report,,12,3,,0,0,2023,Al Wehda
+2023-02-04,18:00,Pro League,Matchweek 15,Sat,Away,L,0.0,2.0,Al-Fayha,46.0,,Anselmo de Moraes,4-2-2-2,Mohammed Sami Al Ismail,Match Report,,5,1,,0,0,2023,Al Wehda
+2023-02-09,20:30,Pro League,Matchweek 16,Thu,Home,L,0.0,4.0,Al-Nassr,48.0,,Waleed Bakshween,4-2-3-1,Sultan Sanat Al Harbi,Match Report,,12,2,,0,0,2023,Al Wehda
+2023-02-17,20:30,Pro League,Matchweek 17,Fri,Home,D,2.0,2.0,Al-Raed,56.0,,Waleed Bakshween,4-2-3-1,Shukri Hussein Al Hunfush,Match Report,,15,5,,0,0,2023,Al Wehda
+2023-02-24,16:00,Pro League,Matchweek 18,Fri,Away,W,2.0,1.0,Abha,36.0,,Waleed Bakshween,3-4-1-2,Abdulsamad Ali Bakri,Match Report,,14,8,,0,0,2023,Al Wehda
+2023-03-02,20:30,Pro League,Matchweek 19,Thu,Home,D,3.0,3.0,Al-Hilal,36.0,,Waleed Bakshween,4-1-4-1,Faisal Suleiman Al Balawi,Match Report,,13,8,,0,0,2023,Al Wehda
+2023-03-09,16:00,Pro League,Matchweek 20,Thu,Away,D,1.0,1.0,Al-Ettifaq,49.0,,Waleed Bakshween,4-1-4-1,Shukri Hussein Al Hunfush,Match Report,,6,3,,0,0,2023,Al Wehda
+2023-03-17,20:30,Pro League,Matchweek 21,Fri,Home,D,1.0,1.0,Al-Taawoun,52.0,,Waleed Bakshween,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,4,1,,0,0,2023,Al Wehda
+2023-04-05,22:00,Pro League,Matchweek 22,Wed,Away,L,0.0,2.0,Al-Batin,62.0,,Waleed Bakshween,4-1-4-1,Mohammed Nasser Abu Shaqara,Match Report,,15,5,,0,0,2023,Al Wehda
+2023-04-09,23:00,Pro League,Matchweek 23,Sun,Home,L,1.0,2.0,Al-Ittihad,54.0,,Waleed Bakshween,4-2-3-1,Artur Dias,Match Report,,9,2,,0,0,2023,Al Wehda
+2023-04-28,19:00,Pro League,Matchweek 24,Fri,Away,D,1.0,1.0,Al-Fateh,54.0,,Waleed Bakshween,4-1-4-1,Khalid Saleh Al Turais,Match Report,,12,2,,1,1,2023,Al Wehda
+2023-05-03,21:30,Pro League,Matchweek 25,Wed,Home,L,0.0,2.0,Damac,56.0,,Waleed Bakshween,4-1-4-1,Samir Zolota,Match Report,,12,4,,0,0,2023,Al Wehda
+2023-05-08,19:00,Pro League,Matchweek 26,Mon,Away,W,2.0,1.0,Al-Adalah,44.0,,Waleed Bakshween,4-2-3-1,Sultan Sanat Al Harbi,Match Report,,9,5,,0,0,2023,Al Wehda
+2023-05-18,19:00,Pro League,Matchweek 27,Thu,Away,W,1.0,0.0,Al-Shabab,35.0,,Waleed Bakshween,4-1-4-1,Mamdouh Mufreh Al Shahdan,Match Report,,8,3,,0,0,2023,Al Wehda
+2023-05-22,21:30,Pro League,Matchweek 28,Mon,Home,L,1.0,4.0,Al-Khaleej,49.0,,Fayçal Fajr,4-2-3-1,Faisal Suleiman Al Balawi,Match Report,,9,2,,0,0,2023,Al Wehda
+2023-05-27,21:00,Pro League,Matchweek 29,Sat,Away,W,2.0,1.0,Al-Ta'ee,48.0,,Waleed Bakshween,4-1-4-1,Shukri Hussein Al Hunfush,Match Report,,12,4,,0,0,2023,Al Wehda
+2023-05-31,21:00,Pro League,Matchweek 30,Wed,Home,L,0.0,1.0,Al-Fayha,46.0,,Waleed Bakshween,4-2-3-1,Abdullah Saleh Al Harbi,Match Report,,2,1,,0,0,2023,Al Wehda
+2022-08-25,21:00,Pro League,Matchweek 1,Thu,Home,L,0.0,2.0,Al-Hilal,35.0,13218.0,Abdullah Al-Harbi,5-4-1,Majed Mohammed Al Shamrani,Match Report,,0,0,,0,0,2023,Al Khaleej
+2022-09-02,21:00,Pro League,Matchweek 2,Fri,Away,L,1.0,2.0,Damac,44.0,746.0,Hussain Al Nuweqi,3-4-3,Abdullah Saleh Al Harbi,Match Report,,0,0,,0,0,2023,Al Khaleej
+2022-09-08,18:30,Pro League,Matchweek 3,Thu,Home,D,0.0,0.0,Al-Adalah,57.0,1968.0,Hussain Al Nuweqi,3-4-3,Mohammed Abdulrahman Al Baridi,Match Report,,0,0,,0,0,2023,Al Khaleej
+2022-09-15,21:00,Pro League,Matchweek 4,Thu,Away,L,0.0,2.0,Al-Ittihad,59.0,25049.0,Hussain Al Nuweqi,5-3-2,Fernando Rapallini,Match Report,,0,0,,0,0,2023,Al Khaleej
+2022-10-01,21:00,Pro League,Matchweek 5,Sat,Home,W,1.0,0.0,Al-Batin,72.0,2367.0,Djamel Benlamri,4-1-4-1,Abdullah Khaled Al Kharboush,Match Report,,0,0,,0,0,2023,Al Khaleej
+2022-10-06,18:30,Pro League,Matchweek 6,Thu,Away,L,0.0,3.0,Al-Ta'ee,58.0,7455.0,Hussain Al Nuweqi,4-2-3-1,Mohammed Saif Al Harbi,Match Report,,13,5,,0,0,2023,Al Khaleej
+2022-10-11,20:30,Pro League,Matchweek 7,Tue,Home,L,1.0,2.0,Al-Fateh,45.0,,Hussain Al Nuweqi,4-2-3-1,Ahmed Mohammed Al Rumaikhani,Match Report,,8,3,,1,1,2023,Al Khaleej
+2022-10-15,20:45,Pro League,Matchweek 8,Sat,Away,L,0.0,4.0,Al-Shabab,43.0,,Djamel Benlamri,4-2-3-1,Majed Mohammed Al Shamrani,Match Report,,10,3,,0,0,2023,Al Khaleej
+2022-12-15,15:30,Pro League,Matchweek 9,Thu,Home,L,1.0,2.0,Al-Fayha,62.0,,Hussain Al Nuweqi,4-1-4-1,Majed Mohammed Al Shamrani,Match Report,,6,1,,0,1,2023,Al Khaleej
+2022-12-25,20:30,Pro League,Matchweek 10,Sun,Away,L,0.0,1.0,Al-Ettifaq,45.0,,Djamel Benlamri,4-1-4-1,Khalid Saleh Al Turais,Match Report,,16,3,,0,0,2023,Al Khaleej
+2022-12-31,20:30,Pro League,Matchweek 11,Sat,Home,L,0.0,1.0,Al-Nassr,33.0,,Hussain Al Nuweqi,4-1-4-1,Sami Ahmed Al Jurays,Match Report,,9,1,,0,0,2023,Al Khaleej
+2023-01-06,18:00,Pro League,Matchweek 12,Fri,Away,W,1.0,0.0,Al-Taawoun,34.0,,Hussain Al Nuweqi,4-1-4-1,Abdullah Khaled Al Kharboush,Match Report,,5,4,,0,0,2023,Al Khaleej
+2023-01-13,18:00,Pro League,Matchweek 13,Fri,Home,W,3.0,2.0,Al-Wehda,32.0,,Hussain Al Nuweqi,4-1-4-1,Sami Ahmed Al Jurays,Match Report,,7,4,,0,0,2023,Al Khaleej
+2023-01-20,15:30,Pro League,Matchweek 14,Fri,Home,W,3.0,0.0,Al-Raed,40.0,,Hussain Al Nuweqi,4-1-4-1,Mohammed Saif Al Harbi,Match Report,,13,6,,0,0,2023,Al Khaleej
+2023-02-02,16:00,Pro League,Matchweek 15,Thu,Away,L,0.0,2.0,Abha,35.0,,Hussain Al Nuweqi,4-1-4-1,Ahmed Mohammed Al Rumaikhani,Match Report,,9,1,,0,0,2023,Al Khaleej
+2023-02-18,18:00,Pro League,Matchweek 17,Sat,Home,W,2.0,0.0,Damac,40.0,,Hussain Al Nuweqi,4-1-4-1,Abdullah Saleh Al Harbi,Match Report,,10,3,,1,1,2023,Al Khaleej
+2023-02-24,18:00,Pro League,Matchweek 18,Fri,Away,L,0.0,2.0,Al-Adalah,56.0,,Hussain Al Nuweqi,4-1-4-1,Radu Petrescu,Match Report,,15,3,,0,0,2023,Al Khaleej
+2023-03-03,16:00,Pro League,Matchweek 19,Fri,Home,L,0.0,3.0,Al-Ittihad,46.0,,Hussain Al Nuweqi,4-1-4-1,Bastian Dankert,Match Report,,8,1,,0,0,2023,Al Khaleej
+2023-03-09,16:00,Pro League,Matchweek 20,Thu,Away,L,0.0,1.0,Al-Batin,64.0,,Douglas Friedrich,4-1-4-1,Faisal Suleiman Al Balawi,Match Report,,20,6,,0,0,2023,Al Khaleej
+2023-03-16,16:00,Pro League,Matchweek 21,Thu,Home,D,2.0,2.0,Al-Ta'ee,35.0,,Douglas Friedrich,4-1-4-1,Mamdouh Mufreh Al Shahdan,Match Report,,6,2,,0,0,2023,Al Khaleej
+2023-04-01,22:00,Pro League,Matchweek 16,Sat,Away,L,0.0,2.0,Al-Hilal,33.0,,Lucas Souza,4-2-3-1,João Pinheiro,Match Report,,9,2,,0,0,2023,Al Khaleej
+2023-04-06,22:00,Pro League,Matchweek 22,Thu,Away,L,0.0,2.0,Al-Fateh,39.0,,Lucas Souza,4-2-3-1,Abdulsamad Ali Bakri,Match Report,,13,5,,0,0,2023,Al Khaleej
+2023-04-11,22:00,Pro League,Matchweek 23,Tue,Home,L,2.0,3.0,Al-Shabab,43.0,,Lucas Souza,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,14,7,,0,0,2023,Al Khaleej
+2023-04-28,21:30,Pro League,Matchweek 24,Fri,Away,W,3.0,0.0,Al-Fayha,35.0,,Lucas Souza,4-2-3-1,Shukri Hussein Al Hunfush,Match Report,,11,4,,1,1,2023,Al Khaleej
+2023-05-02,21:30,Pro League,Matchweek 25,Tue,Home,W,2.0,1.0,Al-Ettifaq,44.0,,Lucas Souza,4-2-3-1,Abdullah Zafer Al Shehri,Match Report,,13,3,,1,1,2023,Al Khaleej
+2023-05-08,19:00,Pro League,Matchweek 26,Mon,Away,D,1.0,1.0,Al-Nassr,35.0,,Lucas Souza,4-2-3-1,Majed Mohammed Al Shamrani,Match Report,,7,3,,0,0,2023,Al Khaleej
+2023-05-15,19:00,Pro League,Matchweek 27,Mon,Home,L,0.0,2.0,Al-Taawoun,38.0,,Fábio Martins,4-2-3-1,Abdullah Zafer Al Shehri,Match Report,,13,4,,0,0,2023,Al Khaleej
+2023-05-22,21:30,Pro League,Matchweek 28,Mon,Away,W,4.0,1.0,Al-Wehda,51.0,,Lucas Souza,4-2-3-1,Faisal Suleiman Al Balawi,Match Report,,11,7,,1,1,2023,Al Khaleej
+2023-05-27,21:00,Pro League,Matchweek 29,Sat,Away,D,0.0,0.0,Al-Raed,51.0,,Lucas Souza,4-2-3-1,Abdullah Khaled Al Kharboush,Match Report,,8,3,,0,0,2023,Al Khaleej
+2023-05-31,21:00,Pro League,Matchweek 30,Wed,Home,W,3.0,1.0,Abha,47.0,,Lucas Souza,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,20,9,,0,0,2023,Al Khaleej
+2022-08-26,18:45,Pro League,Matchweek 1,Fri,Home,L,0.0,3.0,Al-Ittihad,57.0,16250.0,Abdullah Al-Yousaf,4-3-3,Slavko Vinčič,Match Report,,6,0,,0,0,2023,Al Adalah
+2022-09-02,19:00,Pro League,Matchweek 2,Fri,Away,L,0.0,1.0,Al-Ta'ee,58.0,6724.0,Abdullah Al-Yousaf,4-2-2-2,Abdullah Khaled Al Kharboush,Match Report,,0,0,,0,0,2023,Al Adalah
+2022-09-08,18:30,Pro League,Matchweek 3,Thu,Away,D,0.0,0.0,Al-Khaleej,43.0,1968.0,Edson,4-2-3-1,Mohammed Abdulrahman Al Baridi,Match Report,,0,0,,0,0,2023,Al Adalah
+2022-09-14,21:00,Pro League,Matchweek 4,Wed,Home,L,0.0,1.0,Al-Shabab,37.0,7392.0,Murtadah Al Burayh,4-1-4-1,Shukri Hussein Al Hunfush,Match Report,,0,0,,0,0,2023,Al Adalah
+2022-10-01,18:30,Pro League,Matchweek 5,Sat,Away,L,1.0,2.0,Al-Raed,43.0,4309.0,Edson,4-1-4-1,Sultan Sanat Al Harbi,Match Report,,0,0,,0,0,2023,Al Adalah
+2022-10-07,21:00,Pro League,Matchweek 6,Fri,Home,W,2.0,1.0,Al-Fayha,33.0,7632.0,Edson,4-1-4-1,Mohammed Abdulrahman Al Baridi,Match Report,,9,5,,0,0,2023,Al Adalah
+2022-10-11,20:30,Pro League,Matchweek 7,Tue,Away,L,1.0,4.0,Al-Nassr,32.0,,Edson,4-1-4-1,Khalid Saleh Al Turais,Match Report,,5,1,,1,1,2023,Al Adalah
+2022-10-16,20:30,Pro League,Matchweek 8,Sun,Home,L,0.0,2.0,Damac,47.0,,Murtadah Al Burayh,5-4-1,Sultan Sanat Al Harbi,Match Report,,6,3,,0,0,2023,Al Adalah
+2022-12-15,18:00,Pro League,Matchweek 9,Thu,Away,L,1.0,4.0,Al-Taawoun,41.0,,Ahmed Al-Sultan,3-4-3,Mohammed Khaled Al Hoish,Match Report,,8,1,,0,0,2023,Al Adalah
+2022-12-25,18:00,Pro League,Matchweek 10,Sun,Home,L,0.0,2.0,Abha,46.0,,Murtadah Al Burayh,3-4-3,Abdulsamad Ali Bakri,Match Report,,16,5,,0,0,2023,Al Adalah
+2022-12-30,18:00,Pro League,Matchweek 11,Fri,Away,D,0.0,0.0,Al-Wehda,24.0,,Edson,3-4-3,Mohammed Nasser Abu Shaqara,Match Report,,12,7,,0,0,2023,Al Adalah
+2023-01-06,18:00,Pro League,Matchweek 12,Fri,Home,W,2.0,1.0,Al-Fateh,35.0,,Edson,3-4-3,Majed Mohammed Al Shamrani,Match Report,,9,3,,0,0,2023,Al Adalah
+2023-01-15,18:00,Pro League,Matchweek 13,Sun,Away,L,0.0,2.0,Al-Hilal,24.0,,Milan Mijatović,3-4-3,Luís Godinho,Match Report,,1,0,,0,0,2023,Al Adalah
+2023-01-19,15:30,Pro League,Matchweek 14,Thu,Home,D,1.0,1.0,Al-Batin,44.0,,Murtadah Al Burayh,3-4-3,Abdullah Khaled Al Kharboush,Match Report,,9,4,,0,0,2023,Al Adalah
+2023-02-03,20:30,Pro League,Matchweek 15,Fri,Away,L,2.0,3.0,Al-Ettifaq,44.0,,Edson,3-4-3,Mamdouh Mufreh Al Shahdan,Match Report,,10,4,,0,0,2023,Al Adalah
+2023-02-10,20:30,Pro League,Matchweek 16,Fri,Away,L,0.0,5.0,Al-Ittihad,30.0,,Edson,3-4-3,Tamás Bognár,Match Report,,3,1,,0,0,2023,Al Adalah
+2023-02-16,18:00,Pro League,Matchweek 17,Thu,Home,D,2.0,2.0,Al-Ta'ee,37.0,,Milan Mijatović,4-1-4-1,Mohammed Abdulrahman Al Baridi,Match Report,,9,4,,0,0,2023,Al Adalah
+2023-02-24,18:00,Pro League,Matchweek 18,Fri,Home,W,2.0,0.0,Al-Khaleej,44.0,,Milan Mijatović,4-1-4-1,Radu Petrescu,Match Report,,9,6,,0,0,2023,Al Adalah
+2023-03-04,20:30,Pro League,Matchweek 19,Sat,Away,W,2.0,1.0,Al-Shabab,43.0,,Ahmed Al-Sultan,4-1-4-1,Abdullah Saleh Al Harbi,Match Report,,11,5,,0,0,2023,Al Adalah
+2023-03-11,18:00,Pro League,Matchweek 20,Sat,Home,L,0.0,3.0,Al-Raed,64.0,,Ahmed Al-Sultan,4-1-4-1,Matej Jug,Match Report,,14,3,,0,0,2023,Al Adalah
+2023-03-17,16:00,Pro League,Matchweek 21,Fri,Away,D,1.0,1.0,Al-Fayha,42.0,,Milan Mijatović,4-1-4-1,Abdullah Zafer Al Shehri,Match Report,,3,1,,0,0,2023,Al Adalah
+2023-04-04,22:00,Pro League,Matchweek 22,Tue,Home,L,0.0,5.0,Al-Nassr,47.0,,Edson,4-1-4-1,Abdullah Saleh Al Harbi,Match Report,,9,3,,0,0,2023,Al Adalah
+2023-04-10,22:00,Pro League,Matchweek 23,Mon,Away,D,2.0,2.0,Damac,52.0,,Edson,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,11,3,,1,1,2023,Al Adalah
+2023-04-27,19:00,Pro League,Matchweek 24,Thu,Home,W,2.0,1.0,Al-Taawoun,48.0,,Milan Mijatović,4-1-4-1,Sultan Sanat Al Harbi,Match Report,,8,3,,0,0,2023,Al Adalah
+2023-05-02,19:00,Pro League,Matchweek 25,Tue,Away,L,0.0,1.0,Abha,45.0,,Milan Mijatović,4-1-4-1,Abdullah Khaled Al Kharboush,Match Report,,9,2,,0,0,2023,Al Adalah
+2023-05-08,19:00,Pro League,Matchweek 26,Mon,Home,L,1.0,2.0,Al-Wehda,56.0,,Milan Mijatović,4-2-2-2,Sultan Sanat Al Harbi,Match Report,,10,5,,0,0,2023,Al Adalah
+2023-05-15,21:30,Pro League,Matchweek 27,Mon,Away,W,4.0,2.0,Al-Fateh,32.0,,Milan Mijatović,3-5-2,Khalid Saleh Al Turais,Match Report,,14,7,,0,0,2023,Al Adalah
+2023-05-23,19:00,Pro League,Matchweek 28,Tue,Home,W,2.0,0.0,Al-Hilal,23.0,,Milan Mijatović,3-1-4-2,Sami Ahmed Al Jurays,Match Report,,7,3,,1,1,2023,Al Adalah
+2023-05-27,21:00,Pro League,Matchweek 29,Sat,Away,D,2.0,2.0,Al-Batin,55.0,,Murtadah Al Burayh,5-3-2,Faisal Suleiman Al Balawi,Match Report,,20,9,,0,1,2023,Al Adalah
+2023-05-31,21:00,Pro League,Matchweek 30,Wed,Home,L,0.0,2.0,Al-Ettifaq,49.0,,Milan Mijatović,3-1-4-2,Khalid Saleh Al Turais,Match Report,,14,2,,0,0,2023,Al Adalah
+2022-08-26,21:00,Pro League,Matchweek 1,Fri,Away,L,0.0,3.0,Al-Shabab,19.0,6041.0,Martín Campaña,5-4-1,Faisal Suleiman Al Balawi,Match Report,,3,1,,0,0,2023,Al Batin
+2022-08-31,18:55,Pro League,Matchweek 2,Wed,Home,L,0.0,5.0,Al-Fateh,27.0,3984.0,Martín Campaña,5-4-1,Ahmed Alromkhani,Match Report,,0,0,,0,0,2023,Al Batin
+2022-09-09,18:30,Pro League,Matchweek 3,Fri,Away,L,0.0,3.0,Al-Ettifaq,28.0,2608.0,Yousef Al Shammari,4-4-2◆,Mamdouh Mufreh Al Shahdan,Match Report,,0,0,,0,0,2023,Al Batin
+2022-09-15,18:40,Pro League,Matchweek 4,Thu,Home,L,0.0,4.0,Al-Nassr,23.0,4096.0,Martín Campaña,4-2-3-1,Roberto Tobar,Match Report,,0,0,,0,0,2023,Al Batin
+2022-10-01,21:00,Pro League,Matchweek 5,Sat,Away,L,0.0,1.0,Al-Khaleej,28.0,2367.0,Yousef Al Shammari,4-2-3-1,Abdullah Khaled Al Kharboush,Match Report,,0,0,,0,0,2023,Al Batin
+2022-10-06,21:00,Pro League,Matchweek 6,Thu,Home,D,2.0,2.0,Damac,31.0,3182.0,Yousef Al Shammari,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,3,2,,0,0,2023,Al Batin
+2022-10-10,20:30,Pro League,Matchweek 7,Mon,Away,L,0.0,2.0,Al-Wehda,31.0,761.0,Yousef Al Shammari,4-2-3-1,Abdulsamad Ali Bakri,Match Report,,7,4,,0,0,2023,Al Batin
+2022-10-16,17:45,Pro League,Matchweek 8,Sun,Home,L,1.0,3.0,Abha,31.0,,Yousef Al Shammari,4-1-4-1,Sami Ahmed Al Jurays,Match Report,,7,1,,1,1,2023,Al Batin
+2022-12-16,20:30,Pro League,Matchweek 9,Fri,Away,L,1.0,3.0,Al-Hilal,20.0,,Martín Campaña,5-4-1,Sandro Schärer,Match Report,,5,3,,0,0,2023,Al Batin
+2022-12-26,15:30,Pro League,Matchweek 10,Mon,Home,L,1.0,2.0,Al-Raed,41.0,,Martín Campaña,5-4-1,Mamdouh Mufreh Al Shahdan,Match Report,,10,3,,0,0,2023,Al Batin
+2022-12-31,15:30,Pro League,Matchweek 11,Sat,Away,L,0.0,4.0,Al-Ta'ee,37.0,,Martín Campaña,3-4-3,Shukri Hussein Al Hunfush,Match Report,,4,4,,0,0,2023,Al Batin
+2023-01-07,15:30,Pro League,Matchweek 12,Sat,Away,D,2.0,2.0,Al-Fayha,46.0,,Martín Campaña,5-4-1,Sultan Mohammed Al Akairi,Match Report,,9,5,,0,0,2023,Al Batin
+2023-01-14,15:30,Pro League,Matchweek 13,Sat,Home,L,1.0,2.0,Al-Ittihad,23.0,,Martín Campaña,4-1-4-1,Anastasios Sidiropoulos,Match Report,,4,1,,0,0,2023,Al Batin
+2023-01-19,15:30,Pro League,Matchweek 14,Thu,Away,D,1.0,1.0,Al-Adalah,56.0,,Martín Campaña,4-2-3-1,Abdullah Khaled Al Kharboush,Match Report,,9,2,,0,0,2023,Al Batin
+2023-02-02,18:00,Pro League,Matchweek 15,Thu,Home,L,0.0,1.0,Al-Taawoun,36.0,,Martín Campaña,4-2-3-1,Majed Mohammed Al Shamrani,Match Report,,16,5,,0,0,2023,Al Batin
+2023-02-09,16:00,Pro League,Matchweek 16,Thu,Home,L,2.0,4.0,Al-Shabab,31.0,,Martín Campaña,4-2-2-2,Abdullah Zafer Al Shehri,Match Report,,11,5,,0,0,2023,Al Batin
+2023-02-18,16:00,Pro League,Matchweek 17,Sat,Away,L,0.0,2.0,Al-Fateh,36.0,,Martín Campaña,4-2-2-2,Mohammed Saif Al Harbi,Match Report,,5,2,,0,0,2023,Al Batin
+2023-02-25,16:00,Pro League,Matchweek 18,Sat,Home,W,1.0,0.0,Al-Ettifaq,52.0,,Martín Campaña,4-2-3-1,Ahmed Mohammed Al Rumaikhani,Match Report,,13,6,,0,0,2023,Al Batin
+2023-03-03,20:30,Pro League,Matchweek 19,Fri,Away,L,1.0,3.0,Al-Nassr,30.0,,Martín Campaña,4-2-3-1,Sami Ahmed Al Jurays,Match Report,,7,2,,0,0,2023,Al Batin
+2023-03-09,16:00,Pro League,Matchweek 20,Thu,Home,W,1.0,0.0,Al-Khaleej,36.0,,Martín Campaña,4-2-3-1,Faisal Suleiman Al Balawi,Match Report,,9,4,,0,0,2023,Al Batin
+2023-03-17,16:00,Pro League,Matchweek 21,Fri,Away,L,0.0,1.0,Damac,57.0,,Martín Campaña,4-2-3-1,Mohammed Sami Al Ismail,Match Report,,11,1,,0,0,2023,Al Batin
+2023-04-05,22:00,Pro League,Matchweek 22,Wed,Home,W,2.0,0.0,Al-Wehda,38.0,,Martín Campaña,4-2-3-1,Mohammed Nasser Abu Shaqara,Match Report,,6,3,,1,1,2023,Al Batin
+2023-04-09,22:00,Pro League,Matchweek 23,Sun,Away,L,2.0,3.0,Abha,53.0,,Martín Campaña,4-2-2-2,Mohammed Saif Al Harbi,Match Report,,18,6,,0,0,2023,Al Batin
+2023-04-14,22:00,Pro League,Matchweek 24,Fri,Home,W,1.0,0.0,Al-Hilal,24.0,,Martín Campaña,4-4-1-1,Faisal Suleiman Al Balawi,Match Report,,14,6,,0,0,2023,Al Batin
+2023-05-02,19:00,Pro League,Matchweek 25,Tue,Away,L,1.0,3.0,Al-Raed,55.0,4380.0,Martín Campaña,4-2-2-2,Majed Mohammed Al Shamrani,Match Report,,14,3,,0,0,2023,Al Batin
+2023-05-10,19:00,Pro League,Matchweek 26,Wed,Home,W,4.0,3.0,Al-Ta'ee,46.0,,Martín Campaña,4-2-3-1,Mohammed Khaled Al Hoish,Match Report,,20,10,,1,1,2023,Al Batin
+2023-05-15,19:00,Pro League,Matchweek 27,Mon,Home,D,0.0,0.0,Al-Fayha,52.0,,Martín Campaña,4-2-3-1,Sultan Sanat Al Harbi,Match Report,,6,0,,0,0,2023,Al Batin
+2023-05-23,21:30,Pro League,Matchweek 28,Tue,Away,L,0.0,1.0,Al-Ittihad,38.0,,Martín Campaña,4-5-1,Tamás Bognár,Match Report,,3,0,,0,0,2023,Al Batin
+2023-05-27,21:00,Pro League,Matchweek 29,Sat,Home,D,2.0,2.0,Al-Adalah,46.0,,Mohammed Naji,4-5-1,Faisal Suleiman Al Balawi,Match Report,,6,2,,0,0,2023,Al Batin
+2023-05-31,21:00,Pro League,Matchweek 30,Wed,Away,L,1.0,3.0,Al-Taawoun,44.0,,Yousef Al Shammari,4-1-4-1,Turki Ali Hashlan,Match Report,,14,5,,0,0,2023,Al Batin
